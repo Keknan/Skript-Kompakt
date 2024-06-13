@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Starter/Test.md",
+                "file": "Elektromagnetismus/Elektrostatik/1.9 Generelles zum elektrischen Feld.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Starter/Test.md",
+                "file": "Elektromagnetismus/Elektrostatik/1.9 Generelles zum elektrischen Feld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Starter/Test.md",
+                "file": "Elektromagnetismus/Elektrostatik/1.9 Generelles zum elektrischen Feld.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Starter/Test.md"
+                "file": "Elektromagnetismus/Elektrostatik/1.9 Generelles zum elektrischen Feld.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "727aca02b2b68db6",
   "lastOpenFiles": [
-    "Elektromagnetismus/Elektromagnetismus.md",
-    "Elektromagnetismus/Elektrostatik/1.9 Generelles zum elektrischen Feld.md",
     "Starter/Test.md",
     "Elektromagnetismus/Elektrostatik/Untitled.md",
+    "Elektromagnetismus/Elektromagnetismus.md",
+    "Elektromagnetismus/Elektrostatik/1.9 Generelles zum elektrischen Feld.md",
     "Starter",
     "Files/Snippets.md",
     "Elektromagnetismus/Elektrostatik/1.3 Die elektrische Spannung.md",
