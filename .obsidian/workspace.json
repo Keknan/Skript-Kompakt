@@ -15,7 +15,7 @@
               "state": {
                 "file": "Elektromagnetismus/Elektrostatik/1.9 Generelles zum elektrischen Feld.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -158,6 +158,7 @@
   },
   "active": "262584659e806f6c",
   "lastOpenFiles": [
+    "Files/Pasted image 20240614132040.png",
     "Elektromagnetismus/Elektrostatik/1.2 Das Coulombgesetz.md",
     "Elektromagnetismus/Elektrostatik/1.1 Elektrische Ladungen.md",
     "Elektromagnetismus/Elektrostatik/1.0 Elektrostatik.md",
@@ -197,7 +198,6 @@
     "Files/daw.md",
     "1.1 Elektrostatik.md",
     "dein path.md",
-    "create a link.md",
     "Files",
     "uiuiui"
   ]
