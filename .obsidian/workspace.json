@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c7b0884aa601915d",
+        "id": "b84517f709272f08",
         "type": "tabs",
         "children": [
           {
-            "id": "727aca02b2b68db6",
+            "id": "262584659e806f6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Elektromagnetismus/Elektrostatik/1.9 Generelles zum elektrischen Feld.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -128,8 +128,17 @@
                 "file": "Elektromagnetismus/Elektrostatik/1.9 Generelles zum elektrischen Feld.md"
               }
             }
+          },
+          {
+            "id": "bc0afcfb22e639d7",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,26 +156,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "727aca02b2b68db6",
+  "active": "262584659e806f6c",
   "lastOpenFiles": [
-    "Starter/Test.md",
-    "Elektromagnetismus/Elektrostatik/Untitled.md",
-    "Elektromagnetismus/Elektromagnetismus.md",
-    "Elektromagnetismus/Elektrostatik/1.9 Generelles zum elektrischen Feld.md",
-    "Starter",
-    "Files/Snippets.md",
-    "Elektromagnetismus/Elektrostatik/1.3 Die elektrische Spannung.md",
     "Elektromagnetismus/Elektrostatik/1.2 Das Coulombgesetz.md",
     "Elektromagnetismus/Elektrostatik/1.1 Elektrische Ladungen.md",
     "Elektromagnetismus/Elektrostatik/1.0 Elektrostatik.md",
+    "Elektromagnetismus/Elektrostatik/1.6 Verknüpfung elektrischer Spannung und Flüsse.md",
+    "Elektromagnetismus/Elektrostatik/1.8 Energie im elektrischen Feld.md",
+    "Elektromagnetismus/Elektrostatik/1.9 Generelles zum elektrischen Feld.md",
+    "Elektromagnetismus/Elektromagnetismus.md",
+    "Starter/Test.md",
+    "Elektromagnetismus/Elektrostatik/Untitled.md",
+    "Starter",
+    "Files/Snippets.md",
+    "Elektromagnetismus/Elektrostatik/1.3 Die elektrische Spannung.md",
     "Files/Pasted image 20240613191458.png",
     "Files/Pasted image 20240613185941.png",
-    "Elektromagnetismus/Elektrostatik/1.8 Energie im elektrischen Feld.md",
     "Elektromagnetismus/Elektrostatik/1.7 Dielektrika.md",
     "Welcome.md",
     "Elektromagnetismus/Elektrostatik/Elektromagnetismus.md",
     "Files/Pasted image 20240612190555.png",
-    "Elektromagnetismus/Elektrostatik/1.6 Verknüpfung elektrischer Spannung und Flüsse.md",
     "Files/Pasted image 20240612185248.png",
     "Files/Pasted image 20240612184959.png",
     "Files/Pasted image 20240612184928.png",
