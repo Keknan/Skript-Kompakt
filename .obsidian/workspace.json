@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.3 Das elektrische Strömungsfeld.md",
+                "file": "Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.4 Der elektrische Widerstand und das Ohmsche Gesetz.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.3 Das elektrische Strömungsfeld.md",
+                "file": "Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.4 Der elektrische Widerstand und das Ohmsche Gesetz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.3 Das elektrische Strömungsfeld.md",
+                "file": "Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.4 Der elektrische Widerstand und das Ohmsche Gesetz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.3 Das elektrische Strömungsfeld.md"
+                "file": "Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.4 Der elektrische Widerstand und das Ohmsche Gesetz.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   "active": "d117bc6f5c627e97",
   "lastOpenFiles": [
     "Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.0 Elektrischer Strom und Widerstand - Inhalt.md",
+    "Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.4 Der elektrische Widerstand und das Ohmsche Gesetz.md",
     "Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.3 Das elektrische Strömungsfeld.md",
     "Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.2 Die elektrische Stromstärke.md",
     "Files/Pasted image 20240618152752.png",
@@ -197,7 +198,6 @@
     "Elektromagnetismus/2. Elektrischer Strom und Widerstand",
     "Elektromagnetismus/Elektrostatik/Kapitel 1; Elektrostatik.md",
     "Elektromagnetismus",
-    "Elektrostatik/Untitled.md",
     "Elektromagnetismus/1. Elektrostatik",
     "Files",
     "uiuiui"
