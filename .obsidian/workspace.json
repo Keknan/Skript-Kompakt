@@ -11,12 +11,8 @@
             "id": "d117bc6f5c627e97",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.4 Der elektrische Widerstand und das Ohmsche Gesetz.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.4 Der elektrische Widerstand und das Ohmsche Gesetz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.4 Der elektrische Widerstand und das Ohmsche Gesetz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.4 Der elektrische Widerstand und das Ohmsche Gesetz.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,49 +148,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d117bc6f5c627e97",
+  "active": "21d503e27084784f",
   "lastOpenFiles": [
-    "Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.0 Elektrischer Strom und Widerstand - Inhalt.md",
-    "Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.4 Der elektrische Widerstand und das Ohmsche Gesetz.md",
-    "Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.3 Das elektrische Strömungsfeld.md",
-    "Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.2 Die elektrische Stromstärke.md",
+    "Experimentalphysik II",
+    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.5 Formulierung der Ladungserhaltung.md",
+    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.0 Elektrischer Strom und Widerstand - Inhalt.md",
+    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.4 Der elektrische Widerstand und das Ohmsche Gesetz.md",
+    "Files/Pasted image 20240619133440.png",
+    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.2 Die elektrische Stromstärke.md",
+    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.3 Das elektrische Strömungsfeld.md",
+    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.2 Das Coulombgesetz.md",
+    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.1 Elektrische Ladungen.md",
+    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.0 Elektrostatik - Inhalt.md",
+    "Files/Pasted image 20240619124301.png",
     "Files/Pasted image 20240618152752.png",
-    "Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.1 Der elektrische Strom.md",
-    "Elektromagnetismus/1. Elektrostatik/1.8 Energie im elektrischen Feld.md",
-    "Elektromagnetismus/1. Elektrostatik/1.9 Generelles zum elektrischen Feld.md",
+    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.1 Der elektrische Strom.md",
+    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.8 Energie im elektrischen Feld.md",
+    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.9 Generelles zum elektrischen Feld.md",
     "Starter/Test.md",
     "create a link.md",
     "Dateiname.md",
     "Welcome.md",
     "Quarks.md",
-    "Elektromagnetismus/1. Elektrostatik/1.0 Elektrostatik - Inhalt.md",
-    "Elektromagnetismus/2. Elektrischer Strom und Widerstand",
+    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand",
     "Files/Snippets.md",
     "Files/Pasted image 20240615201139.png",
-    "Elektromagnetismus/1. Elektrostatik/1.6 Verknüpfung elektrischer Spannung und Flüsse.md",
+    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.6 Verknüpfung elektrischer Spannung und Flüsse.md",
     "Elektromagnetismus/Elektrostatik/1.md",
-    "Elektromagnetismus/1. Elektrostatik/1.7 Dielektrika.md",
-    "Elektromagnetismus/1. Elektrostatik/1.5 Der elektrische Fluss.md",
+    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.7 Dielektrika.md",
+    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.5 Der elektrische Fluss.md",
     "Files/Pasted image 20240614135450.png",
     "Files/Pasted image 20240614135402.png",
     "Files/Pasted image 20240614132040.png",
-    "Elektromagnetismus/1. Elektrostatik/1.2 Das Coulombgesetz.md",
-    "Elektromagnetismus/1. Elektrostatik/1.1 Elektrische Ladungen.md",
     "Elektromagnetismus/Elektromagnetismus.md",
     "Elektromagnetismus/Elektrostatik/Untitled.md",
     "Starter",
-    "Elektromagnetismus/1. Elektrostatik/1.3 Die elektrische Spannung.md",
+    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.3 Die elektrische Spannung.md",
     "Files/Pasted image 20240613191458.png",
     "Files/Pasted image 20240613185941.png",
     "Elektromagnetismus/Elektrostatik/Elektromagnetismus.md",
     "Files/Pasted image 20240612190555.png",
-    "Files/Pasted image 20240612185248.png",
-    "Files/Pasted image 20240612184959.png",
-    "Elektromagnetismus/1. Elektrostatik/1.4 Das elektrische Potential.md",
-    "Elektromagnetismus/2. Elektrischer Strom und Widerstand",
-    "Elektromagnetismus/Elektrostatik/Kapitel 1; Elektrostatik.md",
-    "Elektromagnetismus",
-    "Elektromagnetismus/1. Elektrostatik",
+    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand",
+    "Experimentalphysik II/Elektromagnetismus",
+    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik",
     "Files",
     "uiuiui"
   ]
