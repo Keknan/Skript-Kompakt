@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14069084
       }
+    },
+    {
+      "query": "3.0 Magneto",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 4.27083333333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.2414543899483177,
+  "scale": 0.45050811767578586,
   "close": true
 }
