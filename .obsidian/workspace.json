@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.7 Magnetisierbare Körper.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b595220c4fffefd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experimentalphysik II/Elektromagnetismus/4.0 Induktionserscheinungen/4.1 Die elektromagnetische Induktion.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.7 Magnetisierbare Körper.md",
+                "file": "Experimentalphysik II/Elektromagnetismus/4.0 Induktionserscheinungen/4.1 Die elektromagnetische Induktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.7 Magnetisierbare Körper.md",
+                "file": "Experimentalphysik II/Elektromagnetismus/4.0 Induktionserscheinungen/4.1 Die elektromagnetische Induktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.7 Magnetisierbare Körper.md"
+                "file": "Experimentalphysik II/Elektromagnetismus/4.0 Induktionserscheinungen/4.1 Die elektromagnetische Induktion.md"
               }
             }
           },
@@ -155,17 +168,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6bbd4c3e52f3d06",
+  "active": "b595220c4fffefd5",
   "lastOpenFiles": [
+    "Experimentalphysik II/Elektromagnetismus/4.0 Induktionserscheinungen/4.0 Induktionserscheinungen - Inhalt.md",
+    "Experimentalphysik II/Elektromagnetismus/4.0 Induktionserscheinungen/4.1 Die elektromagnetische Induktion.md",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.7 Magnetisierbare Körper.md",
+    "Experimentalphysik II/Elektromagnetismus/4.0 Induktionserscheinungen",
+    "Files/Pasted image 20240704162327.png",
+    "Files/Pasted image 20240704161859.png",
+    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.1 elektrische Ströme und Magnetismus.md",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.0 Magnetostatik - Inhalt.md",
-    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.6 Die Induktivität.md",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.5 Die magnetische Spannung.md",
+    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.6 Die Induktivität.md",
+    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.2 Das Coulombgesetz.md",
     "Files/Pasted image 20240703200508.png",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.3 Der magnetische Fluss.md",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.4 Methoden der Berechnung magnetischer Felder.md",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.2 Magnetische Kräfte.md",
-    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.1 elektrische Ströme und Magnetismus.md",
     "Files/Pasted image 20240701212434.png",
     "Files/Pasted image 20240701211452.png",
     "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.6 Die Kirchhoff-Regeln.md",
@@ -176,16 +195,12 @@
     "Files/Pasted image 20240701143635.png",
     "Files/Pasted image 20240701142035.png",
     "Files/Pasted image 20240701141855.png",
-    "Files/Pasted image 20240701130859.png",
-    "Files/Pasted image 20240701130042.png",
     "Files/Snippets.md",
-    "Untitled",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik",
     "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.0 Elektrischer Strom und Widerstand - Inhalt.md",
     "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.5 Formulierung der Ladungserhaltung.md",
     "Experimentalphysik II",
     "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.2 Die elektrische Stromstärke.md",
-    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.2 Das Coulombgesetz.md",
     "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.1 Elektrische Ladungen.md",
     "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.0 Elektrostatik - Inhalt.md",
     "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.1 Der elektrische Strom.md",
@@ -194,8 +209,6 @@
     "Starter/Test.md",
     "create a link.md",
     "Dateiname.md",
-    "Welcome.md",
-    "Quarks.md",
     "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand",
     "Starter",
     "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand",
