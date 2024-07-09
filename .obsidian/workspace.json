@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e33a28515e1a15a7",
+            "id": "87e8979825c3667c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.1 Ladungserhaltung und der Ampére-Maxwell-Satz.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.1 Ladungserhaltung und der Ampére-Maxwell-Satz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.1 Ladungserhaltung und der Ampére-Maxwell-Satz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.1 Ladungserhaltung und der Ampére-Maxwell-Satz.md"
+              }
             }
           },
           {
@@ -147,22 +155,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e33a28515e1a15a7",
+  "active": "87e8979825c3667c",
   "lastOpenFiles": [
+    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.0 Das elektromagnetische Feld-Inhalt.md",
+    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.1 Ladungserhaltung und der Ampére-Maxwell-Satz.md",
+    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.4 Resonanzerscheinungen.md",
+    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld",
     "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.3 Wechselstromkreise.md",
-    "Files/Pasted image 20240709014838.png",
+    "Files/Pasted image 20240709145450.png",
+    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.0 Elektrische Schaltkreise - Inhalt.md",
+    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/Untitled.md",
+    "Files/Pasted image 20240709144642.png",
+    "Files/Snippets.md",
+    "Experimentalphysik II/Hallo hallo.md",
+    "Höhere Mathematik I/Kapitel 1/1.1 Mengen und Mengenschreibweise.md",
+    "Höhere Mathematik I/Kapitel 1/1. Die reellen Zahlen.md",
+    "Höhere Mathematik I/Kapitel 1",
+    "Höhere Mathematik I",
     "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.2 Stromkreiselemente.md",
+    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.1 Energie und Leistung elektrischer Ströme.md",
+    "Files/Pasted image 20240709014838.png",
     "Files/Pasted image 20240709012432.png",
     "Files/Pasted image 20240709010940.png",
     "Files/Pasted image 20240709002847.png",
-    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.0 Elektrische Schaltkreise - Inhalt.md",
-    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.1 Energie und Leistung elektrischer Ströme.md",
     "Files/Pasted image 20240708180612.png",
     "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.2 Induktion in ruhenden Leitern.md",
     "Files/Pasted image 20240708175125.png",
     "Files/Pasted image 20240708174240.png",
     "Files/Pasted image 20240708174124.png",
-    "Files/Pasted image 20240708174108.png",
     "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.6 Verknüpfung elektrischer Spannung und Flüsse.md",
     "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.0 Elektrischer Strom und Widerstand - Inhalt.md",
     "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.1 Der elektrische Strom.md",
@@ -171,28 +191,17 @@
     "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.4 Der elektrische Widerstand und das Ohmsche Gesetz.md",
     "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.5 Formulierung der Ladungserhaltung.md",
     "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.6 Die Kirchhoff-Regeln.md",
-    "Files/Pasted image 20240708172157.png",
     "Experimentalphysik II/Elektromagnetismus/5 Elektrische Schaltkreise/5.2.md",
     "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.3 Das Induktionsgesetz in lokaler Darstellung.md",
     "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.4 Methoden der Berechnung magnetischer Felder.md",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.5 Die magnetische Spannung.md",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.6 Die Induktivität.md",
-    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.7 Magnetisierbare Körper.md",
-    "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.0 Induktionserscheinungen - Inhalt.md",
-    "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.1 Die elektromagnetische Induktion.md",
-    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.3 Der magnetische Fluss.md",
-    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.3 Die elektrische Spannung.md",
-    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.4 Das elektrische Potential.md",
     "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen",
-    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.1 elektrische Ströme und Magnetismus.md",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik",
     "Experimentalphysik II",
     "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand",
     "Starter",
-    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand",
-    "Experimentalphysik II/Elektromagnetismus",
-    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik",
-    "Files"
+    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand"
   ]
 }
