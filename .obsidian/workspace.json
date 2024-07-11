@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.3 Globale und lokale Eigenschaften.md",
+                "file": "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.1 Hertzscher Dipol.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "30b580f9ddaf6424",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.3 Globale und lokale Eigenschaften.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.3 Globale und lokale Eigenschaften.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.3 Globale und lokale Eigenschaften.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,13 +160,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87e8979825c3667c",
+  "active": "30b580f9ddaf6424",
   "lastOpenFiles": [
-    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.2 Die Existenz elektromagnetischer Wellen.md",
+    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.0 Elektromagnetische Wellen - Inhalt.md",
+    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.1 Hertzscher Dipol.md",
     "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.3 Globale und lokale Eigenschaften.md",
+    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen",
+    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.2 Die Existenz elektromagnetischer Wellen.md",
     "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.1 Ladungserhaltung und der Ampére-Maxwell-Satz.md",
     "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.0 Das elektromagnetische Feld-Inhalt.md",
-    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/Untitled.md",
     "Files/Pasted image 20240711142744.png",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.5 Die magnetische Spannung.md",
     "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.2 Induktion in ruhenden Leitern.md",
@@ -194,14 +201,12 @@
     "Höhere Mathematik I/Kapitel 1/1. Die reellen Zahlen.md",
     "Höhere Mathematik I/Kapitel 1",
     "Höhere Mathematik I",
-    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.2 Stromkreiselemente.md",
     "Files/Pasted image 20240709014838.png",
     "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise",
     "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik",
     "Experimentalphysik II",
     "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand",
-    "Starter",
-    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand"
+    "Starter"
   ]
 }
