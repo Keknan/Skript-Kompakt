@@ -11,8 +11,12 @@
             "id": "30b580f9ddaf6424",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.2 Ebene Wellen im freien Raum.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.2 Ebene Wellen im freien Raum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.2 Ebene Wellen im freien Raum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.2 Ebene Wellen im freien Raum.md"
+              }
             }
           },
           {
@@ -149,19 +157,25 @@
   },
   "active": "30b580f9ddaf6424",
   "lastOpenFiles": [
-    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.2 Ebene Wellen im freien Raum.md",
+    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.3 Globale und lokale Eigenschaften.md",
+    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.1 Ladungserhaltung und der Ampére-Maxwell-Satz.md",
     "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.0 Elektromagnetische Wellen - Inhalt.md",
+    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.2 Ebene Wellen im freien Raum.md",
+    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.2 Die Existenz elektromagnetischer Wellen.md",
     "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.1 Hertzscher Dipol.md",
+    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.5 Der elektrische Fluss.md",
+    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.4 Das elektrische Potential.md",
+    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.3 Die elektrische Spannung.md",
+    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.2 Das Coulombgesetz.md",
+    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.1 Elektrische Ladungen.md",
+    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.0 Elektrostatik - Inhalt.md",
     "Files/Pasted image 20240711194318.png",
     "Files/Pasted image 20240711193540.png",
     "Files/Pasted image 20240711193315.png",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.7 Magnetisierbare Körper.md",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.6 Die Induktivität.md",
     "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.4 Resonanzerscheinungen.md",
-    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.3 Globale und lokale Eigenschaften.md",
     "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen",
-    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.2 Die Existenz elektromagnetischer Wellen.md",
-    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.1 Ladungserhaltung und der Ampére-Maxwell-Satz.md",
     "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.0 Das elektromagnetische Feld-Inhalt.md",
     "Files/Pasted image 20240711142744.png",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.5 Die magnetische Spannung.md",
@@ -172,7 +186,6 @@
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.3 Der magnetische Fluss.md",
     "Files/Pasted image 20240711132247.png",
     "Files/Pasted image 20240709202135.png",
-    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.5 Der elektrische Fluss.md",
     "Files/Pasted image 20240709192244.png",
     "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.5 Formulierung der Ladungserhaltung.md",
     "Files/Pasted image 20240709191030.png",
@@ -182,11 +195,6 @@
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.4 Methoden der Berechnung magnetischer Felder.md",
     "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld",
     "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.3 Wechselstromkreise.md",
-    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.0 Elektrische Schaltkreise - Inhalt.md",
-    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/Untitled.md",
-    "Files/Snippets.md",
-    "Experimentalphysik II/Hallo hallo.md",
-    "Höhere Mathematik I/Kapitel 1/1.1 Mengen und Mengenschreibweise.md",
     "Höhere Mathematik I/Kapitel 1",
     "Höhere Mathematik I",
     "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise",
