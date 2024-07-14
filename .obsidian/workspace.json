@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.2 Temperatur und das Gasthermometer.md",
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.5 Wärmeenergie und Wärmekapazität.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.2 Temperatur und das Gasthermometer.md",
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.5 Wärmeenergie und Wärmekapazität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.2 Temperatur und das Gasthermometer.md",
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.5 Wärmeenergie und Wärmekapazität.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.2 Temperatur und das Gasthermometer.md"
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.5 Wärmeenergie und Wärmekapazität.md"
               }
             }
           },
@@ -157,8 +157,18 @@
   },
   "active": "9479ff834acb17c5",
   "lastOpenFiles": [
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10. Wärmelehre - Inhalt.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.0 Wärmelehre - Inhalt.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.5 Wärmeenergie und Wärmekapazität.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.4 Längen- und Volumenausdehnung.md",
+    "Files/Pasted image 20240714205605.png",
+    "Files/Pasted image 20240714204546.png",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.3 Temperatur-Skalen und die absolute Temperatur.md",
+    "Files/Pasted image 20240714202824.png",
+    "Files/Pasted image 20240714201635.png",
+    "Files/Pasted image 20240714200932.png",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.2 Temperatur und das Gasthermometer.md",
+    "Files/Pasted image 20240714195750.png",
+    "Files/Pasted image 20240714194749.png",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md",
     "Files/Snippets.md",
     "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.1 Ladungserhaltung und der Ampére-Maxwell-Satz.md",
@@ -185,18 +195,8 @@
     "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.3 Wechselstromkreise.md",
     "Files/Pasted image 20240713143432.png",
     "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.8 Energie im elektrischen Feld.md",
-    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.6 Verknüpfung elektrischer Spannung und Flüsse.md",
-    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.5 Der elektrische Fluss.md",
-    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.0 Elektromagnetische Wellen - Inhalt.md",
     "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus",
     "Files/Pasted image 20240712235324.png",
-    "Files/Pasted image 20240712231116.png",
-    "Files/Pasted image 20240712225350.png",
-    "Files/Pasted image 20240712224505.png",
-    "Files/Pasted image 20240712202433.png",
-    "Files/Pasted image 20240712201327.png",
-    "Files/Pasted image 20240712201204.png",
-    "Files/Pasted image 20240712200223.png",
     "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen",
     "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld",
     "Höhere Mathematik I/Kapitel 1",
