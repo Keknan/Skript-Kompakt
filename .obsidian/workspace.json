@@ -11,8 +11,12 @@
             "id": "9479ff834acb17c5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md"
+              }
             }
           },
           {
@@ -149,7 +157,9 @@
   },
   "active": "9479ff834acb17c5",
   "lastOpenFiles": [
+    "Files/Snippets.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md",
+    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.1 Ladungserhaltung und der Ampére-Maxwell-Satz.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10. Wärmelehre - Inhalt.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 nergie, Entropie und Temperatur.md",
     "Experimentalphysik II/Elektromagnetismus/9. Die Maxwell-Gleichungen/9.1 Die Maxwell-Gleichungen.md",
@@ -167,7 +177,6 @@
     "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.1 Hertzscher Dipol.md",
     "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.3 Globale und lokale Eigenschaften.md",
     "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.2 Die Existenz elektromagnetischer Wellen.md",
-    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.1 Ladungserhaltung und der Ampére-Maxwell-Satz.md",
     "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.0 Das elektromagnetische Feld-Inhalt.md",
     "Files/Pasted image 20240713151926.png",
     "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus/8.0 Energie im Elektromagnetismus - Inhalt.md",
@@ -188,7 +197,6 @@
     "Files/Pasted image 20240712201327.png",
     "Files/Pasted image 20240712201204.png",
     "Files/Pasted image 20240712200223.png",
-    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.4 Das elektrische Potential.md",
     "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen",
     "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld",
     "Höhere Mathematik I/Kapitel 1",
