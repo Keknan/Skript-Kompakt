@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md",
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.2 Temperatur und das Gasthermometer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md",
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.2 Temperatur und das Gasthermometer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md",
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.2 Temperatur und das Gasthermometer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md"
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.2 Temperatur und das Gasthermometer.md"
               }
             }
           },
@@ -157,10 +157,11 @@
   },
   "active": "9479ff834acb17c5",
   "lastOpenFiles": [
-    "Files/Snippets.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md",
-    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.1 Ladungserhaltung und der Ampére-Maxwell-Satz.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10. Wärmelehre - Inhalt.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.2 Temperatur und das Gasthermometer.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md",
+    "Files/Snippets.md",
+    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.1 Ladungserhaltung und der Ampére-Maxwell-Satz.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 nergie, Entropie und Temperatur.md",
     "Experimentalphysik II/Elektromagnetismus/9. Die Maxwell-Gleichungen/9.1 Die Maxwell-Gleichungen.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik",
@@ -189,7 +190,6 @@
     "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.0 Elektromagnetische Wellen - Inhalt.md",
     "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus",
     "Files/Pasted image 20240712235324.png",
-    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.2 Magnetische Kräfte.md",
     "Files/Pasted image 20240712231116.png",
     "Files/Pasted image 20240712225350.png",
     "Files/Pasted image 20240712224505.png",
