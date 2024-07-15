@@ -132,6 +132,8 @@
 	{trigger: "!>", replacement: "\\mapsto", options: "mA"},
     {trigger: "=>", replacement: "\\implies", options: "mA"},
 	{trigger: "=<", replacement: "\\impliedby", options: "mA"},
+	{trigger: "iin", replacement: "\\swarrow", options: "mA"},
+	{trigger: "oout", replacement: "\\nearrow", options: "mA"},
 
 	{trigger: "and", replacement: "\\cap", options: "mA"},
 	{trigger: "orr", replacement: "\\cup", options: "mA"},
