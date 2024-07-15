@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.5 Wärmeenergie und Wärmekapazität.md",
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.9 Ideale Gase.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.5 Wärmeenergie und Wärmekapazität.md",
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.9 Ideale Gase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.5 Wärmeenergie und Wärmekapazität.md",
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.9 Ideale Gase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.5 Wärmeenergie und Wärmekapazität.md"
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.9 Ideale Gase.md"
               }
             }
           },
@@ -157,24 +157,32 @@
   },
   "active": "9479ff834acb17c5",
   "lastOpenFiles": [
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.0 Wärmelehre - Inhalt.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.9 Ideale Gase.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.8 Der Erste Hauptsatz der Thermodynamik.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.7 Der Nullte Hauptsatz der Thermodynamik.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.6 Wärmetransport.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.5 Wärmeenergie und Wärmekapazität.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.4 Längen- und Volumenausdehnung.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.3 Temperatur-Skalen und die absolute Temperatur.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.2 Temperatur und das Gasthermometer.md",
+    "Files/Pasted image 20240715213247.png",
+    "Files/Pasted image 20240715211720.png",
+    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.5 Formulierung der Ladungserhaltung.md",
+    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.4 Der elektrische Widerstand und das Ohmsche Gesetz.md",
     "Files/Pasted image 20240715203518.png",
     "Files/Snippets.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.5 Wärmeenergie und Wärmekapazität.md",
     "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.3 Die elektrische Spannung.md",
     "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.4 Das elektrische Potential.md",
     "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus/8.3 Energiespeicherung im elektromagnetischen Feld.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.0 Wärmelehre - Inhalt.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.4 Längen- und Volumenausdehnung.md",
     "Files/Pasted image 20240714205605.png",
     "Files/Pasted image 20240714204546.png",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.3 Temperatur-Skalen und die absolute Temperatur.md",
     "Files/Pasted image 20240714202824.png",
     "Files/Pasted image 20240714201635.png",
     "Files/Pasted image 20240714200932.png",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.2 Temperatur und das Gasthermometer.md",
     "Files/Pasted image 20240714195750.png",
     "Files/Pasted image 20240714194749.png",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md",
     "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.1 Ladungserhaltung und der Ampére-Maxwell-Satz.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 nergie, Entropie und Temperatur.md",
     "Experimentalphysik II/Elektromagnetismus/9. Die Maxwell-Gleichungen/9.1 Die Maxwell-Gleichungen.md",
@@ -188,15 +196,7 @@
     "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.4 Wellen auf Leitungen.md",
     "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.3 Stehende Wellen.md",
     "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.2 Ebene Wellen im freien Raum.md",
-    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.1 Hertzscher Dipol.md",
-    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.3 Globale und lokale Eigenschaften.md",
-    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.2 Die Existenz elektromagnetischer Wellen.md",
-    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.0 Das elektromagnetische Feld-Inhalt.md",
-    "Files/Pasted image 20240713151926.png",
-    "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus/8.0 Energie im Elektromagnetismus - Inhalt.md",
-    "Files/Pasted image 20240713143432.png",
     "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus",
-    "Files/Pasted image 20240712235324.png",
     "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen",
     "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld",
     "Höhere Mathematik I/Kapitel 1",
