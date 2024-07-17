@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
+                "file": "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.3 Der magnetische Fluss.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
+                "file": "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.3 Der magnetische Fluss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
+                "file": "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.3 Der magnetische Fluss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md"
+                "file": "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.3 Der magnetische Fluss.md"
               }
             }
           },
@@ -157,10 +157,15 @@
   },
   "active": "9479ff834acb17c5",
   "lastOpenFiles": [
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauotsatz der Thermodynamik.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.9 Ideale Gase.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
+    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.2 Magnetische Kräfte.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.12 Reale Gase und Flüssigkeiten.md",
+    "Files/Pasted image 20240717195525.png",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.0 Wärmelehre - Inhalt.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
+    "Files/Pasted image 20240717191317.png",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.9 Ideale Gase.md",
+    "Files/Pasted image 20240717190718.png",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauotsatz der Thermodynamik.md",
     "Files/Pasted image 20240717174952.png",
     "Files/Pasted image 20240716203115.png",
     "Files/Pasted image 20240716202617.png",
@@ -169,9 +174,6 @@
     "Files/Pasted image 20240716200132.png",
     "Files/Pasted image 20240716195153.png",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.8 Der Erste Hauptsatz der Thermodynamik.md",
-    "Files/Pasted image 20240716193619.png",
-    "Files/Pasted image 20240716193338.png",
-    "Files/Pasted image 20240716192945.png",
     "Files/Snippets.md",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.3 Der magnetische Fluss.md",
     "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.0 Elektrostatik - Inhalt.md",
@@ -191,7 +193,6 @@
     "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.4 Der elektrische Widerstand und das Ohmsche Gesetz.md",
     "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.3 Die elektrische Spannung.md",
     "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.4 Das elektrische Potential.md",
-    "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus/8.3 Energiespeicherung im elektromagnetischen Feld.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik",
     "Experimentalphysik II/Wärmelehre",
     "Experimentalphysik II/Elektromagnetismus/9. Die Maxwell-Gleichungen",
