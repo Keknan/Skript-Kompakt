@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
+                "file": "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.2 Stromkreiselemente.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
+                "file": "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.2 Stromkreiselemente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
+                "file": "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.2 Stromkreiselemente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md"
+                "file": "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.2 Stromkreiselemente.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "420f90e9e61c4899",
   "lastOpenFiles": [
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.9 Ideale Gase.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.12 Reale Gase und Flüssigkeiten.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.5 Wärmeenergie und Wärmekapazität.md",
     "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.4 Der elektrische Widerstand und das Ohmsche Gesetz.md",
@@ -179,7 +180,6 @@
     "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.3 Wechselstromkreise.md",
     "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.2 Stromkreiselemente.md",
     "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.3 Das Induktionsgesetz in lokaler Darstellung.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.9 Ideale Gase.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.8 Der Erste Hauptsatz der Thermodynamik.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.4 Längen- und Volumenausdehnung.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.3 Temperatur-Skalen und die absolute Temperatur.md",
