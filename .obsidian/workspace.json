@@ -11,8 +11,12 @@
             "id": "420f90e9e61c4899",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.12 Reale Gase und Flüssigkeiten.md",
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.12 Reale Gase und Flüssigkeiten.md",
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.12 Reale Gase und Flüssigkeiten.md"
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md"
               }
             }
           },
@@ -151,10 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21d503e27084784f",
+  "active": "420f90e9e61c4899",
   "lastOpenFiles": [
-    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.7 Magnetisierbare Körper.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.9 Ideale Gase.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
+    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.4 Methoden der Berechnung magnetischer Felder.md",
+    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.3 Der magnetische Fluss.md",
+    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.7 Magnetisierbare Körper.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.6 Wärmetransport.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.5 Wärmeenergie und Wärmekapazität.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.4 Längen- und Volumenausdehnung.md",
@@ -171,13 +178,10 @@
     "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus/8.4 Energietransport.md",
     "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus/8.3 Energiespeicherung im elektromagnetischen Feld.md",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.5 Die magnetische Spannung.md",
-    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.4 Methoden der Berechnung magnetischer Felder.md",
-    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.3 Der magnetische Fluss.md",
     "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.3 Wechselstromkreise.md",
     "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.2 Stromkreiselemente.md",
     "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.1 Energie und Leistung elektrischer Ströme.md",
     "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.0 Elektrische Schaltkreise - Inhalt.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
     "Files/Pasted image 20240717222807.png",
     "Files/Pasted image 20240717222759.png",
     "Files/Pasted image 20240717220044.png",
