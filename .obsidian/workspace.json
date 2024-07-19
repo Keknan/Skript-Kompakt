@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "24e7a6c40b8d2926",
+        "id": "b01058fb8894232b",
         "type": "tabs",
         "children": [
           {
-            "id": "9479ff834acb17c5",
+            "id": "420f90e9e61c4899",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.12 Reale Gase und Flüssigkeiten.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -155,7 +151,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9479ff834acb17c5",
+  "active": "21d503e27084784f",
   "lastOpenFiles": [
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.7 Magnetisierbare Körper.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.9 Ideale Gase.md",
