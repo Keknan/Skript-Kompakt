@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
+                "file": "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.1 Die elektromagnetische Induktion.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
+                "file": "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.1 Die elektromagnetische Induktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
+                "file": "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.1 Die elektromagnetische Induktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md"
+                "file": "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.1 Die elektromagnetische Induktion.md"
               }
             }
           },
@@ -157,8 +157,11 @@
   },
   "active": "420f90e9e61c4899",
   "lastOpenFiles": [
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
+    "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.2 Induktion in ruhenden Leitern.md",
+    "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.1 Die elektromagnetische Induktion.md",
+    "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.0 Induktionserscheinungen - Inhalt.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.9 Ideale Gase.md",
     "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus/8.4 Energietransport.md",
     "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus/8.3 Energiespeicherung im elektromagnetischen Feld.md",
@@ -180,9 +183,6 @@
     "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.3 Globale und lokale Eigenschaften.md",
     "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.1 Ladungserhaltung und der Ampére-Maxwell-Satz.md",
     "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.2 Die elektrische Stromstärke.md",
-    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.1 Der elektrische Strom.md",
-    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.0 Elektrischer Strom und Widerstand - Inhalt.md",
-    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.3 Wechselstromkreise.md",
     "Files/Pasted image 20240717222807.png",
     "Files/Pasted image 20240717222759.png",
     "Files/Pasted image 20240717220044.png",
