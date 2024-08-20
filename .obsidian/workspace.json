@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/2.2 Der Raum und seine Geometrie.md",
+                "file": "Experimentalphysik I/Mechanik/2.3 Körper und Teilchen, Masse und Stoffmenge.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/2.2 Der Raum und seine Geometrie.md",
+                "file": "Experimentalphysik I/Mechanik/2.3 Körper und Teilchen, Masse und Stoffmenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/2.2 Der Raum und seine Geometrie.md",
+                "file": "Experimentalphysik I/Mechanik/2.3 Körper und Teilchen, Masse und Stoffmenge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/2.2 Der Raum und seine Geometrie.md"
+                "file": "Experimentalphysik I/Mechanik/2.3 Körper und Teilchen, Masse und Stoffmenge.md"
               }
             }
           },
@@ -171,7 +171,11 @@
   "active": "d33645363067ca9b",
   "lastOpenFiles": [
     "Experimentalphysik I/Mechanik/2.0 Grundgrößen der Physik.md",
+    "Experimentalphysik I/Mechanik/2.3 Körper und Teilchen, Masse und Stoffmenge.md",
     "Experimentalphysik I/Mechanik/2.2 Der Raum und seine Geometrie.md",
+    "Files/Pasted image 20240820183625.png",
+    "Files/Pasted image 20240820182855.png",
+    "Files/Pasted image 20240820182302.png",
     "Experimentalphysik I/Mechanik/2.1 Die Zeit.md",
     "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.1 Die elektromagnetische Induktion.md",
     "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik",
@@ -198,7 +202,6 @@
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.7 Magnetisierbare Körper.md",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.3 Der magnetische Fluss.md",
     "Experimentalphysik II/Elektromagnetismus/9. Die Maxwell-Gleichungen/9.1 Die Maxwell-Gleichungen.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.6 Wärmetransport.md",
     "Files/Pasted image 20240717222807.png",
     "Files/Pasted image 20240717222759.png",
     "Files/Pasted image 20240717220044.png",
@@ -206,9 +209,6 @@
     "Files/Pasted image 20240717191317.png",
     "Files/Pasted image 20240717190718.png",
     "Files/Pasted image 20240717174952.png",
-    "Files/Pasted image 20240716203115.png",
-    "Files/Pasted image 20240716202617.png",
-    "Files/Pasted image 20240716201730.png",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik",
     "Experimentalphysik II/Wärmelehre",
     "Experimentalphysik II/Elektromagnetismus/9. Die Maxwell-Gleichungen",
