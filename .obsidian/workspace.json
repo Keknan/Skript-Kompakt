@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d33645363067ca9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experimentalphysik I/Mechanik/2.2 Der Raum und seine Geometrie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.1 Die elektromagnetische Induktion.md",
+                "file": "Experimentalphysik I/Mechanik/2.2 Der Raum und seine Geometrie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.1 Die elektromagnetische Induktion.md",
+                "file": "Experimentalphysik I/Mechanik/2.2 Der Raum und seine Geometrie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.1 Die elektromagnetische Induktion.md"
+                "file": "Experimentalphysik I/Mechanik/2.2 Der Raum und seine Geometrie.md"
               }
             }
           },
@@ -155,10 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "420f90e9e61c4899",
+  "active": "d33645363067ca9b",
   "lastOpenFiles": [
-    "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.2 Induktion in ruhenden Leitern.md",
+    "Experimentalphysik I/Mechanik/2.0 Grundgrößen der Physik.md",
+    "Experimentalphysik I/Mechanik/2.2 Der Raum und seine Geometrie.md",
+    "Experimentalphysik I/Mechanik/2.1 Die Zeit.md",
     "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.1 Die elektromagnetische Induktion.md",
+    "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik",
+    "Experimentalphysik I/Mechanik",
+    "Experimentalphysik I",
+    "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.2 Induktion in ruhenden Leitern.md",
     "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.0 Induktionserscheinungen - Inhalt.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
@@ -180,9 +199,6 @@
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.3 Der magnetische Fluss.md",
     "Experimentalphysik II/Elektromagnetismus/9. Die Maxwell-Gleichungen/9.1 Die Maxwell-Gleichungen.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.6 Wärmetransport.md",
-    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.3 Globale und lokale Eigenschaften.md",
-    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.1 Ladungserhaltung und der Ampére-Maxwell-Satz.md",
-    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.2 Die elektrische Stromstärke.md",
     "Files/Pasted image 20240717222807.png",
     "Files/Pasted image 20240717222759.png",
     "Files/Pasted image 20240717220044.png",
@@ -199,9 +215,6 @@
     "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus",
     "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen",
     "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld",
-    "Höhere Mathematik I/Kapitel 1",
-    "Höhere Mathematik I",
-    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise",
-    "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen"
+    "Höhere Mathematik I/Kapitel 1"
   ]
 }
