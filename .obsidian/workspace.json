@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/2.4 Physikalische Größen.md",
+                "file": "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.4 Wellen auf Leitungen.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/2.4 Physikalische Größen.md",
+                "file": "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.4 Wellen auf Leitungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/2.4 Physikalische Größen.md",
+                "file": "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.4 Wellen auf Leitungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/2.4 Physikalische Größen.md"
+                "file": "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.4 Wellen auf Leitungen.md"
               }
             }
           },
@@ -170,8 +170,11 @@
   },
   "active": "d33645363067ca9b",
   "lastOpenFiles": [
-    "Experimentalphysik I/Mechanik/2.0 Grundgrößen der Physik.md",
     "Experimentalphysik I/Mechanik/2.4 Physikalische Größen.md",
+    "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.3 Das Induktionsgesetz in lokaler Darstellung.md",
+    "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.2 Induktion in ruhenden Leitern.md",
+    "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.1 Die elektromagnetische Induktion.md",
+    "Experimentalphysik I/Mechanik/2.0 Grundgrößen der Physik.md",
     "Experimentalphysik I/Mechanik/2.3 Körper und Teilchen, Masse und Stoffmenge.md",
     "Files/Pasted image 20240820204735.png",
     "Files/Pasted image 20240820204230.png",
@@ -180,11 +183,9 @@
     "Files/Pasted image 20240820183625.png",
     "Files/Pasted image 20240820182855.png",
     "Files/Pasted image 20240820182302.png",
-    "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.1 Die elektromagnetische Induktion.md",
     "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik",
     "Experimentalphysik I/Mechanik",
     "Experimentalphysik I",
-    "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.2 Induktion in ruhenden Leitern.md",
     "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.0 Induktionserscheinungen - Inhalt.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
@@ -203,7 +204,6 @@
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.4 Methoden der Berechnung magnetischer Felder.md",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.6 Die Induktivität.md",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.7 Magnetisierbare Körper.md",
-    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.3 Der magnetische Fluss.md",
     "Files/Pasted image 20240717222807.png",
     "Files/Pasted image 20240717222759.png",
     "Files/Pasted image 20240717220044.png",
