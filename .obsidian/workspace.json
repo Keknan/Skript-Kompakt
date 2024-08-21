@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.4 Wellen auf Leitungen.md",
+                "file": "Experimentalphysik I/Mechanik/2.4 Physikalische Größen.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.4 Wellen auf Leitungen.md",
+                "file": "Experimentalphysik I/Mechanik/2.4 Physikalische Größen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.4 Wellen auf Leitungen.md",
+                "file": "Experimentalphysik I/Mechanik/2.4 Physikalische Größen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.4 Wellen auf Leitungen.md"
+                "file": "Experimentalphysik I/Mechanik/2.4 Physikalische Größen.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "d33645363067ca9b",
   "lastOpenFiles": [
+    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.4 Wellen auf Leitungen.md",
     "Experimentalphysik I/Mechanik/2.4 Physikalische Größen.md",
     "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.3 Das Induktionsgesetz in lokaler Darstellung.md",
     "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.2 Induktion in ruhenden Leitern.md",
@@ -203,7 +204,6 @@
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.5 Die magnetische Spannung.md",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.4 Methoden der Berechnung magnetischer Felder.md",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.6 Die Induktivität.md",
-    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.7 Magnetisierbare Körper.md",
     "Files/Pasted image 20240717222807.png",
     "Files/Pasted image 20240717222759.png",
     "Files/Pasted image 20240717220044.png",
