@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.7 Gleichförmig beschleunigte Bewegung.md",
+                "file": "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.8 Bewegung mir nicht-konstanter Beschleunigung.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.7 Gleichförmig beschleunigte Bewegung.md",
+                "file": "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.8 Bewegung mir nicht-konstanter Beschleunigung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.7 Gleichförmig beschleunigte Bewegung.md",
+                "file": "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.8 Bewegung mir nicht-konstanter Beschleunigung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.7 Gleichförmig beschleunigte Bewegung.md"
+                "file": "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.8 Bewegung mir nicht-konstanter Beschleunigung.md"
               }
             }
           },
@@ -157,11 +157,15 @@
   },
   "active": "8c8323098e58b2ca",
   "lastOpenFiles": [
+    "Files/Pasted image 20240822201658.png",
+    "Files/Pasted image 20240822201252.png",
+    "Files/Pasted image 20240822200644.png",
+    "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.0 Kinematik des Massenpunktes - Inhalt.md",
+    "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.8 Bewegung mir nicht-konstanter Beschleunigung.md",
+    "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.7 Gleichförmig beschleunigte Bewegung.md",
     "Files/Pasted image 20240822193738.png",
     "Files/Pasted image 20240822193316.png",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.5 Geschwindigkeitsvektor.md",
-    "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.7 Gleichförmig beschleunigte Bewegung.md",
-    "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.0 Kinematik des Massenpunktes - Inhalt.md",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.6 Beschleunigkeitsvektor.md",
     "Files/Pasted image 20240822184321.png",
     "Files/Pasted image 20240822183459.png",
@@ -172,9 +176,6 @@
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.3 Koordinaten und Bezugssystem.md",
     "Files/Pasted image 20240821192545.png",
     "Files/Pasted image 20240821192432.png",
-    "Files/Pasted image 20240821191326.png",
-    "Files/Pasted image 20240821191030.png",
-    "Files/Pasted image 20240821184334.png",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.1 Massenpunkt.md",
     "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik/2.0 Grundgrößen der Physik - Inhalt.md",
     "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik/2.5 Messgenauigkeit und Messunsicherheit.md",
@@ -196,7 +197,6 @@
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.9 Ideale Gase.md",
     "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus/8.4 Energietransport.md",
-    "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus/8.3 Energiespeicherung im elektromagnetischen Feld.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik",
     "Experimentalphysik II/Wärmelehre",
     "Experimentalphysik II/Elektromagnetismus/9. Die Maxwell-Gleichungen",
