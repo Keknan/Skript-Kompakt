@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.1 Impuls.md",
+                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.2 Das zweite Newton'sche Axiom;  Aktonsprinzip.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.1 Impuls.md",
+                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.2 Das zweite Newton'sche Axiom;  Aktonsprinzip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.1 Impuls.md",
+                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.2 Das zweite Newton'sche Axiom;  Aktonsprinzip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.1 Impuls.md"
+                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.2 Das zweite Newton'sche Axiom;  Aktonsprinzip.md"
               }
             }
           },
@@ -170,9 +170,12 @@
   },
   "active": "d813179d3222db30",
   "lastOpenFiles": [
-    "Files/Pasted image 20240824181628.png",
+    "Files/Pasted image 20240824190522.png",
+    "Files/Pasted image 20240824190226.png",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.0 Dynamik des Massenpunktes - Inhalt.md",
+    "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.2 Das zweite Newton'sche Axiom;  Aktonsprinzip.md",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.1 Impuls.md",
+    "Files/Pasted image 20240824181628.png",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.8 Bewegung mir nicht-konstanter Beschleunigung.md",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes",
     "Files/Pasted image 20240824174846.png",
@@ -191,8 +194,6 @@
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.1 Massenpunkt.md",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.0 Kinematik des Massenpunktes - Inhalt.md",
     "Files/Pasted image 20240822210205.png",
-    "Files/Pasted image 20240822201658.png",
-    "Files/Pasted image 20240822201252.png",
     "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik/2.0 Grundgrößen der Physik - Inhalt.md",
     "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik/2.5 Messgenauigkeit und Messunsicherheit.md",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes",
@@ -210,7 +211,6 @@
     "Experimentalphysik I",
     "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.0 Induktionserscheinungen - Inhalt.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik",
     "Experimentalphysik II/Wärmelehre",
     "Experimentalphysik II/Elektromagnetismus/9. Die Maxwell-Gleichungen",
