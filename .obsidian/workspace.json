@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.8 Bewegung mir nicht-konstanter Beschleunigung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d813179d3222db30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.2 Das zweite Newton'sche Axiom;  Aktonsprinzip.md",
+                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.5 Anwendung der Impulserhaltung.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.2 Das zweite Newton'sche Axiom;  Aktonsprinzip.md",
+                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.5 Anwendung der Impulserhaltung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.2 Das zweite Newton'sche Axiom;  Aktonsprinzip.md",
+                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.5 Anwendung der Impulserhaltung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.2 Das zweite Newton'sche Axiom;  Aktonsprinzip.md"
+                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.5 Anwendung der Impulserhaltung.md"
               }
             }
           },
@@ -168,24 +155,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d813179d3222db30",
+  "active": "8c8323098e58b2ca",
   "lastOpenFiles": [
+    "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.0 Dynamik des Massenpunktes - Inhalt.md",
+    "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.5 Anwendung der Impulserhaltung.md",
+    "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.4 Das dritte Newton'sche Axiom; Aktion=-Reaktion.md",
+    "Files/Pasted image 20240824202937.png",
+    "Files/Pasted image 20240824202931.png",
+    "Files/Pasted image 20240824202412.png",
+    "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.3 Das erste Newton'sche Axiom; Trägheitsprinzip.md",
+    "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.2 Das zweite Newton'sche Axiom;  Aktonsprinzip.md",
+    "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.8 Bewegung mir nicht-konstanter Beschleunigung.md",
+    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.2 Das Coulombgesetz.md",
+    "Files/Pasted image 20240824193531.png",
     "Files/Pasted image 20240824190522.png",
     "Files/Pasted image 20240824190226.png",
-    "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.0 Dynamik des Massenpunktes - Inhalt.md",
-    "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.2 Das zweite Newton'sche Axiom;  Aktonsprinzip.md",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.1 Impuls.md",
     "Files/Pasted image 20240824181628.png",
-    "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.8 Bewegung mir nicht-konstanter Beschleunigung.md",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes",
     "Files/Pasted image 20240824174846.png",
     "Files/Pasted image 20240824172407.png",
     "Files/Pasted image 20240824171808.png",
-    "Files/Pasted image 20240824171131.png",
-    "Files/Pasted image 20240823181114.png",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.7 Gleichförmig beschleunigte Bewegung.md",
-    "Files/Pasted image 20240823173158.png",
-    "Files/Pasted image 20240823172302.png",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.6 Beschleunigkeitsvektor.md",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.5 Geschwindigkeitsvektor.md",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.4 Ortsvektor.md",
@@ -193,7 +184,6 @@
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.2 Bewegung.md",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.1 Massenpunkt.md",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.0 Kinematik des Massenpunktes - Inhalt.md",
-    "Files/Pasted image 20240822210205.png",
     "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik/2.0 Grundgrößen der Physik - Inhalt.md",
     "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik/2.5 Messgenauigkeit und Messunsicherheit.md",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes",
@@ -205,12 +195,9 @@
     "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.1 Die elektromagnetische Induktion.md",
     "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik/2.3 Körper und Teilchen, Masse und Stoffmenge.md",
     "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik/2.2 Der Raum und seine Geometrie.md",
-    "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik/2.1 Die Zeit.md",
     "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik",
     "Experimentalphysik I/Mechanik",
     "Experimentalphysik I",
-    "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.0 Induktionserscheinungen - Inhalt.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik",
     "Experimentalphysik II/Wärmelehre",
     "Experimentalphysik II/Elektromagnetismus/9. Die Maxwell-Gleichungen",
