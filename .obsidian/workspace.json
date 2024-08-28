@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.7 Kontaktkräfte.md",
+                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.8 Kraftfelder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d2853b3f52605d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.1 Der Arbeitsbegriff.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.7 Kontaktkräfte.md",
+                "file": "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.1 Der Arbeitsbegriff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.7 Kontaktkräfte.md",
+                "file": "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.1 Der Arbeitsbegriff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.7 Kontaktkräfte.md"
+                "file": "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.1 Der Arbeitsbegriff.md"
               }
             }
           },
@@ -155,30 +168,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c8323098e58b2ca",
+  "active": "1d2853b3f52605d3",
   "lastOpenFiles": [
-    "Files/Pasted image 20240826183754.png",
+    "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.0 Arbeit und Energie - Inhalt.md",
+    "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.1 Der Arbeitsbegriff.md",
+    "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.8 Kraftfelder.md",
+    "Experimentalphysik I/Mechanik/5. Arbeit und Energie",
+    "Files/Pasted image 20240827225730.png",
+    "Files/Pasted image 20240827224805.png",
+    "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.2 Das zweite Newton'sche Axiom;  Aktionsprinzip.md",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.0 Dynamik des Massenpunktes - Inhalt.md",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.7 Kontaktkräfte.md",
-    "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.6 Anwendung der Newton'schen Axiome.md",
-    "Files/Pasted image 20240826175159.png",
+    "Files/Pasted image 20240827215546.png",
+    "Files/Pasted image 20240827213158.png",
+    "Files/Pasted image 20240827212158.png",
+    "Files/Pasted image 20240827211829.png",
+    "Files/Pasted image 20240827211013.png",
+    "Files/Pasted image 20240827203847.png",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.5 Anwendung der Impulserhaltung.md",
-    "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.2 Das zweite Newton'sche Axiom;  Aktionsprinzip.md",
-    "Files/Pasted image 20240826161542.png",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.4 Das dritte Newton'sche Axiom; Aktion=-Reaktion.md",
-    "Files/Pasted image 20240824202937.png",
-    "Files/Pasted image 20240824202931.png",
-    "Files/Pasted image 20240824202412.png",
+    "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.6 Anwendung der Newton'schen Axiome.md",
+    "Files/Pasted image 20240826183754.png",
+    "Files/Pasted image 20240826175159.png",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.3 Das erste Newton'sche Axiom; Trägheitsprinzip.md",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.8 Bewegung mir nicht-konstanter Beschleunigung.md",
     "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.2 Das Coulombgesetz.md",
-    "Files/Pasted image 20240824193531.png",
-    "Files/Pasted image 20240824190522.png",
-    "Files/Pasted image 20240824190226.png",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.1 Impuls.md",
-    "Files/Pasted image 20240824181628.png",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes",
-    "Files/Pasted image 20240824174846.png",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.7 Gleichförmig beschleunigte Bewegung.md",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.6 Beschleunigkeitsvektor.md",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.5 Geschwindigkeitsvektor.md",
@@ -193,15 +209,12 @@
     "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik/2.4 Physikalische Größen.md",
     "Files/Snippets.md",
     "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.4 Wellen auf Leitungen.md",
-    "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.3 Das Induktionsgesetz in lokaler Darstellung.md",
-    "Experimentalphysik II/Elektromagnetismus/4. Induktionserscheinungen/4.2 Induktion in ruhenden Leitern.md",
     "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik",
     "Experimentalphysik I/Mechanik",
     "Experimentalphysik I",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik",
     "Experimentalphysik II/Wärmelehre",
     "Experimentalphysik II/Elektromagnetismus/9. Die Maxwell-Gleichungen",
-    "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus",
-    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen"
+    "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus"
   ]
 }
