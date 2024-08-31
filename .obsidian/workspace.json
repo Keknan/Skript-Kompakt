@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c8323098e58b2ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.8 Kraftfelder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1d2853b3f52605d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.1 Der Arbeitsbegriff.md",
+                "file": "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.5 Potentielle Energie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.1 Der Arbeitsbegriff.md",
+                "file": "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.5 Potentielle Energie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.1 Der Arbeitsbegriff.md",
+                "file": "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.5 Potentielle Energie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.1 Der Arbeitsbegriff.md"
+                "file": "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.5 Potentielle Energie.md"
               }
             }
           },
@@ -170,8 +157,18 @@
   },
   "active": "1d2853b3f52605d3",
   "lastOpenFiles": [
+    "Files/Pasted image 20240828224947.png",
+    "Files/Pasted image 20240828223328.png",
+    "Files/Pasted image 20240828222247.png",
     "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.0 Arbeit und Energie - Inhalt.md",
+    "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.5 Potentielle Energie.md",
+    "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.4 Kinetische Energie.md",
+    "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.3 Der Energiebegriff.md",
+    "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.2 Leistung.md",
     "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.1 Der Arbeitsbegriff.md",
+    "Files/Pasted image 20240828212815.png",
+    "Files/Pasted image 20240828212734.png",
+    "Files/Pasted image 20240828210556.png",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.8 Kraftfelder.md",
     "Experimentalphysik I/Mechanik/5. Arbeit und Energie",
     "Files/Pasted image 20240827225730.png",
@@ -182,14 +179,9 @@
     "Files/Pasted image 20240827215546.png",
     "Files/Pasted image 20240827213158.png",
     "Files/Pasted image 20240827212158.png",
-    "Files/Pasted image 20240827211829.png",
-    "Files/Pasted image 20240827211013.png",
-    "Files/Pasted image 20240827203847.png",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.5 Anwendung der Impulserhaltung.md",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.4 Das dritte Newton'sche Axiom; Aktion=-Reaktion.md",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.6 Anwendung der Newton'schen Axiome.md",
-    "Files/Pasted image 20240826183754.png",
-    "Files/Pasted image 20240826175159.png",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.3 Das erste Newton'sche Axiom; Trägheitsprinzip.md",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.8 Bewegung mir nicht-konstanter Beschleunigung.md",
     "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.2 Das Coulombgesetz.md",
@@ -203,12 +195,7 @@
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.2 Bewegung.md",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.1 Massenpunkt.md",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.0 Kinematik des Massenpunktes - Inhalt.md",
-    "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik/2.0 Grundgrößen der Physik - Inhalt.md",
-    "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik/2.5 Messgenauigkeit und Messunsicherheit.md",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes",
-    "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik/2.4 Physikalische Größen.md",
-    "Files/Snippets.md",
-    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.4 Wellen auf Leitungen.md",
     "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik",
     "Experimentalphysik I/Mechanik",
     "Experimentalphysik I",
