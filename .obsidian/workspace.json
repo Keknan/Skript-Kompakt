@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d2853b3f52605d3",
+            "id": "772ed2c917c02c4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.5 Potentielle Energie.md",
+                "file": "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.1 Gewicht, träge und schwere Masse.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.5 Potentielle Energie.md",
+                "file": "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.1 Gewicht, träge und schwere Masse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.5 Potentielle Energie.md",
+                "file": "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.1 Gewicht, träge und schwere Masse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.5 Potentielle Energie.md"
+                "file": "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.1 Gewicht, träge und schwere Masse.md"
               }
             }
           },
@@ -155,30 +155,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d2853b3f52605d3",
+  "active": "772ed2c917c02c4a",
   "lastOpenFiles": [
+    "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.0 Bewegte Bezugssysteme - Inhalt.md",
+    "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.1 Gewicht, träge und schwere Masse.md",
+    "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.6 Energieerhaltung.md",
+    "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme",
+    "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.5 Potentielle Energie.md",
+    "Files/Pasted image 20240901200426.png",
+    "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.0 Arbeit und Energie - Inhalt.md",
+    "Files/Pasted image 20240901195541.png",
+    "Files/Pasted image 20240901195133.png",
+    "Files/Pasted image 20240901195127.png",
+    "Files/Pasted image 20240901195123.png",
+    "Files/Pasted image 20240901193627.png",
+    "Files/Pasted image 20240901192947.png",
+    "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.7 Kontaktkräfte.md",
+    "Files/Pasted image 20240901191141.png",
     "Files/Pasted image 20240828224947.png",
     "Files/Pasted image 20240828223328.png",
-    "Files/Pasted image 20240828222247.png",
-    "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.0 Arbeit und Energie - Inhalt.md",
-    "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.5 Potentielle Energie.md",
     "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.4 Kinetische Energie.md",
     "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.3 Der Energiebegriff.md",
     "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.2 Leistung.md",
     "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.1 Der Arbeitsbegriff.md",
-    "Files/Pasted image 20240828212815.png",
-    "Files/Pasted image 20240828212734.png",
-    "Files/Pasted image 20240828210556.png",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.8 Kraftfelder.md",
     "Experimentalphysik I/Mechanik/5. Arbeit und Energie",
-    "Files/Pasted image 20240827225730.png",
-    "Files/Pasted image 20240827224805.png",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.2 Das zweite Newton'sche Axiom;  Aktionsprinzip.md",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.0 Dynamik des Massenpunktes - Inhalt.md",
-    "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.7 Kontaktkräfte.md",
-    "Files/Pasted image 20240827215546.png",
-    "Files/Pasted image 20240827213158.png",
-    "Files/Pasted image 20240827212158.png",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.5 Anwendung der Impulserhaltung.md",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.4 Das dritte Newton'sche Axiom; Aktion=-Reaktion.md",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.6 Anwendung der Newton'schen Axiome.md",
@@ -193,15 +196,12 @@
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.4 Ortsvektor.md",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.3 Koordinaten und Bezugssystem.md",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.2 Bewegung.md",
-    "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.1 Massenpunkt.md",
-    "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.0 Kinematik des Massenpunktes - Inhalt.md",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes",
     "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik",
     "Experimentalphysik I/Mechanik",
     "Experimentalphysik I",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik",
     "Experimentalphysik II/Wärmelehre",
-    "Experimentalphysik II/Elektromagnetismus/9. Die Maxwell-Gleichungen",
-    "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus"
+    "Experimentalphysik II/Elektromagnetismus/9. Die Maxwell-Gleichungen"
   ]
 }
