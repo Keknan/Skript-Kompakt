@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "772ed2c917c02c4a",
+            "id": "de7bcaf53adcea16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.5 ''Echte'' Kräfte und Beschleunigung.md",
+                "file": "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.3 Gleichzeitgkeit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.5 ''Echte'' Kräfte und Beschleunigung.md",
+                "file": "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.3 Gleichzeitgkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.5 ''Echte'' Kräfte und Beschleunigung.md",
+                "file": "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.3 Gleichzeitgkeit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.5 ''Echte'' Kräfte und Beschleunigung.md"
+                "file": "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.3 Gleichzeitgkeit.md"
               }
             }
           },
@@ -155,25 +155,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "772ed2c917c02c4a",
+  "active": "de7bcaf53adcea16",
   "lastOpenFiles": [
+    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.0 Spezielle Relativitätsmechanik - Inhalt.md",
+    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.3 Gleichzeitgkeit.md",
+    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.2 Uhren und Maßstäbe.md",
+    "Files/Pasted image 20240904181129.png",
+    "Files/Pasted image 20240904180148.png",
+    "Files/Pasted image 20240904175649.png",
+    "Files/Pasted image 20240904175008.png",
+    "Files/Pasted image 20240904174637.png",
+    "Files/Pasted image 20240904171303.png",
+    "Files/Pasted image 20240904170609.png",
+    "Files/Pasted image 20240904165440.png",
+    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.1 Grundlagen der speziellen Relativitätsmechanik.md",
+    "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.5 ''Echte'' Kräfte und Beschleunigung.md",
+    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik",
+    "Files/Pasted image 20240904163414.png",
     "Files/Pasted image 20240903224948.png",
     "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.3 Rotierende Bezugssysteme.md",
     "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.4 Scheinkräfte.md",
     "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.1 Gewicht, träge und schwere Masse.md",
     "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.0 Bewegte Bezugssysteme - Inhalt.md",
-    "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.5 ''Echte'' Kräfte und Beschleunigung.md",
-    "Files/Pasted image 20240903223034.png",
-    "Files/Pasted image 20240903222512.png",
-    "Files/Pasted image 20240903222407.png",
-    "Files/Pasted image 20240903210332.png",
     "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.5 Potentielle Energie.md",
-    "Files/Pasted image 20240903183538.png",
-    "Files/Pasted image 20240903182751.png",
-    "Files/Pasted image 20240903182516.png",
-    "Files/Pasted image 20240903182435.png",
-    "Files/Pasted image 20240903180940.png",
-    "Files/Pasted image 20240903174715.png",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.0 Dynamik des Massenpunktes - Inhalt.md",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.8 Bewegung mir nicht-konstanter Beschleunigung.md",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.7 Gleichförmig beschleunigte Bewegung.md",
@@ -192,16 +196,12 @@
     "Experimentalphysik I/Mechanik/5. Arbeit und Energie",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.5 Anwendung der Impulserhaltung.md",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.4 Das dritte Newton'sche Axiom; Aktion=-Reaktion.md",
-    "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.6 Anwendung der Newton'schen Axiome.md",
-    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.2 Das Coulombgesetz.md",
-    "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.1 Impuls.md",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes",
     "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik",
     "Experimentalphysik I/Mechanik",
     "Experimentalphysik I",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik",
-    "Experimentalphysik II/Wärmelehre",
-    "Experimentalphysik II/Elektromagnetismus/9. Die Maxwell-Gleichungen"
+    "Experimentalphysik II/Wärmelehre"
   ]
 }
