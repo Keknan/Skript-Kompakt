@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.5 Lorentz-Transformation.md",
+                "file": "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.6 Minkowski-Diagramme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.5 Lorentz-Transformation.md",
+                "file": "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.6 Minkowski-Diagramme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.5 Lorentz-Transformation.md",
+                "file": "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.6 Minkowski-Diagramme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.5 Lorentz-Transformation.md"
+                "file": "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.6 Minkowski-Diagramme.md"
               }
             }
           },
@@ -157,13 +157,16 @@
   },
   "active": "de7bcaf53adcea16",
   "lastOpenFiles": [
-    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.0 Spezielle Relativitätsmechanik - Inhalt.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.5 Lorentz-Transformation.md",
+    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.6 Minkowski-Diagramme.md",
+    "Files/Pasted image 20240909193322.png",
+    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.0 Spezielle Relativitätsmechanik - Inhalt.md",
+    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.3 Gleichzeitigkeit.md",
+    "Files/Pasted image 20240909184246.png",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.4 Die scheinbar paradoxe Welt der Relativitätsmechanik.md",
     "Files/Pasted image 20240909175602.png",
     "Files/Pasted image 20240909174122.png",
     "README.md",
-    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.3 Gleichzeitgkeit.md",
     "Files/Pasted image 20240904194026.png",
     "Files/Pasted image 20240904193544.png",
     "Files/Pasted image 20240904184925.png",
@@ -171,8 +174,6 @@
     "Files/Pasted image 20240904181129.png",
     "Files/Pasted image 20240904180148.png",
     "Files/Pasted image 20240904175649.png",
-    "Files/Pasted image 20240904175008.png",
-    "Files/Pasted image 20240904174637.png",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.1 Grundlagen der speziellen Relativitätsmechanik.md",
     "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.5 ''Echte'' Kräfte und Beschleunigung.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik",
@@ -193,8 +194,6 @@
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.7 Kontaktkräfte.md",
     "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.4 Kinetische Energie.md",
     "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.3 Der Energiebegriff.md",
-    "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.2 Leistung.md",
-    "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.1 Der Arbeitsbegriff.md",
     "Experimentalphysik I/Mechanik/5. Arbeit und Energie",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes",
     "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes",
