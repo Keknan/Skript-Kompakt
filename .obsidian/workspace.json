@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.3 Gleichzeitgkeit.md",
+                "file": "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.4 Die scheinbar paradoxe Welt der Relativitätsmechanik.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.3 Gleichzeitgkeit.md",
+                "file": "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.4 Die scheinbar paradoxe Welt der Relativitätsmechanik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.3 Gleichzeitgkeit.md",
+                "file": "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.4 Die scheinbar paradoxe Welt der Relativitätsmechanik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.3 Gleichzeitgkeit.md"
+                "file": "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.4 Die scheinbar paradoxe Welt der Relativitätsmechanik.md"
               }
             }
           },
@@ -155,13 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21d503e27084784f",
+  "active": "de7bcaf53adcea16",
   "lastOpenFiles": [
+    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.0 Spezielle Relativitätsmechanik - Inhalt.md",
+    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.4 Die scheinbar paradoxe Welt der Relativitätsmechanik.md",
+    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.3 Gleichzeitgkeit.md",
     "Files/Pasted image 20240904194026.png",
     "Files/Pasted image 20240904193544.png",
     "Files/Pasted image 20240904184925.png",
-    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.0 Spezielle Relativitätsmechanik - Inhalt.md",
-    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.3 Gleichzeitgkeit.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.2 Uhren und Maßstäbe.md",
     "Files/Pasted image 20240904181129.png",
     "Files/Pasted image 20240904180148.png",
@@ -170,7 +171,6 @@
     "Files/Pasted image 20240904174637.png",
     "Files/Pasted image 20240904171303.png",
     "Files/Pasted image 20240904170609.png",
-    "Files/Pasted image 20240904165440.png",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.1 Grundlagen der speziellen Relativitätsmechanik.md",
     "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.5 ''Echte'' Kräfte und Beschleunigung.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik",
