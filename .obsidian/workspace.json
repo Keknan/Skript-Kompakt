@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.5 Spezialfall; 2-Teilchen-System.md",
+                "file": "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.6 3-Teilchen-System.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.5 Spezialfall; 2-Teilchen-System.md",
+                "file": "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.6 3-Teilchen-System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.5 Spezialfall; 2-Teilchen-System.md",
+                "file": "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.6 3-Teilchen-System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.5 Spezialfall; 2-Teilchen-System.md"
+                "file": "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.6 3-Teilchen-System.md"
               }
             }
           },
@@ -157,13 +157,18 @@
   },
   "active": "71b3fda4c3753c34",
   "lastOpenFiles": [
-    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.3 Linear- und Drehbewegung.md",
-    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.4 Erhaltungssätze für N-Teilchen-Systeme.md",
+    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.0 Vielteilchensysteme und Stöße - Inhalt.md",
+    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.6 3-Teilchen-System.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.5 Spezialfall; 2-Teilchen-System.md",
-    "Files/Pasted image 20240910160754.png",
+    "Files/Pasted image 20240910171745.png",
+    "Files/Pasted image 20240910170414.png",
+    "Files/Pasted image 20240910170150.png",
+    "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.2 Das zweite Newton'sche Axiom;  Aktionsprinzip.md",
+    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.4 Erhaltungssätze für N-Teilchen-Systeme.md",
+    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.3 Linear- und Drehbewegung.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.2 Labor-und Schwerpunktsystem.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.1 Schwerpunktsatz.md",
-    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.0 Vielteilchensysteme und Stöße - Inhalt.md",
+    "Files/Pasted image 20240910160754.png",
     "Files/Pasted image 20240909233828.png",
     "Files/Pasted image 20240909232358.png",
     "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.2 Vergleich; Lineare und Drehbewegung.md",
@@ -179,10 +184,7 @@
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.0 Spezielle Relativitätsmechanik - Inhalt.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.6 Minkowski-Diagramme.md",
     "Files/Pasted image 20240909212933.png",
-    "Files/Pasted image 20240909212712.png",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.5 Lorentz-Transformation.md",
-    "Files/Pasted image 20240909203438.png",
-    "Files/Pasted image 20240909203249.png",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.3 Gleichzeitigkeit.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.4 Die scheinbar paradoxe Welt der Relativitätsmechanik.md",
     "README.md",
@@ -195,7 +197,6 @@
     "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.1 Gewicht, träge und schwere Masse.md",
     "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.0 Bewegte Bezugssysteme - Inhalt.md",
     "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.5 Potentielle Energie.md",
-    "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.0 Dynamik des Massenpunktes - Inhalt.md",
     "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme",
     "Experimentalphysik I/Mechanik/5. Arbeit und Energie",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes",
