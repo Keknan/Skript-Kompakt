@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.1 Schwerpunktsatz.md",
+                "file": "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.1 Schwerpunktsatz.md",
+                "file": "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.1 Schwerpunktsatz.md",
+                "file": "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.1 Schwerpunktsatz.md"
+                "file": "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md"
               }
             }
           },
@@ -158,6 +158,9 @@
   "active": "af1ded5e0c28e78a",
   "lastOpenFiles": [
     "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.0 Himmelsmechanik - Inhalt.md",
+    "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
+    "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.1 Newton'sche Gravitationstheorie.md",
+    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.1 Schwerpunktsatz.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.8 Elastischer 2-Teilchen-Stoß (UNFINISHED).md",
     "Experimentalphysik I/Mechanik/10. Himmelsmechanik",
     "Files/Pasted image 20240910192439.png",
@@ -174,7 +177,6 @@
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.4 Erhaltungssätze für N-Teilchen-Systeme.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.3 Linear- und Drehbewegung.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.2 Labor-und Schwerpunktsystem.md",
-    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.1 Schwerpunktsatz.md",
     "Files/Pasted image 20240910160754.png",
     "Files/Pasted image 20240909233828.png",
     "Files/Pasted image 20240909232358.png",
@@ -195,8 +197,6 @@
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.1 Grundlagen der speziellen Relativitätsmechanik.md",
     "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.5 ''Echte'' Kräfte und Beschleunigung.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik",
-    "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.3 Rotierende Bezugssysteme.md",
-    "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.4 Scheinkräfte.md",
     "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme",
     "Experimentalphysik I/Mechanik/5. Arbeit und Energie",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes",
