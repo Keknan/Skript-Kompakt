@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71b3fda4c3753c34",
+            "id": "af1ded5e0c28e78a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.8 Elastischer 2-Teilchen-Stoß.md",
+                "file": "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.0 Himmelsmechanik - Inhalt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.8 Elastischer 2-Teilchen-Stoß.md",
+                "file": "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.0 Himmelsmechanik - Inhalt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.8 Elastischer 2-Teilchen-Stoß.md",
+                "file": "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.0 Himmelsmechanik - Inhalt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.8 Elastischer 2-Teilchen-Stoß.md"
+                "file": "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.0 Himmelsmechanik - Inhalt.md"
               }
             }
           },
@@ -155,11 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71b3fda4c3753c34",
+  "active": "af1ded5e0c28e78a",
   "lastOpenFiles": [
+    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.8 Elastischer 2-Teilchen-Stoß (UNFINISHED).md",
+    "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.0 Himmelsmechanik - Inhalt.md",
+    "Experimentalphysik I/Mechanik/10. Himmelsmechanik",
     "Files/Pasted image 20240910192439.png",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.0 Vielteilchensysteme und Stöße - Inhalt.md",
-    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.8 Elastischer 2-Teilchen-Stoß.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.7 Teilchenstöße.md",
     "Files/Pasted image 20240910185202.png",
     "Files/Pasted image 20240910185057.png",
@@ -177,12 +179,10 @@
     "Files/Pasted image 20240909233828.png",
     "Files/Pasted image 20240909232358.png",
     "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.2 Vergleich; Lineare und Drehbewegung.md",
-    "Untitled",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße",
     "Files/Pasted image 20240909230100.png",
     "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.0 Drehbewegungen - Inhalt.md",
     "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.1 Drehimpuls.md",
-    "Files/Pasted image 20240909225716.png",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.7 Energie, Impuls und Masse.md",
     "Experimentalphysik I/Mechanik/8. Drehbewegungen",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.0 Spezielle Relativitätsmechanik - Inhalt.md",
