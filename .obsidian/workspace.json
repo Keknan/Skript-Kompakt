@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.1 Lokale Massendichte.md",
+                "file": "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.3 Das Effektive Gravitationspotential.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.1 Lokale Massendichte.md",
+                "file": "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.3 Das Effektive Gravitationspotential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.1 Lokale Massendichte.md",
+                "file": "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.3 Das Effektive Gravitationspotential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.1 Lokale Massendichte.md"
+                "file": "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.3 Das Effektive Gravitationspotential.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "25216bc5651ab6ac",
   "lastOpenFiles": [
-    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.0 Mechanik des starren Körpers - Inhalt.md",
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.1 Lokale Massendichte.md",
+    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.0 Mechanik des starren Körpers - Inhalt.md",
     "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.3 Das Effektive Gravitationspotential.md",
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers",
     "Files/Pasted image 20240911195825.png",
