@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.1 Lokale Massendichte.md",
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.2 Massenschwerpunkt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.1 Lokale Massendichte.md",
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.2 Massenschwerpunkt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.1 Lokale Massendichte.md",
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.2 Massenschwerpunkt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.1 Lokale Massendichte.md"
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.2 Massenschwerpunkt.md"
               }
             }
           },
@@ -157,9 +157,13 @@
   },
   "active": "25216bc5651ab6ac",
   "lastOpenFiles": [
-    "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.3 Das Effektive Gravitationspotential.md",
-    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.1 Lokale Massendichte.md",
+    "Files/Pasted image 20240912160743.png",
+    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.1 Schwerpunktsatz.md",
+    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.2 Massenschwerpunkt.md",
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.0 Mechanik des starren Körpers - Inhalt.md",
+    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.1 Lokale Massendichte.md",
+    "Files/Snippets.md",
+    "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.3 Das Effektive Gravitationspotential.md",
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers",
     "Files/Pasted image 20240911195825.png",
     "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.0 Himmelsmechanik - Inhalt.md",
@@ -170,7 +174,6 @@
     "Files/Pasted image 20240911181055.png",
     "Files/Pasted image 20240911180038.png",
     "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.1 Newton'sche Gravitationstheorie.md",
-    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.1 Schwerpunktsatz.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.8 Elastischer 2-Teilchen-Stoß (UNFINISHED).md",
     "Experimentalphysik I/Mechanik/10. Himmelsmechanik",
     "Files/Pasted image 20240910192439.png",
@@ -194,9 +197,6 @@
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.0 Spezielle Relativitätsmechanik - Inhalt.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.6 Minkowski-Diagramme.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.5 Lorentz-Transformation.md",
-    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.3 Gleichzeitigkeit.md",
-    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.4 Die scheinbar paradoxe Welt der Relativitätsmechanik.md",
-    "README.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik",
     "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme",
     "Experimentalphysik I/Mechanik/5. Arbeit und Energie",
