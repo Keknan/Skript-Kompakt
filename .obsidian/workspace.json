@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.4 Kräfte und Drehmomente.md",
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.4 Kräfte und Drehmomente.md",
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.4 Kräfte und Drehmomente.md",
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.4 Kräfte und Drehmomente.md"
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md"
               }
             }
           },
@@ -157,27 +157,32 @@
   },
   "active": "25216bc5651ab6ac",
   "lastOpenFiles": [
-    "Files/Pasted image 20240912181410.png",
-    "Files/Pasted image 20240912175635.png",
-    "Files/Pasted image 20240912174442.png",
-    "Files/Snippets.md",
-    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.4 Kräfte und Drehmomente.md",
-    "Files/Pasted image 20240912173605.png",
-    "Files/Pasted image 20240912173219.png",
+    "Files/Pasted image 20240912214538.png",
+    "Files/Pasted image 20240912211119.png",
+    "Files/Pasted image 20240912210231.png",
+    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.3 Linear- und Drehbewegung.md",
+    "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.1 Drehimpuls.md",
+    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
+    "Files/Pasted image 20240912205515.png",
+    "Files/Pasted image 20240912205244.png",
+    "Files/Pasted image 20240912204725.png",
+    "Files/Pasted image 20240912204506.png",
+    "Files/Pasted image 20240912203150.png",
+    "Files/Pasted image 20240912203118.png",
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.0 Mechanik des starren Körpers - Inhalt.md",
-    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.2 Massenschwerpunkt.md",
-    "Files/Pasted image 20240912162613.png",
-    "Files/Pasted image 20240912160743.png",
+    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.4 Statisches Gleichgewicht.md",
+    "Files/Pasted image 20240912202125.png",
+    "Files/Pasted image 20240912200824.png",
+    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.3 Kräfte und Drehmomente.md",
+    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.2 Labor-und Schwerpunktsystem.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.1 Schwerpunktsatz.md",
+    "Files/Snippets.md",
+    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.2 Massenschwerpunkt.md",
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.1 Lokale Massendichte.md",
     "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.3 Das Effektive Gravitationspotential.md",
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers",
-    "Files/Pasted image 20240911195825.png",
     "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.0 Himmelsmechanik - Inhalt.md",
     "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
-    "Files/Pasted image 20240911193232.png",
-    "Files/Pasted image 20240911192227.png",
-    "Files/Pasted image 20240911182306.png",
     "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.1 Newton'sche Gravitationstheorie.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.8 Elastischer 2-Teilchen-Stoß (UNFINISHED).md",
     "Experimentalphysik I/Mechanik/10. Himmelsmechanik",
@@ -187,16 +192,11 @@
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.5 Spezialfall; 2-Teilchen-System.md",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.2 Das zweite Newton'sche Axiom;  Aktionsprinzip.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.4 Erhaltungssätze für N-Teilchen-Systeme.md",
-    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.3 Linear- und Drehbewegung.md",
-    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.2 Labor-und Schwerpunktsystem.md",
     "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.2 Vergleich; Lineare und Drehbewegung.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße",
     "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.0 Drehbewegungen - Inhalt.md",
-    "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.1 Drehimpuls.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.7 Energie, Impuls und Masse.md",
     "Experimentalphysik I/Mechanik/8. Drehbewegungen",
-    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.0 Spezielle Relativitätsmechanik - Inhalt.md",
-    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.6 Minkowski-Diagramme.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik",
     "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme",
     "Experimentalphysik I/Mechanik/5. Arbeit und Energie",
