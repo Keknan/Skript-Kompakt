@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.2 Massenschwerpunkt.md",
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.4 Kräfte und Drehmomente.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.2 Massenschwerpunkt.md",
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.4 Kräfte und Drehmomente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.2 Massenschwerpunkt.md",
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.4 Kräfte und Drehmomente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.2 Massenschwerpunkt.md"
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.4 Kräfte und Drehmomente.md"
               }
             }
           },
@@ -157,10 +157,12 @@
   },
   "active": "25216bc5651ab6ac",
   "lastOpenFiles": [
+    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.0 Mechanik des starren Körpers - Inhalt.md",
+    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.4 Kräfte und Drehmomente.md",
+    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.2 Massenschwerpunkt.md",
+    "Files/Pasted image 20240912162613.png",
     "Files/Pasted image 20240912160743.png",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.1 Schwerpunktsatz.md",
-    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.2 Massenschwerpunkt.md",
-    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.0 Mechanik des starren Körpers - Inhalt.md",
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.1 Lokale Massendichte.md",
     "Files/Snippets.md",
     "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.3 Das Effektive Gravitationspotential.md",
@@ -180,10 +182,8 @@
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.0 Vielteilchensysteme und Stöße - Inhalt.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.7 Teilchenstöße.md",
     "Files/Pasted image 20240910185202.png",
-    "Files/Pasted image 20240910185057.png",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.6 3-Teilchen-System.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.5 Spezialfall; 2-Teilchen-System.md",
-    "Files/Pasted image 20240910171745.png",
     "Experimentalphysik I/Mechanik/4. Dynamik des Massenpunktes/4.2 Das zweite Newton'sche Axiom;  Aktionsprinzip.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.4 Erhaltungssätze für N-Teilchen-Systeme.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.3 Linear- und Drehbewegung.md",
