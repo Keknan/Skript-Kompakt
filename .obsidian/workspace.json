@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.6 Kreiselbewegung.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.6 Kreiselbewegung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.6 Kreiselbewegung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md"
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.6 Kreiselbewegung.md"
               }
             }
           },
@@ -157,6 +157,9 @@
   },
   "active": "25216bc5651ab6ac",
   "lastOpenFiles": [
+    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.0 Mechanik des starren Körpers - Inhalt.md",
+    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.6 Kreiselbewegung.md",
+    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
     "Files/Pasted image 20240912232124.png",
     "Files/Pasted image 20240912230106.png",
     "Files/Pasted image 20240912225036.png",
@@ -167,11 +170,8 @@
     "Files/Pasted image 20240912222334.png",
     "Files/Pasted image 20240912222313.png",
     "Files/Pasted image 20240912221901.png",
-    "Files/Pasted image 20240912221341.png",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.3 Linear- und Drehbewegung.md",
     "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.1 Drehimpuls.md",
-    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
-    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.0 Mechanik des starren Körpers - Inhalt.md",
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.4 Statisches Gleichgewicht.md",
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.3 Kräfte und Drehmomente.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.2 Labor-und Schwerpunktsystem.md",
