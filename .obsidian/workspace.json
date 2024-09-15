@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/15. Wellen/15.1 Einleitung.md",
+                "file": "Experimentalphysik I/Mechanik/15. Wellen/15.2 Wellentypen, Wellenausbreitung.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/15. Wellen/15.1 Einleitung.md",
+                "file": "Experimentalphysik I/Mechanik/15. Wellen/15.2 Wellentypen, Wellenausbreitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/15. Wellen/15.1 Einleitung.md",
+                "file": "Experimentalphysik I/Mechanik/15. Wellen/15.2 Wellentypen, Wellenausbreitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/15. Wellen/15.1 Einleitung.md"
+                "file": "Experimentalphysik I/Mechanik/15. Wellen/15.2 Wellentypen, Wellenausbreitung.md"
               }
             }
           },
@@ -157,14 +157,24 @@
   },
   "active": "c07095ec097484ed",
   "lastOpenFiles": [
-    "Experimentalphysik I/Mechanik/15. Wellen/15.0 Wellen - Inhalt.md",
+    "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.2 Spannung in festen Körpern.md",
+    "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.1 Deformationen fester Körper.md",
+    "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.3 Spezielle elastische Verformung isotroper Körper.md",
+    "Experimentalphysik I/Mechanik/15. Wellen/15.2 Wellentypen, Wellenausbreitung.md",
+    "Files/Pasted image 20240915173529.png",
+    "Files/Pasted image 20240915173135.png",
+    "Files/Pasted image 20240915173115.png",
+    "Files/Pasted image 20240915172447.png",
     "Experimentalphysik I/Mechanik/15. Wellen/15.1 Einleitung.md",
+    "Files/Pasted image 20240915165012.png",
+    "Files/Pasted image 20240915164917.png",
+    "Files/Pasted image 20240915163030.png",
+    "Experimentalphysik I/Mechanik/15. Wellen/15.0 Wellen - Inhalt.md",
+    "Files/Pasted image 20240915161932.png",
+    "Files/Pasted image 20240915161612.png",
+    "Files/Pasted image 20240915161253.png",
     "Experimentalphysik I/Mechanik/14. Schwingungen/14.5 Gekoppelte Schwingungen.md",
     "Experimentalphysik I/Mechanik/15. Wellen",
-    "Files/Pasted image 20240914222742.png",
-    "Files/Pasted image 20240914222723.png",
-    "Files/Pasted image 20240914221656.png",
-    "Files/Pasted image 20240914221447.png",
     "Experimentalphysik I/Mechanik/14. Schwingungen/14.3 Erzwungene Schwingungen, Resonanz.md",
     "Experimentalphysik I/Mechanik/14. Schwingungen/14.2 Gedämpfte Schwingungen.md",
     "Experimentalphysik I/Mechanik/14. Schwingungen/14.1 Harmonische Schwingungen.md",
@@ -173,20 +183,11 @@
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.3 Kräfte und Drehmomente.md",
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.4 Statisches Gleichgewicht.md",
     "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
-    "Files/Pasted image 20240914212016.png",
     "Experimentalphysik I/Mechanik/14. Schwingungen/14.0 Schwingungen - Inhalt.md",
     "Experimentalphysik I/Mechanik/14. Schwingungen/14.4 Überlagerung von Schwingungen.md",
-    "Files/Pasted image 20240914210709.png",
-    "Files/Pasted image 20240914205807.png",
-    "Files/Pasted image 20240914205803.png",
-    "Files/Pasted image 20240914204410.png",
-    "Files/Pasted image 20240914203519.png",
     "Files/Snippets.md",
-    "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.3 Spezielle elastische Verformung isotroper Körper.md",
     "Experimentalphysik I/Mechanik/14. Schwingungen",
     "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.0 Mechanik fester Körper - Inhalt.md",
-    "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.2 Spannung in festen Körpern.md",
-    "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.1 Deformationen fester Körper.md",
     "Experimentalphysik I/Mechanik/12. Mechanik fester Körper",
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.0 Mechanik des starren Körpers - Inhalt.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.3 Linear- und Drehbewegung.md",
@@ -194,8 +195,6 @@
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.2 Labor-und Schwerpunktsystem.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.1 Schwerpunktsatz.md",
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.2 Massenschwerpunkt.md",
-    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.1 Lokale Massendichte.md",
-    "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.3 Das Effektive Gravitationspotential.md",
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers",
     "Experimentalphysik I/Mechanik/10. Himmelsmechanik",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße",
