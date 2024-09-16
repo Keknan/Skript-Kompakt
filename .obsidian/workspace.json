@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/15. Wellen/15.4 Reflexion und Transmission.md",
+                "file": "Experimentalphysik I/Mechanik/15. Wellen/15.4 Stehende Wellen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/15. Wellen/15.4 Reflexion und Transmission.md",
+                "file": "Experimentalphysik I/Mechanik/15. Wellen/15.4 Stehende Wellen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/15. Wellen/15.4 Reflexion und Transmission.md",
+                "file": "Experimentalphysik I/Mechanik/15. Wellen/15.4 Stehende Wellen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/15. Wellen/15.4 Reflexion und Transmission.md"
+                "file": "Experimentalphysik I/Mechanik/15. Wellen/15.4 Stehende Wellen.md"
               }
             }
           },
@@ -157,21 +157,23 @@
   },
   "active": "c07095ec097484ed",
   "lastOpenFiles": [
-    "Experimentalphysik I/Mechanik/15. Wellen/15.0 Wellen - Inhalt.md",
+    "Files/Pasted image 20240916170359.png",
+    "Files/Pasted image 20240916165823.png",
+    "Files/Pasted image 20240916163811.png",
+    "Files/Pasted image 20240916162013.png",
+    "Files/Pasted image 20240916161817.png",
     "Experimentalphysik I/Mechanik/15. Wellen/15.4 Reflexion und Transmission.md",
+    "Experimentalphysik I/Mechanik/15. Wellen/15.4 Stehende Wellen.md",
     "Experimentalphysik I/Mechanik/15. Wellen/15.3 Prinzip der Superposition.md",
+    "Experimentalphysik I/Mechanik/15. Wellen/15.0 Wellen - Inhalt.md",
+    "Files/Pasted image 20240916160452.png",
+    "Files/Pasted image 20240916160411.png",
+    "Files/Pasted image 20240916155918.png",
+    "Files/Pasted image 20240916150707.png",
     "Files/Pasted image 20240915200401.png",
     "Files/Pasted image 20240915195929.png",
-    "Files/Pasted image 20240915195307.png",
     "Experimentalphysik I/Mechanik/15. Wellen/15.2 Wellentypen, Wellenausbreitung.md",
     "Experimentalphysik I/Mechanik/15. Wellen/15.1 Einleitung.md",
-    "Files/Pasted image 20240915193542.png",
-    "Files/Pasted image 20240915193216.png",
-    "Files/Pasted image 20240915192741.png",
-    "Files/Pasted image 20240915191012.png",
-    "Files/Pasted image 20240915185753.png",
-    "Files/Pasted image 20240915185249.png",
-    "Files/Pasted image 20240915185242.png",
     "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.2 Spannung in festen Körpern.md",
     "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.3 Spezielle elastische Verformung isotroper Körper.md",
     "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.1 Deformationen fester Körper.md",
@@ -194,8 +196,6 @@
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.0 Mechanik des starren Körpers - Inhalt.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.3 Linear- und Drehbewegung.md",
     "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.1 Drehimpuls.md",
-    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.2 Labor-und Schwerpunktsystem.md",
-    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.1 Schwerpunktsatz.md",
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers",
     "Experimentalphysik I/Mechanik/10. Himmelsmechanik",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße",
