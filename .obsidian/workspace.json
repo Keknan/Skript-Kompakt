@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/13. Mechanik von Flüssigkeiten und Gasen/13.1 Mechanik ruhender Flüssigkeiten und Gase.md",
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/13. Mechanik von Flüssigkeiten und Gasen/13.1 Mechanik ruhender Flüssigkeiten und Gase.md",
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/13. Mechanik von Flüssigkeiten und Gasen/13.1 Mechanik ruhender Flüssigkeiten und Gase.md",
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/13. Mechanik von Flüssigkeiten und Gasen/13.1 Mechanik ruhender Flüssigkeiten und Gase.md"
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md"
               }
             }
           },
@@ -157,6 +157,32 @@
   },
   "active": "a2b86e707bced6f3",
   "lastOpenFiles": [
+    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.3 Kräfte und Drehmomente.md",
+    "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
+    "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.5 ''Echte'' Kräfte und Beschleunigung.md",
+    "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.4 Scheinkräfte.md",
+    "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.3 Rotierende Bezugssysteme.md",
+    "Experimentalphysik I/Mechanik/14. Schwingungen/14.3 Erzwungene Schwingungen, Resonanz.md",
+    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.7 Energie, Impuls und Masse.md",
+    "Experimentalphysik I/Mechanik/14. Schwingungen/14.2 Gedämpfte Schwingungen.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.9 Ideale Gase.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.8 Der Erste Hauptsatz der Thermodynamik.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.7 Der Nullte Hauptsatz der Thermodynamik.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.6 Wärmetransport.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.5 Wärmeenergie und Wärmekapazität.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.4 Längen- und Volumenausdehnung.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.3 Temperatur-Skalen und die absolute Temperatur.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
+    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.2 Ebene Wellen im freien Raum.md",
+    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.1 Hertzscher Dipol.md",
+    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.0 Elektromagnetische Wellen - Inhalt.md",
+    "Experimentalphysik I/Mechanik/15. Wellen/15.6 Dopplereffekt.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.12 Reale Gase und Flüssigkeiten.md",
+    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.4 Resonanzerscheinungen.md",
+    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.3 Wechselstromkreise.md",
+    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.3 Stehende Wellen.md",
+    "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus/8.1 Energiespeicherung.md",
     "Files/Pasted image 20240916221331.png",
     "Files/Pasted image 20240916221012.png",
     "Files/Pasted image 20240916220204.png",
@@ -167,35 +193,9 @@
     "Files/Pasted image 20240916202338.png",
     "Files/Pasted image 20240916201635.png",
     "Files/Pasted image 20240916192953.png",
-    "Files/Pasted image 20240916192211.png",
-    "Experimentalphysik I/Mechanik/13. Mechanik von Flüssigkeiten und Gasen/13.0 Mechanik von Flüssigkeiten und Gasen - Inhalt.md",
-    "Experimentalphysik I/Mechanik/13. Mechanik von Flüssigkeiten und Gasen/13.1 Mechanik ruhender Flüssigkeiten und Gase.md",
-    "Experimentalphysik I/Mechanik/15. Wellen/15.6 Dopplereffekt.md",
     "Experimentalphysik I/Mechanik/13. Mechanik von Flüssigkeiten und Gasen",
-    "Experimentalphysik I/Mechanik/15. Wellen/15.0 Wellen - Inhalt.md",
-    "Experimentalphysik I/Mechanik/15. Wellen/15.5 Stehende Wellen.md",
-    "Experimentalphysik I/Mechanik/15. Wellen/15.1 Einleitung.md",
-    "Experimentalphysik I/Mechanik/15. Wellen/15.4 Reflexion und Transmission.md",
-    "Experimentalphysik I/Mechanik/15. Wellen/15.3 Prinzip der Superposition.md",
-    "Experimentalphysik I/Mechanik/15. Wellen/15.2 Wellentypen, Wellenausbreitung.md",
-    "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.2 Spannung in festen Körpern.md",
-    "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.3 Spezielle elastische Verformung isotroper Körper.md",
-    "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.1 Deformationen fester Körper.md",
-    "Experimentalphysik I/Mechanik/14. Schwingungen/14.5 Gekoppelte Schwingungen.md",
     "Experimentalphysik I/Mechanik/15. Wellen",
-    "Experimentalphysik I/Mechanik/14. Schwingungen/14.3 Erzwungene Schwingungen, Resonanz.md",
-    "Experimentalphysik I/Mechanik/14. Schwingungen/14.2 Gedämpfte Schwingungen.md",
-    "Experimentalphysik I/Mechanik/14. Schwingungen/14.1 Harmonische Schwingungen.md",
-    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
-    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.6 Kreiselbewegung.md",
-    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.3 Kräfte und Drehmomente.md",
-    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.4 Statisches Gleichgewicht.md",
-    "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
-    "Experimentalphysik I/Mechanik/14. Schwingungen/14.0 Schwingungen - Inhalt.md",
-    "Experimentalphysik I/Mechanik/14. Schwingungen/14.4 Überlagerung von Schwingungen.md",
-    "Files/Snippets.md",
     "Experimentalphysik I/Mechanik/14. Schwingungen",
-    "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.0 Mechanik fester Körper - Inhalt.md",
     "Experimentalphysik I/Mechanik/12. Mechanik fester Körper",
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers",
     "Experimentalphysik I/Mechanik/10. Himmelsmechanik",
