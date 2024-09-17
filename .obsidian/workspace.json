@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
+                "file": "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.2 Spannung in festen Körpern.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
+                "file": "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.2 Spannung in festen Körpern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
+                "file": "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.2 Spannung in festen Körpern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md"
+                "file": "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.2 Spannung in festen Körpern.md"
               }
             }
           },
@@ -157,6 +157,13 @@
   },
   "active": "a2b86e707bced6f3",
   "lastOpenFiles": [
+    "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.1 Deformationen fester Körper.md",
+    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.3 Der magnetische Fluss.md",
+    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.1 elektrische Ströme und Magnetismus.md",
+    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.2 Magnetische Kräfte.md",
+    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.1 Hertzscher Dipol.md",
+    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.3 Wechselstromkreise.md",
+    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.3 Kräfte und Drehmomente.md",
     "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
     "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.5 ''Echte'' Kräfte und Beschleunigung.md",
@@ -175,14 +182,7 @@
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
     "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.2 Ebene Wellen im freien Raum.md",
-    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.1 Hertzscher Dipol.md",
     "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.0 Elektromagnetische Wellen - Inhalt.md",
-    "Experimentalphysik I/Mechanik/15. Wellen/15.6 Dopplereffekt.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.12 Reale Gase und Flüssigkeiten.md",
-    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.4 Resonanzerscheinungen.md",
-    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.3 Wechselstromkreise.md",
-    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.3 Stehende Wellen.md",
-    "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus/8.1 Energiespeicherung.md",
     "Files/Pasted image 20240916221331.png",
     "Files/Pasted image 20240916221012.png",
     "Files/Pasted image 20240916220204.png",
