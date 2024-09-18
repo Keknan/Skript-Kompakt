@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.2 Spannung in festen Körpern.md",
+                "file": "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.2 Spannung in festen Körpern.md",
+                "file": "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.2 Spannung in festen Körpern.md",
+                "file": "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.2 Spannung in festen Körpern.md"
+                "file": "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md"
               }
             }
           },
@@ -157,32 +157,32 @@
   },
   "active": "a2b86e707bced6f3",
   "lastOpenFiles": [
-    "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.1 Deformationen fester Körper.md",
-    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.3 Der magnetische Fluss.md",
-    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.1 elektrische Ströme und Magnetismus.md",
-    "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.2 Magnetische Kräfte.md",
-    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.1 Hertzscher Dipol.md",
-    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.3 Wechselstromkreise.md",
-    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
-    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.3 Kräfte und Drehmomente.md",
-    "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
-    "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.5 ''Echte'' Kräfte und Beschleunigung.md",
-    "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.4 Scheinkräfte.md",
-    "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.3 Rotierende Bezugssysteme.md",
-    "Experimentalphysik I/Mechanik/14. Schwingungen/14.3 Erzwungene Schwingungen, Resonanz.md",
-    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.7 Energie, Impuls und Masse.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
+    "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik/2.2 Der Raum und seine Geometrie.md",
+    "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik/2.3 Körper und Teilchen, Masse und Stoffmenge.md",
     "Experimentalphysik I/Mechanik/14. Schwingungen/14.2 Gedämpfte Schwingungen.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.9 Ideale Gase.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.8 Der Erste Hauptsatz der Thermodynamik.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.7 Der Nullte Hauptsatz der Thermodynamik.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.6 Wärmetransport.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.5 Wärmeenergie und Wärmekapazität.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.4 Längen- und Volumenausdehnung.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.3 Temperatur-Skalen und die absolute Temperatur.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
+    "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus/8.4 Energietransport.md",
+    "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus/8.3 Energiespeicherung im elektromagnetischen Feld.md",
+    "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus/8.2 Eigenschwingungen.md",
+    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.1 Hertzscher Dipol.md",
     "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.2 Ebene Wellen im freien Raum.md",
-    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.0 Elektromagnetische Wellen - Inhalt.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.12 Reale Gase und Flüssigkeiten.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.3 Temperatur-Skalen und die absolute Temperatur.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.2 Temperatur und das Gasthermometer.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md",
+    "Experimentalphysik I/Mechanik/13. Mechanik von Flüssigkeiten und Gasen/13.1 Mechanik ruhender Flüssigkeiten und Gase.md",
+    "Experimentalphysik I/Mechanik/13. Mechanik von Flüssigkeiten und Gasen/13.0 Mechanik von Flüssigkeiten und Gasen - Inhalt.md",
+    "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.0 Mechanik fester Körper - Inhalt.md",
+    "Experimentalphysik II/Elektromagnetismus/9. Die Maxwell-Gleichungen/9.1 Die Maxwell-Gleichungen.md",
+    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.1 Ladungserhaltung und der Ampére-Maxwell-Satz.md",
+    "Experimentalphysik I/Mechanik/15. Wellen/15.2 Wellentypen, Wellenausbreitung.md",
+    "Experimentalphysik I/Mechanik/15. Wellen/15.4 Reflexion und Transmission.md",
+    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.2 Stromkreiselemente.md",
+    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.1 Energie und Leistung elektrischer Ströme.md",
+    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.0 Elektrische Schaltkreise - Inhalt.md",
+    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.6 Die Kirchhoff-Regeln.md",
+    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.5 Formulierung der Ladungserhaltung.md",
+    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.4 Der elektrische Widerstand und das Ohmsche Gesetz.md",
     "Files/Pasted image 20240916221331.png",
     "Files/Pasted image 20240916221012.png",
     "Files/Pasted image 20240916220204.png",
