@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0c0c3bff92989a90",
+        "id": "0550e6e9e112ef9f",
         "type": "tabs",
         "children": [
           {
-            "id": "a2b86e707bced6f3",
+            "id": "1b1dbb81046c7adf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.1 Maxwell-Gleichungen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.1 Maxwell-Gleichungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.1 Maxwell-Gleichungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md"
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.1 Maxwell-Gleichungen.md"
               }
             }
           },
@@ -155,8 +155,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2b86e707bced6f3",
+  "active": "1b1dbb81046c7adf",
   "lastOpenFiles": [
+    "Files/Pasted image 20241011171722.png",
+    "Files/Snippets.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.1 Maxwell-Gleichungen.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie.md",
+    "Experimentalphysik III/Optik/1. Einleitung/Notiz von Keknan.md",
+    "Experimentalphysik III/Optik",
+    "Experimentalphysik III/Optik/1. Einleitung",
+    "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
+    "Experimentalphysik I/Mechanik/10. Himmelsmechanik/Untitled.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie",
+    "Experimentalphysik III",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
     "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik/2.2 Der Raum und seine Geometrie.md",
     "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik/2.3 Körper und Teilchen, Masse und Stoffmenge.md",
@@ -176,13 +187,6 @@
     "Experimentalphysik II/Elektromagnetismus/9. Die Maxwell-Gleichungen/9.1 Die Maxwell-Gleichungen.md",
     "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.1 Ladungserhaltung und der Ampére-Maxwell-Satz.md",
     "Experimentalphysik I/Mechanik/15. Wellen/15.2 Wellentypen, Wellenausbreitung.md",
-    "Experimentalphysik I/Mechanik/15. Wellen/15.4 Reflexion und Transmission.md",
-    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.2 Stromkreiselemente.md",
-    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.1 Energie und Leistung elektrischer Ströme.md",
-    "Experimentalphysik II/Elektromagnetismus/5. Elektrische Schaltkreise/5.0 Elektrische Schaltkreise - Inhalt.md",
-    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.6 Die Kirchhoff-Regeln.md",
-    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.5 Formulierung der Ladungserhaltung.md",
-    "Experimentalphysik II/Elektromagnetismus/2. Elektrischer Strom und Widerstand/2.4 Der elektrische Widerstand und das Ohmsche Gesetz.md",
     "Files/Pasted image 20240916221331.png",
     "Files/Pasted image 20240916221012.png",
     "Files/Pasted image 20240916220204.png",
@@ -198,10 +202,6 @@
     "Experimentalphysik I/Mechanik/14. Schwingungen",
     "Experimentalphysik I/Mechanik/12. Mechanik fester Körper",
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers",
-    "Experimentalphysik I/Mechanik/10. Himmelsmechanik",
-    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße",
-    "Experimentalphysik I/Mechanik/8. Drehbewegungen",
-    "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik",
-    "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme"
+    "Experimentalphysik I/Mechanik/10. Himmelsmechanik"
   ]
 }
