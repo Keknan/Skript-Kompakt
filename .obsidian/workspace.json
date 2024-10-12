@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.1 Maxwell-Gleichungen.md",
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.6 Das elektromagnetische Spektrum.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.1 Maxwell-Gleichungen.md",
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.6 Das elektromagnetische Spektrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.1 Maxwell-Gleichungen.md",
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.6 Das elektromagnetische Spektrum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.1 Maxwell-Gleichungen.md"
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.6 Das elektromagnetische Spektrum.md"
               }
             }
           },
@@ -157,11 +157,21 @@
   },
   "active": "1b1dbb81046c7adf",
   "lastOpenFiles": [
+    "Files/Pasted image 20241011185452.png",
+    "Files/Pasted image 20241011185349.png",
+    "Experimentalphysik III/Optik/1. Einleitung/Notiz von Keknan.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.6 Das elektromagnetische Spektrum.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.5 Energie einer elektromagnetischen Welle und Poynting Vektor.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.4 Polarisation.md",
+    "Files/Pasted image 20241011183833.png",
+    "Files/Pasted image 20241011183403.png",
+    "Files/Pasted image 20241011183310.png",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.3 Ebene Wellen.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.1 Maxwell-Gleichungen.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.2 Wellengleichung im Vakuum.md",
     "Files/Pasted image 20241011171722.png",
     "Files/Snippets.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.1 Maxwell-Gleichungen.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie.md",
-    "Experimentalphysik III/Optik/1. Einleitung/Notiz von Keknan.md",
     "Experimentalphysik III/Optik",
     "Experimentalphysik III/Optik/1. Einleitung",
     "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
@@ -182,21 +192,11 @@
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.2 Temperatur und das Gasthermometer.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md",
     "Experimentalphysik I/Mechanik/13. Mechanik von Flüssigkeiten und Gasen/13.1 Mechanik ruhender Flüssigkeiten und Gase.md",
-    "Experimentalphysik I/Mechanik/13. Mechanik von Flüssigkeiten und Gasen/13.0 Mechanik von Flüssigkeiten und Gasen - Inhalt.md",
-    "Experimentalphysik I/Mechanik/12. Mechanik fester Körper/12.0 Mechanik fester Körper - Inhalt.md",
-    "Experimentalphysik II/Elektromagnetismus/9. Die Maxwell-Gleichungen/9.1 Die Maxwell-Gleichungen.md",
-    "Experimentalphysik II/Elektromagnetismus/6. Das elektromagnetische Feld/6.1 Ladungserhaltung und der Ampére-Maxwell-Satz.md",
-    "Experimentalphysik I/Mechanik/15. Wellen/15.2 Wellentypen, Wellenausbreitung.md",
     "Files/Pasted image 20240916221331.png",
     "Files/Pasted image 20240916221012.png",
     "Files/Pasted image 20240916220204.png",
     "Files/Pasted image 20240916214446.png",
     "Files/Pasted image 20240916214223.png",
-    "Files/Pasted image 20240916212540.png",
-    "Files/Pasted image 20240916205036.png",
-    "Files/Pasted image 20240916202338.png",
-    "Files/Pasted image 20240916201635.png",
-    "Files/Pasted image 20240916192953.png",
     "Experimentalphysik I/Mechanik/13. Mechanik von Flüssigkeiten und Gasen",
     "Experimentalphysik I/Mechanik/15. Wellen",
     "Experimentalphysik I/Mechanik/14. Schwingungen",
