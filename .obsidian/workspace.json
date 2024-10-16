@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.5 Energie einer elektromagnetischen Welle und Poynting Vektor.md",
+                "file": "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.1 Drehimpuls.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.5 Energie einer elektromagnetischen Welle und Poynting Vektor.md",
+                "file": "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.1 Drehimpuls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.5 Energie einer elektromagnetischen Welle und Poynting Vektor.md",
+                "file": "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.1 Drehimpuls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.5 Energie einer elektromagnetischen Welle und Poynting Vektor.md"
+                "file": "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.1 Drehimpuls.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "1b1dbb81046c7adf",
   "lastOpenFiles": [
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.4 Polarisation.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.5 Energie einer elektromagnetischen Welle und Poynting Vektor.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.4 Polarisation.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.3 Ebene Wellen.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.2 Wellengleichung im Vakuum.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.1 Maxwell-Gleichungen.md",
