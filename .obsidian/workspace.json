@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.1 Drehimpuls.md",
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.7 Brechungsindex.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.1 Drehimpuls.md",
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.7 Brechungsindex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.1 Drehimpuls.md",
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.7 Brechungsindex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.1 Drehimpuls.md"
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.7 Brechungsindex.md"
               }
             }
           },
@@ -157,16 +157,21 @@
   },
   "active": "1b1dbb81046c7adf",
   "lastOpenFiles": [
+    "Files/Pasted image 20241016155501.png",
+    "Files/Pasted image 20241016154352.png",
+    "Files/Pasted image 20241016153911.png",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.5 Energie einer elektromagnetischen Welle und Poynting Vektor.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.7 Brechungsindex.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.6 Das elektromagnetische Spektrum.md",
+    "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.1 Drehimpuls.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.4 Polarisation.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.3 Ebene Wellen.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.2 Wellengleichung im Vakuum.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.1 Maxwell-Gleichungen.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.6 Das elektromagnetische Spektrum.md",
     "Files/Pasted image 20241011185452.png",
     "Files/Pasted image 20241011185349.png",
     "Experimentalphysik III/Optik/1. Einleitung/Notiz von Keknan.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
     "Files/Pasted image 20241011183833.png",
     "Files/Pasted image 20241011183403.png",
     "Files/Pasted image 20241011183310.png",
@@ -190,12 +195,8 @@
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.12 Reale Gase und Flüssigkeiten.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.3 Temperatur-Skalen und die absolute Temperatur.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.2 Temperatur und das Gasthermometer.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md",
-    "Experimentalphysik I/Mechanik/13. Mechanik von Flüssigkeiten und Gasen/13.1 Mechanik ruhender Flüssigkeiten und Gase.md",
     "Files/Pasted image 20240916221331.png",
     "Files/Pasted image 20240916221012.png",
-    "Files/Pasted image 20240916220204.png",
-    "Files/Pasted image 20240916214446.png",
     "Experimentalphysik I/Mechanik/13. Mechanik von Flüssigkeiten und Gasen",
     "Experimentalphysik I/Mechanik/15. Wellen",
     "Experimentalphysik I/Mechanik/14. Schwingungen",
