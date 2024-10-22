@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
+                "file": "Höhere Mathematik I/Kapitel 1/1.1 Mengen und Mengenschreibweise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.5 Lineare und Drehbewegung, Trägheitstensor"
-            }
-          },
-          {
-            "id": "f0d5b414e7b0dc96",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "1.1 Mengen und Mengenschreibweise"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
+                "file": "Höhere Mathematik I/Kapitel 1/1.1 Mengen und Mengenschreibweise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 11.5 Lineare und Drehbewegung, Trägheitstensor"
+              "title": "Backlinks for 1.1 Mengen und Mengenschreibweise"
             }
           },
           {
@@ -125,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
+                "file": "Höhere Mathematik I/Kapitel 1/1.1 Mengen und Mengenschreibweise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 11.5 Lineare und Drehbewegung, Trägheitstensor"
+              "title": "Outgoing links from 1.1 Mengen und Mengenschreibweise"
             }
           },
           {
@@ -152,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md"
+                "file": "Höhere Mathematik I/Kapitel 1/1.1 Mengen und Mengenschreibweise.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 11.5 Lineare und Drehbewegung, Trägheitstensor"
+              "title": "Outline of 1.1 Mengen und Mengenschreibweise"
             }
           },
           {
@@ -186,8 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0d5b414e7b0dc96",
+  "active": "1b1dbb81046c7adf",
   "lastOpenFiles": [
+    "README.md",
+    "Höhere Mathematik I/Kapitel 1/1.1 Mengen und Mengenschreibweise.md",
+    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.7 Brechungsindex.md",
     "Files/Pasted image 20241016155501.png",
     "Files/Pasted image 20241016154352.png",
@@ -224,8 +214,6 @@
     "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.1 Hertzscher Dipol.md",
     "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.2 Ebene Wellen im freien Raum.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.12 Reale Gase und Flüssigkeiten.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.3 Temperatur-Skalen und die absolute Temperatur.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.2 Temperatur und das Gasthermometer.md",
     "Files/Pasted image 20240916221331.png",
     "Experimentalphysik I/Mechanik/13. Mechanik von Flüssigkeiten und Gasen",
     "Experimentalphysik I/Mechanik/15. Wellen",
