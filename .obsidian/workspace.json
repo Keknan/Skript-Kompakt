@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Höhere Mathematik I/Kapitel 1/1.1 Mengen und Mengenschreibweise.md",
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.8 Maxwell-Beziehung in Materie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 Mengen und Mengenschreibweise"
+              "title": "2.8 Maxwell-Beziehung in Materie"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Höhere Mathematik I/Kapitel 1/1.1 Mengen und Mengenschreibweise.md",
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.8 Maxwell-Beziehung in Materie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.1 Mengen und Mengenschreibweise"
+              "title": "Backlinks for 2.8 Maxwell-Beziehung in Materie"
             }
           },
           {
@@ -190,22 +190,23 @@
   },
   "active": "cc43f9641e4c3ae6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.8 Maxwell-Beziehung in Materie.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.7 Brechungsindex.md",
+    "Höhere Mathematik I/Kapitel 1/1.1 Mengen und Mengenschreibweise.md",
+    "conflict-files-obsidian-git.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.6 Das elektromagnetische Spektrum.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.5 Energie einer elektromagnetischen Welle und Poynting Vektor.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.4 Polarisation.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.3 Ebene Wellen.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.2 Wellengleichung im Vakuum.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.1 Maxwell-Gleichungen.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
     "Experimentalphysik III/Optik/1. Einleitung/Notiz von Keknan.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.12 Reale Gase und Flüssigkeiten.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md",
     "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.4 Wellen auf Leitungen.md",
-    "Höhere Mathematik I/Kapitel 1/1.1 Mengen und Mengenschreibweise.md",
     "README.md",
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
     "Files/Pasted image 20241016155501.png",
@@ -228,7 +229,6 @@
     "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik/2.2 Der Raum und seine Geometrie.md",
     "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik/2.3 Körper und Teilchen, Masse und Stoffmenge.md",
     "Experimentalphysik I/Mechanik/14. Schwingungen/14.2 Gedämpfte Schwingungen.md",
-    "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus/8.4 Energietransport.md",
     "Files/Pasted image 20240916221331.png",
     "Experimentalphysik I/Mechanik/13. Mechanik von Flüssigkeiten und Gasen",
     "Experimentalphysik I/Mechanik/15. Wellen",
