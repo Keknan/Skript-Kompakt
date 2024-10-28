@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4020751bf65a072",
+            "id": "116f60415648d2c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Physik I/Newtonsche Mechanik/1 Die Newtonschen Gesetze/1.3 Zweites Newtonsches Gesetz; das Bewegungsgesetz.md",
+                "file": "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.0 Erhaltungsgrößen - Inhalt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3 Zweites Newtonsches Gesetz; das Bewegungsgesetz"
+              "title": "2.0 Erhaltungsgrößen - Inhalt"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theoretische Physik I/Newtonsche Mechanik/1 Die Newtonschen Gesetze/1.3 Zweites Newtonsches Gesetz; das Bewegungsgesetz.md",
+                "file": "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.0 Erhaltungsgrößen - Inhalt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.3 Zweites Newtonsches Gesetz; das Bewegungsgesetz"
+              "title": "Backlinks for 2.0 Erhaltungsgrößen - Inhalt"
             }
           },
           {
@@ -173,9 +173,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4020751bf65a072",
+  "active": "116f60415648d2c2",
   "lastOpenFiles": [
+    "Theoretische Physik I/Newtonsche Mechanik/1 Die Newtonschen Gesetze/1.5 Drittes Newtonsches Gesetz; Das Reaktionsprinzip.md",
+    "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.0 Erhaltungsgrößen - Inhalt.md",
+    "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen",
     "Theoretische Physik I/Newtonsche Mechanik/1 Die Newtonschen Gesetze/1.0 Die Newtonschen Gesetze - Inhalt.md",
+    "Theoretische Physik I/Newtonsche Mechanik/1 Die Newtonschen Gesetze/1.4 Mehrteilchensysteme.md",
     "Theoretische Physik I/Newtonsche Mechanik/1 Die Newtonschen Gesetze/1.3 Zweites Newtonsches Gesetz; das Bewegungsgesetz.md",
     "Theoretische Physik I/Newtonsche Mechanik/1 Die Newtonschen Gesetze/1.2 Das Galileische Relativitätsprinzip.md",
     "Theoretische Physik I/Newtonsche Mechanik/1 Die Newtonschen Gesetze/1.1 Erstes Newtonsches Gesetz; Das Trägheitsgesetz (Inertialgesetz).md",
@@ -201,12 +205,9 @@
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.12 Reale Gase und Flüssigkeiten.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md",
-    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.4 Wellen auf Leitungen.md",
-    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
     "Files/Pasted image 20241016155501.png",
     "Files/Pasted image 20241016154352.png",
     "Files/Pasted image 20241016153911.png",
-    "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.1 Drehimpuls.md",
     "Files/Pasted image 20241011185452.png",
     "Files/Pasted image 20241011185349.png",
     "Files/Pasted image 20241011183833.png",
@@ -219,7 +220,6 @@
     "Experimentalphysik III",
     "Files/Pasted image 20240916221331.png",
     "Experimentalphysik I/Mechanik/13. Mechanik von Flüssigkeiten und Gasen",
-    "Experimentalphysik I/Mechanik/15. Wellen",
-    "Experimentalphysik I/Mechanik/14. Schwingungen"
+    "Experimentalphysik I/Mechanik/15. Wellen"
   ]
 }
