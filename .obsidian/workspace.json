@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.3 Gesamtenergie.md",
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.9 Phasenbeziehung zwischen Primär- und Sekundärwelle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3 Gesamtenergie"
+              "title": "2.9 Phasenbeziehung zwischen Primär- und Sekundärwelle"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.3 Gesamtenergie.md",
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.9 Phasenbeziehung zwischen Primär- und Sekundärwelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2.3 Gesamtenergie"
+              "title": "Backlinks for 2.9 Phasenbeziehung zwischen Primär- und Sekundärwelle"
             }
           },
           {
@@ -175,9 +175,14 @@
   },
   "active": "51504d90db71d0d5",
   "lastOpenFiles": [
+    "Files/Pasted image 20241029153739.png",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.1 Maxwell-Gleichungen.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.9 Phasenbeziehung zwischen Primär- und Sekundärwelle.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.8 Maxwell-Beziehung in Materie.md",
+    "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.3 Gesamtenergie.md",
     "Files/Pasted image 20241028223334.png",
     "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.0 Erhaltungsgrößen - Inhalt.md",
-    "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.3 Gesamtenergie.md",
     "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.1 Schwerpunkt und Gesamtimpuls.md",
     "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.2 Gesamtdrehimpuls.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.3 Linear- und Drehbewegung.md",
@@ -195,16 +200,12 @@
     "Theoretische Physik I/Newtonsche Mechanik/1 Die Newtonschen Gesetze/1.2 Das Galileische Relativitätsprinzip.md",
     "Theoretische Physik I/Newtonsche Mechanik/1 Die Newtonschen Gesetze/1.1 Erstes Newtonsches Gesetz; Das Trägheitsgesetz (Inertialgesetz).md",
     "Höhere Mathematik I/Kapitel 1/1.1 Mengen und Mengenschreibweise.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.1 Maxwell-Gleichungen.md",
     "Theoretische Physik I/Newtonsche Mechanik/1 Die Newtonschen Gesetze",
     "README.md",
     "Starter/Test.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/Ana.md",
     "Theoretische Physik I/Newtonsche Mechanik",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.8 Maxwell-Beziehung in Materie.md",
     "Theoretische Physik I",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.7 Brechungsindex.md",
     "Files/Pasted image 20241016155501.png",
     "Files/Pasted image 20241016154352.png",
     "Files/Pasted image 20241016153911.png",
@@ -218,7 +219,6 @@
     "Experimentalphysik III/Optik/1. Einleitung",
     "Experimentalphysik III/Optik/2. Wellen in Materie",
     "Experimentalphysik III",
-    "Files/Pasted image 20240916221331.png",
     "Experimentalphysik I/Mechanik/13. Mechanik von Flüssigkeiten und Gasen",
     "Experimentalphysik I/Mechanik/15. Wellen"
   ]
