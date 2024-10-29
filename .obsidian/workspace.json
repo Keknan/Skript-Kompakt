@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.9 Phasenbeziehung zwischen Primär- und Sekundärwelle.md",
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.12  Wellen in leitenden Medien.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.9 Phasenbeziehung zwischen Primär- und Sekundärwelle"
+              "title": "2.12  Wellen in leitenden Medien"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.9 Phasenbeziehung zwischen Primär- und Sekundärwelle.md",
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.12  Wellen in leitenden Medien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2.9 Phasenbeziehung zwischen Primär- und Sekundärwelle"
+              "title": "Backlinks for 2.12  Wellen in leitenden Medien"
             }
           },
           {
@@ -175,10 +175,22 @@
   },
   "active": "51504d90db71d0d5",
   "lastOpenFiles": [
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.12  Wellen in leitenden Medien.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.11 Dispersion in realen Medien.md",
+    "Files/Pasted image 20241029174613.png",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.10 Mikroskopisches Modell.md",
+    "Files/Pasted image 20241029171533.png",
+    "Files/Pasted image 20241029170017.png",
+    "Files/Pasted image 20241029164528.png",
+    "Files/Pasted image 20241029161541.png",
+    "Files/Pasted image 20241029161259.png",
+    "Experimentalphysik I/Mechanik/14. Schwingungen/14.3 Erzwungene Schwingungen, Resonanz.md",
+    "Experimentalphysik I/Mechanik/14. Schwingungen/14.2 Gedämpfte Schwingungen.md",
+    "Files/Pasted image 20241029155901.png",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.9 Phasenbeziehung zwischen Primär- und Sekundärwelle.md",
     "Files/Pasted image 20241029153739.png",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.1 Maxwell-Gleichungen.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.9 Phasenbeziehung zwischen Primär- und Sekundärwelle.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.8 Maxwell-Beziehung in Materie.md",
     "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.3 Gesamtenergie.md",
     "Files/Pasted image 20241028223334.png",
@@ -199,22 +211,10 @@
     "Theoretische Physik I/Newtonsche Mechanik/1 Die Newtonschen Gesetze/1.3 Zweites Newtonsches Gesetz; das Bewegungsgesetz.md",
     "Theoretische Physik I/Newtonsche Mechanik/1 Die Newtonschen Gesetze/1.2 Das Galileische Relativitätsprinzip.md",
     "Theoretische Physik I/Newtonsche Mechanik/1 Die Newtonschen Gesetze/1.1 Erstes Newtonsches Gesetz; Das Trägheitsgesetz (Inertialgesetz).md",
-    "Höhere Mathematik I/Kapitel 1/1.1 Mengen und Mengenschreibweise.md",
     "Theoretische Physik I/Newtonsche Mechanik/1 Die Newtonschen Gesetze",
-    "README.md",
-    "Starter/Test.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/Ana.md",
     "Theoretische Physik I/Newtonsche Mechanik",
     "Theoretische Physik I",
     "Files/Pasted image 20241016155501.png",
-    "Files/Pasted image 20241016154352.png",
-    "Files/Pasted image 20241016153911.png",
-    "Files/Pasted image 20241011185452.png",
-    "Files/Pasted image 20241011185349.png",
-    "Files/Pasted image 20241011183833.png",
-    "Files/Pasted image 20241011183403.png",
-    "Files/Pasted image 20241011183310.png",
-    "Files/Pasted image 20241011171722.png",
     "Experimentalphysik III/Optik",
     "Experimentalphysik III/Optik/1. Einleitung",
     "Experimentalphysik III/Optik/2. Wellen in Materie",
