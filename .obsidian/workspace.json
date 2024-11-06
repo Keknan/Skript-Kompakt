@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.17 Reflexion an Metalloberflächen.md",
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.18 Lichtausbreitung in nichtisotropen Medien, Doppelbrechung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.17 Reflexion an Metalloberflächen"
+              "title": "2.18 Lichtausbreitung in nichtisotropen Medien, Doppelbrechung"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.17 Reflexion an Metalloberflächen.md",
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.18 Lichtausbreitung in nichtisotropen Medien, Doppelbrechung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2.17 Reflexion an Metalloberflächen"
+              "title": "Backlinks for 2.18 Lichtausbreitung in nichtisotropen Medien, Doppelbrechung"
             }
           },
           {
@@ -175,9 +175,20 @@
   },
   "active": "1c62ab4928056317",
   "lastOpenFiles": [
-    "Files/Pasted image 20241105222750.png",
+    "Files/Pasted image 20241106215454.png",
+    "Files/Pasted image 20241106215201.png",
+    "Files/Pasted image 20241106213925.png",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.10 Mikroskopisches Modell.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.9 Phasenbeziehung zwischen Primär- und Sekundärwelle.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.8 Maxwell-Beziehung in Materie.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.7 Brechungsindex.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.4 Polarisation.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.18 Lichtausbreitung in nichtisotropen Medien, Doppelbrechung.md",
+    "Files/Pasted image 20241106213131.png",
+    "Files/Pasted image 20241106212418.png",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.17 Reflexion an Metalloberflächen.md",
+    "Files/Pasted image 20241105222750.png",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.14 Reflexions- und Transmissionsvermögen einer Grenzfläche.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.15 Brewster-Winkel.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.16 Totalreflexion.md",
@@ -185,21 +196,13 @@
     "Files/Pasted image 20241105221651.png",
     "Files/Pasted image 20241105220818.png",
     "Files/Pasted image 20241105220803.png",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.10 Mikroskopisches Modell.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.9 Phasenbeziehung zwischen Primär- und Sekundärwelle.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.11 Dispersion in realen Medien.md",
     "Files/Pasted image 20241105215537.png",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.13 Wellen an Grenzflächen zwischen zwei Medien.md",
-    "Files/Pasted image 20241105213354.png",
-    "Files/Pasted image 20241105205146.png",
-    "Files/Pasted image 20241105202810.png",
-    "Files/Pasted image 20241105201552.png",
-    "Files/Pasted image 20241105200504.png",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.12  Wellen in leitenden Medien.md",
     "Experimentalphysik I/Mechanik/14. Schwingungen/14.3 Erzwungene Schwingungen, Resonanz.md",
     "Experimentalphysik I/Mechanik/14. Schwingungen/14.2 Gedämpfte Schwingungen.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.1 Maxwell-Gleichungen.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.8 Maxwell-Beziehung in Materie.md",
     "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.3 Gesamtenergie.md",
     "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.0 Erhaltungsgrößen - Inhalt.md",
     "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.1 Schwerpunkt und Gesamtimpuls.md",
@@ -208,9 +211,6 @@
     "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.0 Drehbewegungen - Inhalt.md",
     "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.5 ''Echte'' Kräfte und Beschleunigung.md",
     "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.4 Scheinkräfte.md",
-    "Experimentalphysik I/Mechanik/6. Bewegte Bezugssysteme/6.3 Rotierende Bezugssysteme.md",
-    "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.2 Vergleich; Lineare und Drehbewegung.md",
-    "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.1 Drehimpuls.md",
     "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen",
     "Theoretische Physik I/Newtonsche Mechanik/1 Die Newtonschen Gesetze",
     "Theoretische Physik I/Newtonsche Mechanik",
