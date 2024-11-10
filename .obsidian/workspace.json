@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
+                "file": "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.3 Gesamtenergie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.0 Wellen in Materie - Inhalt"
+              "title": "2.3 Gesamtenergie"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
+                "file": "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.3 Gesamtenergie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2.0 Wellen in Materie - Inhalt"
+              "title": "Backlinks for 2.3 Gesamtenergie"
             }
           },
           {
@@ -175,6 +175,7 @@
   },
   "active": "1c62ab4928056317",
   "lastOpenFiles": [
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.21 Erzeugung von polarisiertem Licht.md",
     "Files/Pasted image 20241108003407.png",
     "Files/Pasted image 20241108002916.png",
@@ -186,7 +187,6 @@
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.16 Totalreflexion.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.17 Reflexion an Metalloberflächen.md",
     "Files/Pasted image 20241107234158.png",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.20 Malussches Gesetz.md",
     "Files/Pasted image 20241107233255.png",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.19 Polarisationsarten.md",
