@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c62ab4928056317",
+            "id": "3e3df6f341c0b7b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.3 Gesamtenergie.md",
+                "file": "Theoretische Physik I/Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte/3.5 Federkraft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3 Gesamtenergie"
+              "title": "3.5 Federkraft"
+            }
+          },
+          {
+            "id": "9d9e0cf4d7936f42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theoretische Physik I/Newtonsche Mechanik/4 Ein Teilchen in einer Dimension/4.0 Ein Teilchen in einer Dimension.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.0 Ein Teilchen in einer Dimension"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.3 Gesamtenergie.md",
+                "file": "Theoretische Physik I/Newtonsche Mechanik/4 Ein Teilchen in einer Dimension/4.0 Ein Teilchen in einer Dimension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2.3 Gesamtenergie"
+              "title": "Backlinks for 4.0 Ein Teilchen in einer Dimension"
             }
           },
           {
@@ -173,8 +188,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c62ab4928056317",
+  "active": "9d9e0cf4d7936f42",
   "lastOpenFiles": [
+    "Theoretische Physik I/Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte/3.5 Federkraft.md",
+    "Theoretische Physik I/Newtonsche Mechanik/4 Ein Teilchen in einer Dimension/4.0 Ein Teilchen in einer Dimension.md",
+    "Theoretische Physik I/Newtonsche Mechanik/4 Ein Teilchen in einer Dimension",
+    "Files/Pasted image 20241111004013.png",
+    "Files/Pasted image 20241111003244.png",
+    "Theoretische Physik I/Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte/3.4 Reibungskraft.md",
+    "Theoretische Physik I/Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte/3.0 Beispiele wichtiger Kräfte - Inhalt.md",
+    "Files/Pasted image 20241111003153.png",
+    "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.0 Erhaltungsgrößen - Inhalt.md",
+    "Theoretische Physik I/Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte",
+    "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.3 Gesamtenergie.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.21 Erzeugung von polarisiertem Licht.md",
     "Files/Pasted image 20241108003407.png",
@@ -188,10 +214,7 @@
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.17 Reflexion an Metalloberflächen.md",
     "Files/Pasted image 20241107234158.png",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.20 Malussches Gesetz.md",
-    "Files/Pasted image 20241107233255.png",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.19 Polarisationsarten.md",
-    "Files/Pasted image 20241107232751.png",
-    "Files/Pasted image 20241107232508.png",
     "Experimentalphysik I/Mechanik/15. Wellen/15.2 Wellentypen, Wellenausbreitung.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.4 Polarisation.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.18 Lichtausbreitung in nichtisotropen Medien, Doppelbrechung.md",
@@ -205,11 +228,6 @@
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.12  Wellen in leitenden Medien.md",
     "Experimentalphysik I/Mechanik/14. Schwingungen/14.3 Erzwungene Schwingungen, Resonanz.md",
     "Experimentalphysik I/Mechanik/14. Schwingungen/14.2 Gedämpfte Schwingungen.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.1 Maxwell-Gleichungen.md",
-    "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.3 Gesamtenergie.md",
-    "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.0 Erhaltungsgrößen - Inhalt.md",
-    "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.1 Schwerpunkt und Gesamtimpuls.md",
-    "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.2 Gesamtdrehimpuls.md",
     "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen",
     "Theoretische Physik I/Newtonsche Mechanik/1 Die Newtonschen Gesetze",
     "Theoretische Physik I/Newtonsche Mechanik",
@@ -217,8 +235,6 @@
     "Experimentalphysik III/Optik",
     "Experimentalphysik III/Optik/1. Einleitung",
     "Experimentalphysik III/Optik/2. Wellen in Materie",
-    "Experimentalphysik III",
-    "Experimentalphysik I/Mechanik/13. Mechanik von Flüssigkeiten und Gasen",
-    "Experimentalphysik I/Mechanik/15. Wellen"
+    "Experimentalphysik III"
   ]
 }
