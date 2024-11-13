@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.21 Erzeugung von polarisiertem Licht.md",
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.22 Änderung der Polarisationsrichtung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.21 Erzeugung von polarisiertem Licht"
+              "title": "2.22 Änderung der Polarisationsrichtung"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.21 Erzeugung von polarisiertem Licht.md",
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.22 Änderung der Polarisationsrichtung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2.21 Erzeugung von polarisiertem Licht"
+              "title": "Backlinks for 2.22 Änderung der Polarisationsrichtung"
             }
           },
           {
@@ -175,6 +175,23 @@
   },
   "active": "6a949aa47cebe52f",
   "lastOpenFiles": [
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.20 Malussches Gesetz.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.21 Erzeugung von polarisiertem Licht.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.10 Mikroskopisches Modell.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.9 Phasenbeziehung zwischen Primär- und Sekundärwelle.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.8 Maxwell-Beziehung in Materie.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.7 Brechungsindex.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.6 Das elektromagnetische Spektrum.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.5 Energie einer elektromagnetischen Welle und Poynting Vektor.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.4 Polarisation.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.3 Ebene Wellen.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.2 Wellengleichung im Vakuum.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.12  Wellen in leitenden Medien.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.11 Dispersion in realen Medien.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.22 Änderung der Polarisationsrichtung.md",
+    "Files/Pasted image 20241113213540.png",
+    "Files/Pasted image 20241113213352.png",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
     "Theoretische Physik I/Newtonsche Mechanik/4 Ein Teilchen in einer Dimension/4.0 Ein Teilchen in einer Dimension.md",
     "README.md",
     "Theoretische Physik I/Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte/3.5 Federkraft.md",
@@ -187,32 +204,15 @@
     "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.0 Erhaltungsgrößen - Inhalt.md",
     "Theoretische Physik I/Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte",
     "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.3 Gesamtenergie.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.21 Erzeugung von polarisiertem Licht.md",
     "Files/Pasted image 20241108003407.png",
     "Files/Pasted image 20241108002916.png",
     "Files/Pasted image 20241108002434.png",
     "Files/Pasted image 20241108002417.png",
     "Files/Pasted image 20241108001230.png",
-    "Files/Pasted image 20241108000712.png",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.14 Reflexions- und Transmissionsvermögen einer Grenzfläche.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.16 Totalreflexion.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.17 Reflexion an Metalloberflächen.md",
-    "Files/Pasted image 20241107234158.png",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.20 Malussches Gesetz.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.19 Polarisationsarten.md",
-    "Experimentalphysik I/Mechanik/15. Wellen/15.2 Wellentypen, Wellenausbreitung.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.4 Polarisation.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.18 Lichtausbreitung in nichtisotropen Medien, Doppelbrechung.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.13 Wellen an Grenzflächen zwischen zwei Medien.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.10 Mikroskopisches Modell.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.9 Phasenbeziehung zwischen Primär- und Sekundärwelle.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.8 Maxwell-Beziehung in Materie.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.7 Brechungsindex.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.15 Brewster-Winkel.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.11 Dispersion in realen Medien.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.12  Wellen in leitenden Medien.md",
-    "Experimentalphysik I/Mechanik/14. Schwingungen/14.3 Erzwungene Schwingungen, Resonanz.md",
     "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen",
     "Theoretische Physik I/Newtonsche Mechanik/1 Die Newtonschen Gesetze",
     "Theoretische Physik I/Newtonsche Mechanik",
