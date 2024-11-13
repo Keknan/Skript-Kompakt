@@ -1,4 +1,9 @@
 [
   "obsidian-git",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "mathlinks",
+  "dataview",
+  "obsidian-discordrpc",
+  "quick-preview",
+  "math-booster"
 ]
