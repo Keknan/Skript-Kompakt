@@ -4,22 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "0550e6e9e112ef9f",
+        "id": "51de7a7bcbe9adfa",
         "type": "tabs",
         "children": [
           {
-            "id": "1b1dbb81046c7adf",
+            "id": "6a949aa47cebe52f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file" : "Experimentalphysik III/Optik/2. Wellen in Materie/2.7 Brechungsindex.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2.22 Änderung der Polarisationsrichtung"
+            }
+          },
+          {
+            "id": "704745f9452ae8e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.22 Änderung der Polarisationsrichtung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.22 Änderung der Polarisationsrichtung"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,15 +107,16 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file" : "Experimentalphysik III/Optik/2. Wellen in Materie/2.7 Brechungsindex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "",
+                "searchQuery": "beer",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2.22 Änderung der Polarisationsrichtung"
             }
           },
           {
@@ -102,10 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.7 Brechungsindex.md",
+                "file": "Höhere Mathematik I/Kapitel 1/1.1 Mengen und Mengenschreibweise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1.1 Mengen und Mengenschreibweise"
             }
           },
           {
@@ -116,7 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.7 Brechungsindex.md"
-              }
+                "file": "Höhere Mathematik I/Kapitel 1/1.1 Mengen und Mengenschreibweise.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1.1 Mengen und Mengenschreibweise"
             }
           },
           {
@@ -134,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ]
@@ -155,53 +186,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b1dbb81046c7adf",
+  "active": "704745f9452ae8e5",
   "lastOpenFiles": [
-    "Files/Pasted image 20241016155501.png",
-    "Files/Pasted image 20241016154352.png",
-    "Files/Pasted image 20241016153911.png",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.5 Energie einer elektromagnetischen Welle und Poynting Vektor.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.22 Änderung der Polarisationsrichtung.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.20 Malussches Gesetz.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.21 Erzeugung von polarisiertem Licht.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.10 Mikroskopisches Modell.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.9 Phasenbeziehung zwischen Primär- und Sekundärwelle.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.8 Maxwell-Beziehung in Materie.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.7 Brechungsindex.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.6 Das elektromagnetische Spektrum.md",
-    "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.1 Drehimpuls.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.5 Energie einer elektromagnetischen Welle und Poynting Vektor.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.4 Polarisation.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.3 Ebene Wellen.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.2 Wellengleichung im Vakuum.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.1 Maxwell-Gleichungen.md",
-    "Files/Pasted image 20241011185452.png",
-    "Files/Pasted image 20241011185349.png",
-    "Experimentalphysik III/Optik/1. Einleitung/Notiz von Keknan.md",
-    "Files/Pasted image 20241011183833.png",
-    "Files/Pasted image 20241011183403.png",
-    "Files/Pasted image 20241011183310.png",
-    "Files/Pasted image 20241011171722.png",
-    "Files/Snippets.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.12  Wellen in leitenden Medien.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.11 Dispersion in realen Medien.md",
+    "Files/Pasted image 20241113213540.png",
+    "Files/Pasted image 20241113213352.png",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
+    "Theoretische Physik I/Newtonsche Mechanik/4 Ein Teilchen in einer Dimension/4.0 Ein Teilchen in einer Dimension.md",
+    "README.md",
+    "Theoretische Physik I/Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte/3.5 Federkraft.md",
+    "Theoretische Physik I/Newtonsche Mechanik/4 Ein Teilchen in einer Dimension",
+    "Files/Pasted image 20241111004013.png",
+    "Files/Pasted image 20241111003244.png",
+    "Theoretische Physik I/Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte/3.4 Reibungskraft.md",
+    "Theoretische Physik I/Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte/3.0 Beispiele wichtiger Kräfte - Inhalt.md",
+    "Files/Pasted image 20241111003153.png",
+    "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.0 Erhaltungsgrößen - Inhalt.md",
+    "Theoretische Physik I/Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte",
+    "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen/2.3 Gesamtenergie.md",
+    "Files/Pasted image 20241108003407.png",
+    "Files/Pasted image 20241108002916.png",
+    "Files/Pasted image 20241108002434.png",
+    "Files/Pasted image 20241108002417.png",
+    "Files/Pasted image 20241108001230.png",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.14 Reflexions- und Transmissionsvermögen einer Grenzfläche.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.16 Totalreflexion.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.17 Reflexion an Metalloberflächen.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.19 Polarisationsarten.md",
+    "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen",
+    "Theoretische Physik I/Newtonsche Mechanik/1 Die Newtonschen Gesetze",
+    "Theoretische Physik I/Newtonsche Mechanik",
+    "Theoretische Physik I",
     "Experimentalphysik III/Optik",
     "Experimentalphysik III/Optik/1. Einleitung",
-    "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
-    "Experimentalphysik I/Mechanik/10. Himmelsmechanik/Untitled.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie",
-    "Experimentalphysik III",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
-    "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik/2.2 Der Raum und seine Geometrie.md",
-    "Experimentalphysik I/Mechanik/2. Grundgrößen der Physik/2.3 Körper und Teilchen, Masse und Stoffmenge.md",
-    "Experimentalphysik I/Mechanik/14. Schwingungen/14.2 Gedämpfte Schwingungen.md",
-    "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus/8.4 Energietransport.md",
-    "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus/8.3 Energiespeicherung im elektromagnetischen Feld.md",
-    "Experimentalphysik II/Elektromagnetismus/8. Energie im Elektromagnetismus/8.2 Eigenschwingungen.md",
-    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.1 Hertzscher Dipol.md",
-    "Experimentalphysik II/Elektromagnetismus/7. Elektromagnetische Wellen/7.2 Ebene Wellen im freien Raum.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.12 Reale Gase und Flüssigkeiten.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.3 Temperatur-Skalen und die absolute Temperatur.md",
-    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.2 Temperatur und das Gasthermometer.md",
-    "Files/Pasted image 20240916221331.png",
-    "Files/Pasted image 20240916221012.png",
-    "Experimentalphysik I/Mechanik/13. Mechanik von Flüssigkeiten und Gasen",
-    "Experimentalphysik I/Mechanik/15. Wellen",
-    "Experimentalphysik I/Mechanik/14. Schwingungen",
-    "Experimentalphysik I/Mechanik/12. Mechanik fester Körper",
-    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers",
-    "Experimentalphysik I/Mechanik/10. Himmelsmechanik"
+    "Experimentalphysik III"
   ]
 }
