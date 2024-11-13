@@ -312,3 +312,37 @@
 	}, options: "mA", description: "N x N identity matrix"},
 
 ]
+
+// Referencer-Plugin
+    {trigger: "ref", replacement: "\\ref$0", options: "t"},
+    { trigger: "axm", replacement: "> [!axiom] $0\n> $1", options: "t" },
+    { trigger: "def", replacement: "> [!definition] $0\n> $1", options: "t" },
+    { trigger: "lem", replacement: "> [!lemma] $0\n> $1", options: "t" },
+    { trigger: "prp", replacement: "> [!proposition] $0\n> $1", options: "t" },
+    { trigger: "thm", replacement: "> [!theorem] $0\n> $1", options: "t" },
+    { trigger: "cor", replacement: "> [!corollary] $0\n> $1", options: "t" },
+    { trigger: "clm", replacement: "> [!claim] $0\n> $1", options: "t" },
+    { trigger: "asm", replacement: "> [!assumption] $0\n> $1", options: "t" },
+    { trigger: "exm", replacement: "> [!exm] $0\n> $1", options: "t" },
+    { trigger: "exr", replacement: "> [!exercise] $0\n> $1", options: "t" },
+    { trigger: "cnj", replacement: "> [!conjecture] $0\n> $1", options: "t" },
+    { trigger: "hyp", replacement: "> [!hypothesis] $0\n> $1", options: "t" },
+    { trigger: "rmr", replacement: "> [!remark] $0\n> $1", options: "t" },
+    { trigger: "axiom", replacement: "> [!axiom] $0\n> $1", options: "t" },
+    { trigger: "definition", replacement: "> [!definition] $0\n> $1", options: "t" },
+    { trigger: "lemma", replacement: "> [!lemma] $0\n> $1", options: "t" },
+    { trigger: "proposition", replacement: "> [!proposition] $0\n> $1", options: "t" },
+    { trigger: "theorem", replacement: "> [!theorem] $0\n> $1", options: "t" },
+    { trigger: "corollary", replacement: "> [!corollary] $0\n> $1", options: "t" },
+    { trigger: "claim", replacement: "> [!claim] $0\n> $1", options: "t" },
+    { trigger: "assumption", replacement: "> [!assumption] $0\n> $1", options: "t" },
+    { trigger: "example", replacement: "> [!example] $0\n> $1", options: "t" },
+    { trigger: "exercise", replacement: "> [!exercise] $0\n> $1", options: "t" },
+    { trigger: "conjecture", replacement: "> [!conjecture] $0\n> $1", options: "t" },
+    { trigger: "hypothesis", replacement: "> [!hypothesis] $0\n> $1", options: "t" },
+    { trigger: "remark", replacement: "> [!remark] $0\n> $1", options: "t" },
+
+
+        
+    // Misc
+    {trigger: "tayl", replacement: "${0:f}(${1:x} + ${2:h}) = ${0:f}(${1:x}) + ${0:f}'(${1:x})${2:h} + ${0:f}''(${1:x}) \\frac{${2:h}^{2}}{2!} + \\dots$3", options: "mA"},

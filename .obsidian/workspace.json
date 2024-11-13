@@ -13,7 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Files/Snippets.md",
                 "mode": "source",
                 "source": true
               },
@@ -93,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Snippets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
