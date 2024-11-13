@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8165f0af9231e884",
+        "id": "51de7a7bcbe9adfa",
         "type": "tabs",
         "children": [
           {
-            "id": "c37bf68e6aadb7b3",
+            "id": "6a949aa47cebe52f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.21 Erzeugung von polarisiertem Licht.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "ea6f9995af4fd9c7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
+              "title": "2.21 Erzeugung von polarisiertem Licht"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Experimentalphysik III/Optik/2. Wellen in Materie/2.21 Erzeugung von polarisiertem Licht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2.21 Erzeugung von polarisiertem Licht"
             }
           },
           {
@@ -185,11 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea6f9995af4fd9c7",
+  "active": "6a949aa47cebe52f",
   "lastOpenFiles": [
-    "Theoretische Physik I/Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte/3.5 Federkraft.md",
-    "README.md",
     "Theoretische Physik I/Newtonsche Mechanik/4 Ein Teilchen in einer Dimension/4.0 Ein Teilchen in einer Dimension.md",
+    "README.md",
+    "Theoretische Physik I/Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte/3.5 Federkraft.md",
     "Theoretische Physik I/Newtonsche Mechanik/4 Ein Teilchen in einer Dimension",
     "Files/Pasted image 20241111004013.png",
     "Files/Pasted image 20241111003244.png",
