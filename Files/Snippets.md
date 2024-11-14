@@ -311,7 +311,6 @@
 		return output;
 	}, options: "mA", description: "N x N identity matrix"},
 
-]
 
 // Referencer-Plugin
     {trigger: "ref", replacement: "\\ref$0", options: "t"},
@@ -346,3 +345,4 @@
         
     // Misc
     {trigger: "tayl", replacement: "${0:f}(${1:x} + ${2:h}) = ${0:f}(${1:x}) + ${0:f}'(${1:x})${2:h} + ${0:f}''(${1:x}) \\frac{${2:h}^{2}}{2!} + \\dots$3", options: "mA"},
+]

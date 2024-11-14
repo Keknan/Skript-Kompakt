@@ -148,7 +148,7 @@
     "enableMathPreviewInCalloutAndQuote": true,
     "autocompleteDvQuery": "",
     "searchModalQueryType": "both",
-    "searchModalRange": "recent",
+    "searchModalRange": "vault",
     "searchModalDvQuery": ""
   },
   "excludedFiles": []
