@@ -11,10 +11,14 @@
             "id": "acd5388428b60c9b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Theoretische Physik I/Newtonsche Mechanik/4 Ein Teilchen in einer Dimension/4.0 Ein Teilchen in einer Dimension.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "4.0 Ein Teilchen in einer Dimension"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Theoretische Physik I/Newtonsche Mechanik/4 Ein Teilchen in einer Dimension/4.0 Ein Teilchen in einer Dimension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 4.0 Ein Teilchen in einer Dimension"
             }
           },
           {
@@ -171,6 +176,18 @@
   },
   "active": "acd5388428b60c9b",
   "lastOpenFiles": [
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.12  Wellen in leitenden Medien.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
+    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.2 Das Coulombgesetz.md",
+    "Experimentalphysik II/Elektromagnetismus/1. Elektrostatik/1.0 Elektrostatik - Inhalt.md",
+    "Experimentalphysik II/Elektromagnetismus/9. Die Maxwell-Gleichungen/9.1 Die Maxwell-Gleichungen.md",
+    "Experimentalphysik II/Elektromagnetismus/9. Die Maxwell-Gleichungen/9.0 Die Maxwell-Gleichungen - Inhalt.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
+    "Theoretische Physik I/Newtonsche Mechanik/4 Ein Teilchen in einer Dimension/4.0 Ein Teilchen in einer Dimension.md",
+    "Theoretische Physik I/Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte/3.0 Beispiele wichtiger Kräfte - Inhalt.md",
+    "Theoretische Physik I/Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte/3.5 Federkraft.md",
+    "Experimentalphysik I/Mechanik/15. Wellen/15.6 Dopplereffekt.md",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.19 Polarisationsarten.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.25 Kerr-Effekt.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.2 Wellengleichung im Vakuum.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.15 Brewster-Winkel.md",
@@ -180,7 +197,6 @@
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.4 Polarisation.md",
     "Files/Pasted image 20241114002516.png",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.24 Faraday-Effekt.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
     "Files/Pasted image 20241114001852.png",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.23 Optische Aktivität.md",
     "Files/Pasted image 20241114000956.png",
@@ -196,17 +212,6 @@
     "Höhere Mathematik I/Kapitel 1/1. Die reellen Zahlen.md",
     "Files/Snippets.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.21 Erzeugung von polarisiertem Licht.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.20 Malussches Gesetz.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.10 Mikroskopisches Modell.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.9 Phasenbeziehung zwischen Primär- und Sekundärwelle.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.8 Maxwell-Beziehung in Materie.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.7 Brechungsindex.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.6 Das elektromagnetische Spektrum.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.12  Wellen in leitenden Medien.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.11 Dispersion in realen Medien.md",
-    "Theoretische Physik I/Newtonsche Mechanik/4 Ein Teilchen in einer Dimension/4.0 Ein Teilchen in einer Dimension.md",
-    "README.md",
-    "Theoretische Physik I/Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte/3.5 Federkraft.md",
     "Theoretische Physik I/Newtonsche Mechanik/4 Ein Teilchen in einer Dimension",
     "Theoretische Physik I/Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte",
     "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen",
