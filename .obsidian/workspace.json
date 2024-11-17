@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
-                "mode": "source",
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "10.11 Entropie, Wahrscheinlichkeit, Ordnung"
+              "title": "10.10 Der zweite Hauptsatz der Thermodynamik"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
+                "file": "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 10.11 Entropie, Wahrscheinlichkeit, Ordnung"
+              "title": "Backlinks for 10.10 Der zweite Hauptsatz der Thermodynamik"
             }
           },
           {
@@ -176,6 +176,9 @@
   },
   "active": "288a1c9dd636998f",
   "lastOpenFiles": [
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.12 Reale Gase und Flüssigkeiten.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
+    "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.2 Temperatur und das Gasthermometer.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.1 Energie, Entropie und Temperatur.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.6 Das elektromagnetische Spektrum.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.5 Energie einer elektromagnetischen Welle und Poynting Vektor.md",
@@ -202,7 +205,6 @@
     "Files/Pasted image 20241114002516.png",
     "Files/Pasted image 20241114001852.png",
     "Files/Pasted image 20241114000956.png",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.22 Änderung der Polarisationsrichtung.md",
     "Files/Pasted image 20241113235631.png",
     "Files/Pasted image 20241113234750.png",
     "Files/Pasted image 20241113234351.png",
@@ -210,8 +212,6 @@
     "Files/Pasted image 20241113234326.png",
     "Files/Pasted image 20241113231539.png",
     "Files/Pasted image 20241113230632.png",
-    "Höhere Mathematik I/Kapitel 1/1.1 Mengen und Mengenschreibweise.md",
-    "Höhere Mathematik I/Kapitel 1/1. Die reellen Zahlen.md",
     "Theoretische Physik I/Newtonsche Mechanik/4 Ein Teilchen in einer Dimension",
     "Theoretische Physik I/Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte",
     "Theoretische Physik I/Newtonsche Mechanik/2 Erhaltungsgrößen",
