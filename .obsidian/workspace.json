@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.4 Lagrange-Gleichungen der 1. Art.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "9.4 Lagrange-Gleichungen der 1. Art"
@@ -174,10 +174,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed07ef16f1095b89",
+  "active": "21d503e27084784f",
   "lastOpenFiles": [
-    "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.3 Beispiel für eine nichtholonome Zwangsbedingung; die rollende vertikale Scheibe.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.4 Lagrange-Gleichungen der 1. Art.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.3 Beispiel für eine nichtholonome Zwangsbedingung; die rollende vertikale Scheibe.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.0 Systeme mit Zwangsbedingungen - Inhalt.md",
     "Files/Pasted image 20241118192304.png",
     "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.2 Das D'Alambertsche Prinzip.md",
