@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "9.4 Lagrange-Gleichungen der 1. Art"
             }
+          },
+          {
+            "id": "2113d32aa5cfd526",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.4 Lagrange-Gleichungen der 1. Art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 9.4 Lagrange-Gleichungen der 1. Art"
+              "title": "Backlinks"
             }
           },
           {
@@ -174,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed07ef16f1095b89",
+  "active": "2113d32aa5cfd526",
   "lastOpenFiles": [
     "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.2 Das D'Alambertsche Prinzip.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.4 Lagrange-Gleichungen der 1. Art.md",
