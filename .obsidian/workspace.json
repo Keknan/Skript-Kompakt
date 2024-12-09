@@ -25,12 +25,14 @@
             "id": "2113d32aa5cfd526",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.2 Labor-und Schwerpunktsystem.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "9.2 Labor-und Schwerpunktsystem"
             }
           }
         ],
@@ -106,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.2 Labor-und Schwerpunktsystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 9.2 Labor-und Schwerpunktsystem"
             }
           },
           {
@@ -188,6 +191,7 @@
   },
   "active": "2113d32aa5cfd526",
   "lastOpenFiles": [
+    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.1 Schwerpunktsatz.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.2 Das D'Alambertsche Prinzip.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.4 Lagrange-Gleichungen der 1. Art.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.3 Beispiel für eine nichtholonome Zwangsbedingung; die rollende vertikale Scheibe.md",
