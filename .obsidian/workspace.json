@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.2 Labor-und Schwerpunktsystem.md",
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "9.2 Labor-und Schwerpunktsystem"
+              "title": "11.5 Lineare und Drehbewegung, Trägheitstensor"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.2 Labor-und Schwerpunktsystem.md",
+                "file": "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 9.2 Labor-und Schwerpunktsystem"
+              "title": "Backlinks for 11.5 Lineare und Drehbewegung, Trägheitstensor"
             }
           },
           {
@@ -191,6 +191,11 @@
   },
   "active": "2113d32aa5cfd526",
   "lastOpenFiles": [
+    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.6 Kreiselbewegung.md",
+    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.4 Statisches Gleichgewicht.md",
+    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.3 Kräfte und Drehmomente.md",
+    "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
+    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.2 Labor-und Schwerpunktsystem.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.1 Schwerpunktsatz.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.2 Das D'Alambertsche Prinzip.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.4 Lagrange-Gleichungen der 1. Art.md",
@@ -227,11 +232,6 @@
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.6 Das elektromagnetische Spektrum.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.5 Energie einer elektromagnetischen Welle und Poynting Vektor.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.4 Polarisation.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.3 Ebene Wellen.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.2 Wellengleichung im Vakuum.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.23 Optische Aktivität.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.24 Faraday-Effekt.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.25 Kerr-Effekt.md",
     "Theoretische Physik I/I Newtonsche Mechanik/4 Ein Teilchen in einer Dimension",
     "Theoretische Physik I/I Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte",
     "Theoretische Physik I/I Newtonsche Mechanik/2 Erhaltungsgrößen",
