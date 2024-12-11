@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik III/Optik/3. Interferenz/3.1 Grundlagen.md",
+                "file": "Experimentalphysik III/Optik/3. Interferenz/3.2 Kohärenz.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "3.1 Grundlagen"
+              "title": "3.2 Kohärenz"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik III/Optik/3. Interferenz/3.1 Grundlagen.md",
+                "file": "Experimentalphysik III/Optik/3. Interferenz/3.2 Kohärenz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3.1 Grundlagen"
+              "title": "Backlinks for 3.2 Kohärenz"
             }
           },
           {
@@ -176,9 +176,10 @@
   },
   "active": "9159adcc02497b43",
   "lastOpenFiles": [
-    "Files/Pasted image 20241211220429.png",
     "Experimentalphysik III/Optik/3. Interferenz/3.0 Interferenz - Inhalt.md",
+    "Experimentalphysik III/Optik/3. Interferenz/3.2 Kohärenz.md",
     "Experimentalphysik III/Optik/3. Interferenz/3.1 Grundlagen.md",
+    "Files/Pasted image 20241211220429.png",
     "Experimentalphysik III/Optik/1. Einleitung/Notiz von Keknan.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.25 Kerr-Effekt.md",
     "Experimentalphysik III/Optik/3. Interferenz",
@@ -214,7 +215,6 @@
     "Theoretische Physik I/II Lagrangesche Mechanik",
     "Theoretische Physik I/I Newtonsche Mechanik/4 Ein Teilchen in einer Dimension/4.0 Ein Teilchen in einer Dimension.md",
     "Theoretische Physik I/I Newtonsche Mechanik/5 Beschleunigte Bezugssysteme und Scheinkräfte",
-    "Files/Pasted image 20241117181117.png",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.12 Reale Gase und Flüssigkeiten.md",
     "Experimentalphysik II/Wärmelehre/10. Thermodynamik/10.11 Entropie, Wahrscheinlichkeit, Ordnung.md",
