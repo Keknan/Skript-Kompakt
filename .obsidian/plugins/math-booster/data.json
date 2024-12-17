@@ -148,8 +148,10 @@
     "enableMathPreviewInCalloutAndQuote": true,
     "autocompleteDvQuery": "",
     "searchModalQueryType": "both",
-    "searchModalRange": "vault",
+    "searchModalRange": "active",
     "searchModalDvQuery": ""
   },
-  "excludedFiles": []
+  "excludedFiles": [
+    "Experimentalphysik III/Optik/3. Interferenz/3.0 Interferenz - Inhalt.md"
+  ]
 }
