@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik III/Optik/3. Interferenz/3.4 Interferometer mit Amplitudenaufspaltung.md",
+                "file": "Experimentalphysik III/Optik/3. Interferenz/3.5 Vielstrahlinterferenz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.4 Interferometer mit Amplitudenaufspaltung"
+              "title": "3.5 Vielstrahlinterferenz"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik III/Optik/3. Interferenz/3.4 Interferometer mit Amplitudenaufspaltung.md",
+                "file": "Experimentalphysik III/Optik/3. Interferenz/3.5 Vielstrahlinterferenz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3.4 Interferometer mit Amplitudenaufspaltung"
+              "title": "Backlinks for 3.5 Vielstrahlinterferenz"
             }
           },
           {
@@ -176,9 +176,14 @@
   },
   "active": "e477598ffa6c7be5",
   "lastOpenFiles": [
+    "Experimentalphysik III/Optik/3. Interferenz/3.4 Interferometer mit Amplitudenaufspaltung.md",
+    "Experimentalphysik III/Optik/3. Interferenz/3.5 Vielstrahlinterferenz.md",
+    "Files/Pasted image 20241218202932.png",
+    "Files/Pasted image 20241218202721.png",
+    "Files/Pasted image 20241218185748.png",
+    "Experimentalphysik III/Optik/3. Interferenz/3.0 Interferenz - Inhalt.md",
     "Files/Pasted image 20241217063946.png",
     "Experimentalphysik I/Mechanik/15. Wellen/15.4 Reflexion und Transmission.md",
-    "Experimentalphysik III/Optik/3. Interferenz/3.4 Interferometer mit Amplitudenaufspaltung.md",
     "Files/Pasted image 20241217053349.png",
     "Files/Pasted image 20241217045415.png",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.14 Reflexions- und Transmissionsvermögen einer Grenzfläche.md",
@@ -187,14 +192,9 @@
     "Files/Pasted image 20241217042558.png",
     "Files/Pasted image 20241217042508.png",
     "Files/Pasted image 20241217041714.png",
-    "Experimentalphysik III/Optik/3. Interferenz/3.0 Interferenz - Inhalt.md",
     "Files/Pasted image 20241212002353.png",
     "Experimentalphysik III/Optik/3. Interferenz/3.1 Grundlagen.md",
-    "Files/Pasted image 20241212000940.png",
-    "Files/Pasted image 20241212000905.png",
-    "Files/Pasted image 20241212000438.png",
     "Experimentalphysik III/Optik/3. Interferenz/3.2 Kohärenz.md",
-    "Files/Pasted image 20241211235603.png",
     "Experimentalphysik III/Optik/1. Einleitung/Notiz von Keknan.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.25 Kerr-Effekt.md",
     "Experimentalphysik III/Optik/3. Interferenz",
@@ -215,7 +215,6 @@
     "Theoretische Physik I/II Lagrangesche Mechanik/7 Die Euler-Lagrange Gleichungen/7.0 Die Euler-Lagrange Gleichungen.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/8 Lagrange-Gleichungen für Bewegungen ohne Zwangsbedingungen",
     "Theoretische Physik I/II Lagrangesche Mechanik/7 Die Euler-Lagrange Gleichungen",
-    "Theoretische Physik I/II Lagrangesche Mechanik/7.0.md",
     "Theoretische Physik I/II Lagrangesche Mechanik",
     "Theoretische Physik I/I Newtonsche Mechanik/5 Beschleunigte Bezugssysteme und Scheinkräfte",
     "Theoretische Physik I/I Newtonsche Mechanik/4 Ein Teilchen in einer Dimension",
