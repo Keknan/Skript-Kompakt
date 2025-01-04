@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.2 Hamilton-Funktion und Energieerhaltung.md",
+                "file": "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.2 Hamilton-Funktion und Energieerhaltung"
+              "title": "10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.2 Hamilton-Funktion und Energieerhaltung.md",
+                "file": "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 10.2 Hamilton-Funktion und Energieerhaltung"
+              "title": "Backlinks for 10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals"
             }
           },
           {
@@ -177,8 +177,9 @@
   "active": "18791c406b322b07",
   "lastOpenFiles": [
     "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.0 Erhaltungsgrößen und Noether's Theorem - Inhalt.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.2 Hamilton-Funktion und Energieerhaltung.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.1 Noether's Theorem; Invarianz unter einer Transformation der generalisierten Koordinaten.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.2 Hamilton-Funktion und Energieerhaltung.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.4 Lagrange-Gleichungen der 1. Art.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem",
     "Experimentalphysik III/Optik/3. Interferenz/3.6 Beugung.md",
@@ -213,7 +214,6 @@
     "Experimentalphysik I/Mechanik/11. Dynamik des starren Körpers/11.3 Kräfte und Drehmomente.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.2 Labor-und Schwerpunktsystem.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.1 Schwerpunktsatz.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.2 Das D'Alambertsche Prinzip.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen",
     "Theoretische Physik I/II Lagrangesche Mechanik/8 Lagrange-Gleichungen für Bewegungen ohne Zwangsbedingungen",
     "Theoretische Physik I/II Lagrangesche Mechanik/7 Die Euler-Lagrange Gleichungen",
