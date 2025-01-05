@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2d3eae589122c5f9",
+        "id": "58b9b3ecaca0dddd",
         "type": "tabs",
         "children": [
           {
-            "id": "e4f9490bca3c1354",
+            "id": "eb043d0ed24c2461",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem/11.2 Kepler-Problem.md",
+                "file": "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.1 Freie Drehung eines starren Körpers.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "11.2 Kepler-Problem"
+              "title": "12.1 Freie Drehung eines starren Körpers"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem/11.2 Kepler-Problem.md",
+                "file": "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.1 Freie Drehung eines starren Körpers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 11.2 Kepler-Problem"
+              "title": "Backlinks for 12.1 Freie Drehung eines starren Körpers"
             }
           },
           {
@@ -174,12 +174,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4f9490bca3c1354",
+  "active": "eb043d0ed24c2461",
   "lastOpenFiles": [
-    "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.3 Das Effektive Gravitationspotential.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.0 Bewegung des Starrkörpers mit dem Lagrange Formalismus - Inhalt.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.1 Freie Drehung eines starren Körpers.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem/11.2 Kepler-Problem.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem/11.0 Das Zweikörperproblem - Inhalt.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus",
     "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem/11.1 Schwerpunkt und relative Koordinaten.md",
+    "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.3 Das Effektive Gravitationspotential.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem/11.0 Das Zweikörperproblem - Inhalt.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.3 Linear- und Drehbewegung.md",
     "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.1 Drehimpuls.md",
     "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
@@ -212,15 +215,12 @@
     "Experimentalphysik III/Optik/3. Interferenz/3.4 Interferometer mit Amplitudenaufspaltung.md",
     "Experimentalphysik I/Mechanik/15. Wellen/15.4 Reflexion und Transmission.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.14 Reflexions- und Transmissionsvermögen einer Grenzfläche.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.13 Wellen an Grenzflächen zwischen zwei Medien.md",
-    "Experimentalphysik III/Optik/3. Interferenz/3.3 Interferometer mit Wellenfrontaufspaltung.md",
     "Experimentalphysik III/Optik/3. Interferenz",
     "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen",
     "Theoretische Physik I/II Lagrangesche Mechanik/8 Lagrange-Gleichungen für Bewegungen ohne Zwangsbedingungen",
     "Theoretische Physik I/II Lagrangesche Mechanik/7 Die Euler-Lagrange Gleichungen",
     "Theoretische Physik I/II Lagrangesche Mechanik",
     "Theoretische Physik I/I Newtonsche Mechanik/5 Beschleunigte Bezugssysteme und Scheinkräfte",
-    "Theoretische Physik I/I Newtonsche Mechanik/4 Ein Teilchen in einer Dimension",
-    "Theoretische Physik I/I Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte"
+    "Theoretische Physik I/I Newtonsche Mechanik/4 Ein Teilchen in einer Dimension"
   ]
 }
