@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.1 Freie Drehung eines starren Körpers.md",
-                "mode": "source",
+                "file": "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "12.1 Freie Drehung eines starren Körpers"
+              "title": "10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.1 Freie Drehung eines starren Körpers.md",
+                "file": "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 12.1 Freie Drehung eines starren Körpers"
+              "title": "Backlinks for 10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals"
             }
           },
           {
@@ -176,11 +176,17 @@
   },
   "active": "eb043d0ed24c2461",
   "lastOpenFiles": [
+    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.2 Hamilton-Funktion und Energieerhaltung.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.1 Noether's Theorem; Invarianz unter einer Transformation der generalisierten Koordinaten.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem/11.2 Kepler-Problem.md",
+    "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.5 Geschwindigkeitsvektor.md",
+    "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.4 Ortsvektor.md",
+    "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.3 Koordinaten und Bezugssystem.md",
+    "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.2 Bewegung.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem/11.1 Schwerpunkt und relative Koordinaten.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.0 Bewegung des Starrkörpers mit dem Lagrange Formalismus - Inhalt.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.1 Freie Drehung eines starren Körpers.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem/11.2 Kepler-Problem.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus",
-    "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem/11.1 Schwerpunkt und relative Koordinaten.md",
     "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.3 Das Effektive Gravitationspotential.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem/11.0 Das Zweikörperproblem - Inhalt.md",
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.3 Linear- und Drehbewegung.md",
@@ -189,10 +195,8 @@
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.2 Labor-und Schwerpunktsystem.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem",
-    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.2 Hamilton-Funktion und Energieerhaltung.md",
     "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.2 Leistung.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.0 Erhaltungsgrößen und Noether's Theorem - Inhalt.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.1 Noether's Theorem; Invarianz unter einer Transformation der generalisierten Koordinaten.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.4 Lagrange-Gleichungen der 1. Art.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem",
     "Experimentalphysik III/Optik/3. Interferenz/3.6 Beugung.md",
@@ -211,10 +215,6 @@
     "Files/Pasted image 20241218213956.png",
     "Files/Pasted image 20241218213936.png",
     "Files/Pasted image 20241218212953.png",
-    "Experimentalphysik III/Optik/3. Interferenz/3.2 Kohärenz.md",
-    "Experimentalphysik III/Optik/3. Interferenz/3.4 Interferometer mit Amplitudenaufspaltung.md",
-    "Experimentalphysik I/Mechanik/15. Wellen/15.4 Reflexion und Transmission.md",
-    "Experimentalphysik III/Optik/2. Wellen in Materie/2.14 Reflexions- und Transmissionsvermögen einer Grenzfläche.md",
     "Experimentalphysik III/Optik/3. Interferenz",
     "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen",
     "Theoretische Physik I/II Lagrangesche Mechanik/8 Lagrange-Gleichungen für Bewegungen ohne Zwangsbedingungen",
