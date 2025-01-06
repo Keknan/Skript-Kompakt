@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.2 Ein symmetrischer schwerer Kreisel mit einem festen Punkt.md",
-                "mode": "source",
+                "file": "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem/11.2 Kepler-Problem.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.2 Ein symmetrischer schwerer Kreisel mit einem festen Punkt"
+              "title": "11.2 Kepler-Problem"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.2 Ein symmetrischer schwerer Kreisel mit einem festen Punkt.md",
+                "file": "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem/11.2 Kepler-Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 12.2 Ein symmetrischer schwerer Kreisel mit einem festen Punkt"
+              "title": "Backlinks for 11.2 Kepler-Problem"
             }
           },
           {
@@ -176,9 +176,9 @@
   },
   "active": "eb043d0ed24c2461",
   "lastOpenFiles": [
-    "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.0 Bewegung des Starrkörpers mit dem Lagrange Formalismus - Inhalt.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.2 Ein symmetrischer schwerer Kreisel mit einem festen Punkt.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.1 Freie Drehung eines starren Körpers.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.2 Ein symmetrischer schwerer Kreisel mit einem festen Punkt.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.0 Bewegung des Starrkörpers mit dem Lagrange Formalismus - Inhalt.md",
     "Files/Tennis_racket_theorem.gif",
     "Files/Pasted image 20250106200129.png",
     "Theoretische Physik I/I Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte/3.5 Federkraft.md",
