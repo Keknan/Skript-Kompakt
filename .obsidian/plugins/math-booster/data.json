@@ -148,12 +148,13 @@
     "enableMathPreviewInCalloutAndQuote": true,
     "autocompleteDvQuery": "",
     "searchModalQueryType": "both",
-    "searchModalRange": "active",
+    "searchModalRange": "recent",
     "searchModalDvQuery": ""
   },
   "excludedFiles": [
     "Experimentalphysik III/Optik/3. Interferenz/3.0 Interferenz - Inhalt.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.0 Kleine Schwingungen und Kontinuumsmechanik - Inhalt.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.1 Normale Eigenschwingungen.md"
+    "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.1 Normale Eigenschwingungen.md",
+    "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.0 Die Hamilton-Bewegungsgleichungen - Inhalt.md"
   ]
 }
