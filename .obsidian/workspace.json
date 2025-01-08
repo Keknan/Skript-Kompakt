@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite.md",
+                "file": "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.1 Normale Eigenschwingungen.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite"
+              "title": "13.1 Normale Eigenschwingungen"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite.md",
+                "file": "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.1 Normale Eigenschwingungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite"
+              "title": "Backlinks for 13.1 Normale Eigenschwingungen"
             }
           },
           {
@@ -176,8 +176,8 @@
   },
   "active": "a4697addfabce0ca",
   "lastOpenFiles": [
-    "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.1 Normale Eigenschwingungen.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.1 Normale Eigenschwingungen.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.0 Kleine Schwingungen und Kontinuumsmechanik - Inhalt.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.2 Hamilton-Funktion und Energieerhaltung.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.1 Noether's Theorem; Invarianz unter einer Transformation der generalisierten Koordinaten.md",
