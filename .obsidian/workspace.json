@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "65782cc6e6499a87",
+        "id": "a0a40837371d988e",
         "type": "tabs",
         "children": [
           {
-            "id": "a4697addfabce0ca",
+            "id": "a361c57f06874489",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite.md",
+                "file": "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.1 Legendre-Transformation und Hamilton-Bewegungsgleichungen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite"
+              "title": "14.1 Legendre-Transformation und Hamilton-Bewegungsgleichungen"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite.md",
+                "file": "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.1 Legendre-Transformation und Hamilton-Bewegungsgleichungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite"
+              "title": "Backlinks for 14.1 Legendre-Transformation und Hamilton-Bewegungsgleichungen"
             }
           },
           {
@@ -174,8 +174,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4697addfabce0ca",
+  "active": "a361c57f06874489",
   "lastOpenFiles": [
+    "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.0 Die Hamilton-Bewegungsgleichungen - Inhalt.md",
+    "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.1 Legendre-Transformation und Hamilton-Bewegungsgleichungen.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite.md",
+    "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen",
+    "Theoretische Physik I/III Hamiltonsche Mechanik",
+    "Theoretische Physik I/II Lagrangesche Mechanik/7 Die Euler-Lagrange Gleichungen/7.0 Die Euler-Lagrange Gleichungen.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.1 Noether's Theorem; Invarianz unter einer Transformation der generalisierten Koordinaten.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.2 Hamilton-Funktion und Energieerhaltung.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem/11.2 Kepler-Problem.md",
@@ -183,7 +189,6 @@
     "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.0 Bewegung des Starrkörpers mit dem Lagrange Formalismus - Inhalt.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.1 Freie Drehung eines starren Körpers.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.2 Ein symmetrischer schwerer Kreisel mit einem festen Punkt.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.1 Normale Eigenschwingungen.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.0 Kleine Schwingungen und Kontinuumsmechanik - Inhalt.md",
     "Files/dpenb.gif",
@@ -208,10 +213,7 @@
     "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.3 Linear- und Drehbewegung.md",
     "Experimentalphysik I/Mechanik/8. Drehbewegungen/8.1 Drehimpuls.md",
     "Experimentalphysik I/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
-    "Experimentalphysik I/Mechanik/9. Vielteilchensysteme und Stöße/9.2 Labor-und Schwerpunktsystem.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem",
-    "Experimentalphysik I/Mechanik/5. Arbeit und Energie/5.2 Leistung.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.0 Erhaltungsgrößen und Noether's Theorem - Inhalt.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem",
     "Files/Pasted image 20241218223107.png",
     "Files/Pasted image 20241218223102.png",
@@ -219,8 +221,6 @@
     "Experimentalphysik III/Optik/3. Interferenz",
     "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen",
     "Theoretische Physik I/II Lagrangesche Mechanik/8 Lagrange-Gleichungen für Bewegungen ohne Zwangsbedingungen",
-    "Theoretische Physik I/II Lagrangesche Mechanik/7 Die Euler-Lagrange Gleichungen",
-    "Theoretische Physik I/II Lagrangesche Mechanik",
-    "Theoretische Physik I/I Newtonsche Mechanik/5 Beschleunigte Bezugssysteme und Scheinkräfte"
+    "Theoretische Physik I/II Lagrangesche Mechanik/7 Die Euler-Lagrange Gleichungen"
   ]
 }
