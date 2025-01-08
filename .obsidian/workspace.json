@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.1 Normale Eigenschwingungen.md",
-                "mode": "preview",
-                "source": true
+                "file": "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "13.1 Normale Eigenschwingungen"
+              "title": "13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.1 Normale Eigenschwingungen.md",
+                "file": "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 13.1 Normale Eigenschwingungen"
+              "title": "Backlinks for 13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite"
             }
           },
           {
@@ -176,21 +176,21 @@
   },
   "active": "a4697addfabce0ca",
   "lastOpenFiles": [
+    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.1 Noether's Theorem; Invarianz unter einer Transformation der generalisierten Koordinaten.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.2 Hamilton-Funktion und Energieerhaltung.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem/11.2 Kepler-Problem.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem/11.1 Schwerpunkt und relative Koordinaten.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.0 Bewegung des Starrkörpers mit dem Lagrange Formalismus - Inhalt.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.1 Freie Drehung eines starren Körpers.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.2 Ein symmetrischer schwerer Kreisel mit einem festen Punkt.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.1 Normale Eigenschwingungen.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.0 Kleine Schwingungen und Kontinuumsmechanik - Inhalt.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.2 Hamilton-Funktion und Energieerhaltung.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.1 Noether's Theorem; Invarianz unter einer Transformation der generalisierten Koordinaten.md",
     "Files/dpenb.gif",
     "Files/Pasted image 20250107183056.png",
-    "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.2 Ein symmetrischer schwerer Kreisel mit einem festen Punkt.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik",
     "Files/Pasted image 20250107175215.png",
-    "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.1 Freie Drehung eines starren Körpers.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem/11.2 Kepler-Problem.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem/11.1 Schwerpunkt und relative Koordinaten.md",
     "Experimentalphysik III/Optik/2. Wellen in Materie/2.25 Kerr-Effekt.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.0 Bewegung des Starrkörpers mit dem Lagrange Formalismus - Inhalt.md",
     "Files/Tennis_racket_theorem.gif",
     "Files/Pasted image 20250106200129.png",
     "Theoretische Physik I/I Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte/3.5 Federkraft.md",
