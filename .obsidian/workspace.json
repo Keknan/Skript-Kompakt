@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.0' Kanonische Transformation.md",
+                "file": "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.3 Andere erzeugende Funktionen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15.0' Kanonische Transformation"
+              "title": "15.3 Andere erzeugende Funktionen"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.0' Kanonische Transformation.md",
+                "file": "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.3 Andere erzeugende Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 15.0' Kanonische Transformation"
+              "title": "Backlinks for 15.3 Andere erzeugende Funktionen"
             }
           },
           {
@@ -177,6 +177,9 @@
   "active": "f96747a005cf96d4",
   "lastOpenFiles": [
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.0 Kanonische Transformation - Inhalt.md",
+    "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.3 Andere erzeugende Funktionen.md",
+    "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.2 Beispiel; der harmonische Oszillator.md",
+    "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.1 Kanonische Transformation mit erzeugender Funktion G(q,Q,t).md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.0' Kanonische Transformation.md",
     "README.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.4 Poisson-Klammern.md",
@@ -210,9 +213,6 @@
     "Files/Pasted image 20250106185535.png",
     "Files/Pasted image 20250106184325.png",
     "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals.md",
-    "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.5 Geschwindigkeitsvektor.md",
-    "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.4 Ortsvektor.md",
-    "Experimentalphysik I/Mechanik/3. Kinematik des Massenpunktes/3.3 Koordinaten und Bezugssystem.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus",
     "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem",
     "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem",
