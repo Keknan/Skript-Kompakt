@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik III/Optik/4 Geometrische Optik/4.3 Prisma.md",
+                "file": "Experimentalphysik III/Optik/4 Geometrische Optik/4.4 Linsen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.3 Prisma"
+              "title": "4.4 Linsen"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik III/Optik/4 Geometrische Optik/4.3 Prisma.md",
+                "file": "Experimentalphysik III/Optik/4 Geometrische Optik/4.4 Linsen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4.3 Prisma"
+              "title": "Backlinks for 4.4 Linsen"
             }
           },
           {
@@ -176,9 +176,10 @@
   },
   "active": "9be64e1574d1b77a",
   "lastOpenFiles": [
-    "Files/Pasted image 20250116200808.png",
     "Experimentalphysik III/Optik/4 Geometrische Optik/4.0 Geometrische Optik - Inhalt.md",
+    "Experimentalphysik III/Optik/4 Geometrische Optik/4.4 Linsen.md",
     "Experimentalphysik III/Optik/4 Geometrische Optik/4.3 Prisma.md",
+    "Files/Pasted image 20250116200808.png",
     "Experimentalphysik III/Optik/4 Geometrische Optik/4.2 Spiegel.md",
     "Files/Pasted image 20250116200542.png",
     "Files/Pasted image 20250116200509.png",
@@ -191,7 +192,6 @@
     "Files/Pasted image 20250116172336.png",
     "Experimentalphysik III/Optik/3. Interferenz/3.6 Beugung.md",
     "Files/Pasted image 20250116170934.png",
-    "Files/Pasted image 20250116170448.png",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.4 Methoden der Berechnung magnetischer Felder.md",
     "Experimentalphysik III/Optik/4 Geometrische Optik",
     "Experimentalphysik III/Optik/3. Interferenz/3.5 Vielstrahlinterferenz.md",
