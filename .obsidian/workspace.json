@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik III/Optik/3. Interferenz/3.6 Beugung.md",
+                "file": "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.4 Methoden der Berechnung magnetischer Felder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.6 Beugung"
+              "title": "3.4 Methoden der Berechnung magnetischer Felder"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik III/Optik/3. Interferenz/3.6 Beugung.md",
+                "file": "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.4 Methoden der Berechnung magnetischer Felder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3.6 Beugung"
+              "title": "Backlinks for 3.4 Methoden der Berechnung magnetischer Felder"
             }
           },
           {
@@ -176,6 +176,7 @@
   },
   "active": "9be64e1574d1b77a",
   "lastOpenFiles": [
+    "Experimentalphysik III/Optik/3. Interferenz/3.6 Beugung.md",
     "Experimentalphysik III/Optik/4 Geometrische Optik/4.1 Grundlagen.md",
     "Files/Pasted image 20250114190616.png",
     "Files/Pasted image 20250114190134.png",
@@ -183,7 +184,6 @@
     "Files/Pasted image 20250114185643.png",
     "Files/Pasted image 20250114183447.png",
     "Experimentalphysik III/Optik/4 Geometrische Optik/4.0 Geometrische Optik - Inhalt.md",
-    "Experimentalphysik III/Optik/3. Interferenz/3.6 Beugung.md",
     "Experimentalphysik III/Optik/4 Geometrische Optik",
     "Files/Pasted image 20250114181755.png",
     "Files/Pasted image 20250114180643.png",
