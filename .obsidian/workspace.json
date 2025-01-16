@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik III/Optik/4 Geometrische Optik/4.2 Spiegel.md",
+                "file": "Experimentalphysik III/Optik/4 Geometrische Optik/4.3 Prisma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.2 Spiegel"
+              "title": "4.3 Prisma"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik III/Optik/4 Geometrische Optik/4.2 Spiegel.md",
+                "file": "Experimentalphysik III/Optik/4 Geometrische Optik/4.3 Prisma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4.2 Spiegel"
+              "title": "Backlinks for 4.3 Prisma"
             }
           },
           {
@@ -176,22 +176,23 @@
   },
   "active": "9be64e1574d1b77a",
   "lastOpenFiles": [
+    "Files/Pasted image 20250116200808.png",
+    "Experimentalphysik III/Optik/4 Geometrische Optik/4.0 Geometrische Optik - Inhalt.md",
+    "Experimentalphysik III/Optik/4 Geometrische Optik/4.3 Prisma.md",
+    "Experimentalphysik III/Optik/4 Geometrische Optik/4.2 Spiegel.md",
+    "Files/Pasted image 20250116200542.png",
+    "Files/Pasted image 20250116200509.png",
+    "Experimentalphysik III/Optik/4 Geometrische Optik/4.1 Grundlagen.md",
+    "Files/Pasted image 20250116195736.png",
     "Files/Pasted image 20250116191821.png",
     "Files/Pasted image 20250116190819.png",
     "Files/Pasted image 20250116180641.png",
     "Files/Pasted image 20250116174000.png",
     "Files/Pasted image 20250116172336.png",
-    "Experimentalphysik III/Optik/4 Geometrische Optik/4.0 Geometrische Optik - Inhalt.md",
-    "Experimentalphysik III/Optik/4 Geometrische Optik/4.2 Spiegel.md",
-    "Experimentalphysik III/Optik/4 Geometrische Optik/4.1 Grundlagen.md",
     "Experimentalphysik III/Optik/3. Interferenz/3.6 Beugung.md",
     "Files/Pasted image 20250116170934.png",
     "Files/Pasted image 20250116170448.png",
-    "Files/Pasted image 20250116163336.png",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.4 Methoden der Berechnung magnetischer Felder.md",
-    "Files/Pasted image 20250114190616.png",
-    "Files/Pasted image 20250114190134.png",
-    "Files/Pasted image 20250114190052.png",
     "Experimentalphysik III/Optik/4 Geometrische Optik",
     "Experimentalphysik III/Optik/3. Interferenz/3.5 Vielstrahlinterferenz.md",
     "Experimentalphysik III/Optik/3. Interferenz/3.4 Interferometer mit Amplitudenaufspaltung.md",
@@ -215,7 +216,6 @@
     "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen",
     "Theoretische Physik I/III Hamiltonsche Mechanik",
     "Theoretische Physik I/II Lagrangesche Mechanik/7 Die Euler-Lagrange Gleichungen/7.0 Die Euler-Lagrange Gleichungen.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.1 Noether's Theorem; Invarianz unter einer Transformation der generalisierten Koordinaten.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik",
     "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus",
     "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem",
