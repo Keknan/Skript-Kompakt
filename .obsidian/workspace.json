@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik III/Optik/6. Anwendungen/6.5 Auflösungsvermögen und Lichtstärke.md",
-                "mode": "source",
-                "source": false
+                "file": "Experimentalphysik III/Optik/6. Anwendungen/6.1 Das Auge.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "6.5 Auflösungsvermögen und Lichtstärke"
+              "title": "6.1 Das Auge"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik III/Optik/6. Anwendungen/6.5 Auflösungsvermögen und Lichtstärke.md",
+                "file": "Experimentalphysik III/Optik/6. Anwendungen/6.1 Das Auge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6.5 Auflösungsvermögen und Lichtstärke"
+              "title": "Backlinks for 6.1 Das Auge"
             }
           },
           {
@@ -176,13 +176,13 @@
   },
   "active": "823e3f26f8050caa",
   "lastOpenFiles": [
-    "Experimentalphysik III/Optik/6. Anwendungen/6.1 Das Auge.md",
+    "Experimentalphysik III/Optik/6. Anwendungen/6.0 Anwendungen - Inhalt.md",
     "Experimentalphysik III/Optik/6. Anwendungen/6.5 Auflösungsvermögen und Lichtstärke.md",
+    "Experimentalphysik III/Optik/6. Anwendungen/6.1 Das Auge.md",
     "Files/Pasted image 20250118195812.png",
     "Files/Pasted image 20250118194946.png",
     "Experimentalphysik III/Optik/3. Interferenz/3.6 Beugung.md",
     "Experimentalphysik III/Optik/3. Interferenz/3.5 Vielstrahlinterferenz.md",
-    "Experimentalphysik III/Optik/6. Anwendungen/6.0 Anwendungen - Inhalt.md",
     "Experimentalphysik III/Optik/6. Anwendungen/6.4 Fernrohr.md",
     "Files/Pasted image 20250118172348.png",
     "Files/Pasted image 20250118172216.png",
