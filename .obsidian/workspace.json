@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite.md",
-                "mode": "preview",
-                "source": true
+                "file": "Experimentalphysik III/Optik/6. Anwendungen/6.7 Holografie.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite"
+              "title": "6.7 Holografie"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite.md",
+                "file": "Experimentalphysik III/Optik/6. Anwendungen/6.7 Holografie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite"
+              "title": "Backlinks for 6.7 Holografie"
             }
           },
           {
@@ -176,31 +176,34 @@
   },
   "active": "823e3f26f8050caa",
   "lastOpenFiles": [
+    "Experimentalphysik III/Optik/6. Anwendungen/6.0 Anwendungen - Inhalt.md",
+    "Experimentalphysik III/Optik/6. Anwendungen/6.7 Holografie.md",
+    "Experimentalphysik III/Optik/6. Anwendungen/6.6 Optik in der Atmosphäre.md",
+    "Files/Pasted image 20250120223316.png",
+    "Files/Pasted image 20250120223121.png",
+    "Files/Pasted image 20250120223040.png",
+    "Files/Pasted image 20250120222816.png",
+    "Files/Pasted image 20250120222507.png",
+    "Files/Pasted image 20250120222213.png",
+    "Files/Pasted image 20250120222055.png",
+    "Files/Pasted image 20250120214455.png",
+    "Files/Pasted image 20250120214259.png",
+    "Experimentalphysik III/Optik/6. Anwendungen/6.5 Auflösungsvermögen und Lichtstärke.md",
+    "Files/Pasted image 20250120213526.png",
+    "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.1 Beispiel für eine holonome Zwangsbedingung; das einfache Pendel.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.1 Kanonische Transformation mit erzeugender Funktion G(q,Q,t).md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.2 Beispiel; der harmonische Oszillator.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.3 Andere erzeugende Funktionen.md",
-    "Experimentalphysik III/Optik/6. Anwendungen/6.5 Auflösungsvermögen und Lichtstärke.md",
     "Experimentalphysik III/Optik/4 Geometrische Optik/4.4 Linsen.md",
     "Experimentalphysik III/Optik/6. Anwendungen/6.3 Mikroskop.md",
-    "Experimentalphysik III/Optik/6. Anwendungen/6.0 Anwendungen - Inhalt.md",
     "Experimentalphysik III/Optik/4 Geometrische Optik/4.1 Grundlagen.md",
     "Experimentalphysik III/Optik/3. Interferenz/3.3 Interferometer mit Wellenfrontaufspaltung.md",
     "Experimentalphysik III/Optik/3. Interferenz/3.6 Beugung.md",
     "Experimentalphysik III/Optik/6. Anwendungen/6.1 Das Auge.md",
-    "Files/Pasted image 20250118195812.png",
-    "Files/Pasted image 20250118194946.png",
     "Experimentalphysik III/Optik/3. Interferenz/3.5 Vielstrahlinterferenz.md",
     "Experimentalphysik III/Optik/6. Anwendungen/6.4 Fernrohr.md",
-    "Files/Pasted image 20250118172348.png",
-    "Files/Pasted image 20250118172216.png",
-    "Files/Pasted image 20250118172051.png",
-    "Files/Pasted image 20250118171222.png",
     "Experimentalphysik III/Optik/6. Anwendungen/6.2 Optische Instrumente.md",
-    "Files/Pasted image 20250118164748.png",
-    "Files/Pasted image 20250118161805.png",
-    "Files/Pasted image 20250118155452.png",
-    "Files/Pasted image 20250118155256.png",
     "Experimentalphysik III/Optik/4 Geometrische Optik/Untitled.md",
     "Experimentalphysik III/Optik/4 Geometrische Optik/4.5 Abbildungsfehler.md",
     "Untitled",
@@ -212,9 +215,6 @@
     "Experimentalphysik III/Optik/4 Geometrische Optik",
     "Experimentalphysik III/Optik/3. Interferenz/3.4 Interferometer mit Amplitudenaufspaltung.md",
     "Experimentalphysik III/Optik/3. Interferenz/3.2 Kohärenz.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite.md",
-    "Experimentalphysik III/Optik/3. Interferenz/3.1 Grundlagen.md",
-    "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.0' Kanonische Transformation.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation",
     "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen",
     "Theoretische Physik I/III Hamiltonsche Mechanik",
