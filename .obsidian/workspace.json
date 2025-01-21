@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5786344a8cce5a81",
+        "id": "8b46c8c5a4c7d169",
         "type": "tabs",
         "children": [
           {
-            "id": "823e3f26f8050caa",
+            "id": "8c90761b3ae004b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik III/Optik/3. Interferenz/3.6 Beugung.md",
+                "file": "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik/7.1 Grundlegende Experimente.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "3.6 Beugung"
+              "title": "7.1 Grundlegende Experimente"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik III/Optik/3. Interferenz/3.6 Beugung.md",
+                "file": "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik/7.1 Grundlegende Experimente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3.6 Beugung"
+              "title": "Backlinks for 7.1 Grundlegende Experimente"
             }
           },
           {
@@ -174,9 +174,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "823e3f26f8050caa",
+  "active": "8c90761b3ae004b1",
   "lastOpenFiles": [
+    "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik/7.0 Grundlagen der Quantenmechanik - Inhalt.md",
+    "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik/7.1 Grundlegende Experimente.md",
+    "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik",
     "Experimentalphysik III/Optik/6. Anwendungen/6.7 Holografie.md",
+    "Experimentalphysik III/Quantenphysik",
+    "Files/Pasted image 20250121002851.png",
+    "Files/Pasted image 20250121001340.png",
     "Experimentalphysik III/Optik/3. Interferenz/3.6 Beugung.md",
     "Experimentalphysik III/Optik/3. Interferenz/3.5 Vielstrahlinterferenz.md",
     "Files/Pasted image 20250120231305.png",
@@ -189,8 +195,6 @@
     "Files/Pasted image 20250120222816.png",
     "Files/Pasted image 20250120222507.png",
     "Files/Pasted image 20250120222213.png",
-    "Files/Pasted image 20250120222055.png",
-    "Files/Pasted image 20250120214455.png",
     "Experimentalphysik III/Optik/6. Anwendungen/6.5 Auflösungsvermögen und Lichtstärke.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.2 Einführung in die Kontinuumsmechanik; die schwingende Saite.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.1 Beispiel für eine holonome Zwangsbedingung; das einfache Pendel.md",
@@ -206,20 +210,17 @@
     "Experimentalphysik III/Optik/6. Anwendungen/6.2 Optische Instrumente.md",
     "Experimentalphysik III/Optik/4 Geometrische Optik/Untitled.md",
     "Experimentalphysik III/Optik/4 Geometrische Optik/4.5 Abbildungsfehler.md",
-    "Untitled",
     "Experimentalphysik III/Optik/6. Anwendungen",
     "Experimentalphysik III/Optik/4 Geometrische Optik/4.0 Geometrische Optik - Inhalt.md",
     "Experimentalphysik III/Optik/4 Geometrische Optik/4.2 Spiegel.md",
     "Experimentalphysik III/Optik/4 Geometrische Optik/4.3 Prisma.md",
     "Experimentalphysik II/Elektromagnetismus/3. Magnetostatik/3.4 Methoden der Berechnung magnetischer Felder.md",
     "Experimentalphysik III/Optik/4 Geometrische Optik",
-    "Experimentalphysik III/Optik/3. Interferenz/3.4 Interferometer mit Amplitudenaufspaltung.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation",
     "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen",
     "Theoretische Physik I/III Hamiltonsche Mechanik",
     "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik",
     "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus",
-    "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem",
-    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem"
+    "Theoretische Physik I/II Lagrangesche Mechanik/11 Das Zweikörperproblem"
   ]
 }
