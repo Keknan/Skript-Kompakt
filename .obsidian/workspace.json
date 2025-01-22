@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik/7.1 Grundlegende Experimente.md",
+                "file": "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik/7.4 Materiewellen und Schrödinger Gleichung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.1 Grundlegende Experimente"
+              "title": "7.4 Materiewellen und Schrödinger Gleichung"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik/7.1 Grundlegende Experimente.md",
+                "file": "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik/7.4 Materiewellen und Schrödinger Gleichung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7.1 Grundlegende Experimente"
+              "title": "Backlinks for 7.4 Materiewellen und Schrödinger Gleichung"
             }
           },
           {
@@ -176,22 +176,25 @@
   },
   "active": "8c90761b3ae004b1",
   "lastOpenFiles": [
+    "Files/Pasted image 20250122213108.png",
+    "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik/7.2 Der Wellencharakter von Teilchen.md",
+    "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik/7.3 Teilchen-Welle-Dualismus.md",
+    "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik/7.4 Materiewellen und Schrödinger Gleichung.md",
+    "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik/7.0 Grundlagen der Quantenmechanik - Inhalt.md",
+    "Files/Pasted image 20250122210820.png",
+    "Files/Pasted image 20250122210711.png",
+    "Files/Pasted image 20250122204622.png",
+    "Files/Pasted image 20250122204526.png",
+    "Files/Pasted image 20250122204001.png",
+    "Files/Pasted image 20250122203445.png",
+    "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik/7.1 Grundlegende Experimente.md",
     "Files/Pasted image 20250122184921.png",
     "Files/Pasted image 20250122184304.png",
     "Files/Pasted image 20250122173937.png",
     "Files/Pasted image 20250122173335.png",
-    "Files/Pasted image 20250122171046.png",
-    "Files/Pasted image 20250122171019.png",
-    "Files/Pasted image 20250122164828.png",
-    "Files/Pasted image 20250122163225.png",
-    "Files/Pasted image 20250122162812.png",
-    "Files/Pasted image 20250122161553.png",
-    "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik/7.0 Grundlagen der Quantenmechanik - Inhalt.md",
-    "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik/7.1 Grundlegende Experimente.md",
     "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik",
     "Experimentalphysik III/Optik/6. Anwendungen/6.7 Holografie.md",
     "Experimentalphysik III/Quantenphysik",
-    "Files/Pasted image 20250121002851.png",
     "Experimentalphysik III/Optik/3. Interferenz/3.6 Beugung.md",
     "Experimentalphysik III/Optik/3. Interferenz/3.5 Vielstrahlinterferenz.md",
     "Experimentalphysik III/Optik/6. Anwendungen/6.0 Anwendungen - Inhalt.md",
@@ -212,9 +215,6 @@
     "Experimentalphysik III/Optik/4 Geometrische Optik/Untitled.md",
     "Experimentalphysik III/Optik/4 Geometrische Optik/4.5 Abbildungsfehler.md",
     "Experimentalphysik III/Optik/6. Anwendungen",
-    "Experimentalphysik III/Optik/4 Geometrische Optik/4.0 Geometrische Optik - Inhalt.md",
-    "Experimentalphysik III/Optik/4 Geometrische Optik/4.2 Spiegel.md",
-    "Experimentalphysik III/Optik/4 Geometrische Optik/4.3 Prisma.md",
     "Experimentalphysik III/Optik/4 Geometrische Optik",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation",
     "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen",
