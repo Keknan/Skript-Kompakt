@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.1 Freie Drehung eines starren Körpers.md",
+                "file": "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "12.1 Freie Drehung eines starren Körpers"
+              "title": "10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.1 Freie Drehung eines starren Körpers.md",
+                "file": "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 12.1 Freie Drehung eines starren Körpers"
+              "title": "Backlinks for 10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals"
             }
           },
           {
@@ -176,10 +176,15 @@
   },
   "active": "8c90761b3ae004b1",
   "lastOpenFiles": [
-    "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.0 Bewegung des Starrkörpers mit dem Lagrange Formalismus - Inhalt.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.1 Noether's Theorem; Invarianz unter einer Transformation der generalisierten Koordinaten.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.2 Hamilton-Funktion und Energieerhaltung.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.4 Lagrange-Gleichungen der 1. Art.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.3 Beispiel für eine nichtholonome Zwangsbedingung; die rollende vertikale Scheibe.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.2 Das D'Alambertsche Prinzip.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/8 Lagrange-Gleichungen für Bewegungen ohne Zwangsbedingungen/8.0 - 8 Lagrange-Gleichungen für Bewegungen ohne Zwangsbedingungen.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.1 Freie Drehung eines starren Körpers.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.0 Bewegung des Starrkörpers mit dem Lagrange Formalismus - Inhalt.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.8 Periodische Systeme.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.0 Kanonische Transformation - Inhalt.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.7 Separable Variablen.md",
@@ -199,7 +204,6 @@
     "Files/Pasted image 20250122221924.png",
     "Files/Pasted image 20250122213108.png",
     "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik/7.3 Teilchen-Welle-Dualismus.md",
-    "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik/7.0 Grundlagen der Quantenmechanik - Inhalt.md",
     "Files/Pasted image 20250122210820.png",
     "Files/Pasted image 20250122210711.png",
     "Files/Pasted image 20250122204622.png",
@@ -209,11 +213,7 @@
     "Files/Pasted image 20250122184921.png",
     "Files/Pasted image 20250122184304.png",
     "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik",
-    "Experimentalphysik III/Optik/6. Anwendungen/6.7 Holografie.md",
     "Experimentalphysik III/Quantenphysik",
-    "Experimentalphysik III/Optik/3. Interferenz/3.6 Beugung.md",
-    "Experimentalphysik III/Optik/3. Interferenz/3.5 Vielstrahlinterferenz.md",
-    "Experimentalphysik III/Optik/6. Anwendungen/6.0 Anwendungen - Inhalt.md",
     "Experimentalphysik III/Optik/6. Anwendungen",
     "Experimentalphysik III/Optik/4 Geometrische Optik",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation",
