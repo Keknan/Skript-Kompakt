@@ -11,10 +11,14 @@
             "id": "8c90761b3ae004b1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.1 Freie Drehung eines starren Körpers.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "12.1 Freie Drehung eines starren Körpers"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.1 Freie Drehung eines starren Körpers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 12.1 Freie Drehung eines starren Körpers"
             }
           },
           {
@@ -171,6 +176,10 @@
   },
   "active": "8c90761b3ae004b1",
   "lastOpenFiles": [
+    "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.0 Bewegung des Starrkörpers mit dem Lagrange Formalismus - Inhalt.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.1 Noether's Theorem; Invarianz unter einer Transformation der generalisierten Koordinaten.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.2 Hamilton-Funktion und Energieerhaltung.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.8 Periodische Systeme.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.0 Kanonische Transformation - Inhalt.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.7 Separable Variablen.md",
@@ -180,9 +189,6 @@
     "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.1 Legendre-Transformation und Hamilton-Bewegungsgleichungen.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.2 Beispiel; der harmonische Oszillator.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.3 Andere erzeugende Funktionen.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.1 Noether's Theorem; Invarianz unter einer Transformation der generalisierten Koordinaten.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.2 Hamilton-Funktion und Energieerhaltung.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.0 Erhaltungsgrößen und Noether's Theorem - Inhalt.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.1 Beispiel für eine holonome Zwangsbedingung; das einfache Pendel.md",
     "Theoretische Physik I/I Newtonsche Mechanik/3 Beispiele Wichtiger Kräfte/3.5 Federkraft.md",
@@ -208,7 +214,6 @@
     "Experimentalphysik III/Optik/3. Interferenz/3.6 Beugung.md",
     "Experimentalphysik III/Optik/3. Interferenz/3.5 Vielstrahlinterferenz.md",
     "Experimentalphysik III/Optik/6. Anwendungen/6.0 Anwendungen - Inhalt.md",
-    "Experimentalphysik III/Optik/6. Anwendungen/6.6 Optik in der Atmosphäre.md",
     "Experimentalphysik III/Optik/6. Anwendungen",
     "Experimentalphysik III/Optik/4 Geometrische Optik",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation",
