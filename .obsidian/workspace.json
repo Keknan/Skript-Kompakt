@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Physik I/IV Spezielle Relativitätstheorie/16.2 Die Lorentz-Transformationen.md",
+                "file": "Theoretische Physik I/IV Spezielle Relativitätstheorie/16.3 Kausalität und der Lichtkegel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16.2 Die Lorentz-Transformationen"
+              "title": "16.3 Kausalität und der Lichtkegel"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theoretische Physik I/IV Spezielle Relativitätstheorie/16.2 Die Lorentz-Transformationen.md",
+                "file": "Theoretische Physik I/IV Spezielle Relativitätstheorie/16.3 Kausalität und der Lichtkegel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 16.2 Die Lorentz-Transformationen"
+              "title": "Backlinks for 16.3 Kausalität und der Lichtkegel"
             }
           },
           {
@@ -176,14 +176,15 @@
   },
   "active": "1b2ac38aa9abb316",
   "lastOpenFiles": [
+    "Theoretische Physik I/IV Spezielle Relativitätstheorie/16.0 Kinematik - Inhalt.md",
+    "Theoretische Physik I/IV Spezielle Relativitätstheorie/16.3 Kausalität und der Lichtkegel.md",
+    "Theoretische Physik I/IV Spezielle Relativitätstheorie/16.2 Die Lorentz-Transformationen.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.6 Minkowski-Diagramme.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.7 Energie, Impuls und Masse.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.2 Uhren und Maßstäbe.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.3 Gleichzeitigkeit.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.4 Die scheinbar paradoxe Welt der Relativitätsmechanik.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.5 Lorentz-Transformation.md",
-    "Theoretische Physik I/IV Spezielle Relativitätstheorie/16.2 Die Lorentz-Transformationen.md",
-    "Theoretische Physik I/IV Spezielle Relativitätstheorie/16.0 Kinematik - Inhalt.md",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/16.1 Relativität der Zeit, Zeitdilatation und Längenkontraktion.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.8 Periodische Systeme.md",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie",
@@ -206,7 +207,6 @@
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.5 Beispiel; Lösen des harmonischen Oszillators mit Hamilton-Jacobi.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.4 Hamilton-Jacobi-Gleichung.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.1 Legendre-Transformation und Hamilton-Bewegungsgleichungen.md",
-    "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.2 Beispiel; der harmonische Oszillator.md",
     "Files/Pasted image 20250122221924.png",
     "Files/Pasted image 20250122213108.png",
     "Files/Pasted image 20250122210820.png",
