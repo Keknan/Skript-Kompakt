@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "699459108eeb1d2f",
+        "id": "5727b5cf11771089",
         "type": "tabs",
         "children": [
           {
-            "id": "1b2ac38aa9abb316",
+            "id": "eff951d7a02337c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,12 +174,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b2ac38aa9abb316",
+  "active": "eff951d7a02337c0",
   "lastOpenFiles": [
-    "Theoretische Physik I/IV Spezielle Relativitätstheorie/16.0 Kinematik - Inhalt.md",
-    "Theoretische Physik I/IV Spezielle Relativitätstheorie/16.3 Kausalität und der Lichtkegel.md",
-    "Theoretische Physik I/IV Spezielle Relativitätstheorie/16.2 Die Lorentz-Transformationen.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.6 Minkowski-Diagramme.md",
+    "Theoretische Physik I/IV Spezielle Relativitätstheorie/16.3 Kausalität und der Lichtkegel.md",
+    "Files/Pasted image 20250127172251.png",
+    "Experimentalphysik III/Optik/2. Wellen in Materie/2.0 Wellen in Materie - Inhalt.md",
+    "Theoretische Physik I/IV Spezielle Relativitätstheorie/16.0 Kinematik - Inhalt.md",
+    "Theoretische Physik I/IV Spezielle Relativitätstheorie/16.2 Die Lorentz-Transformationen.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.7 Energie, Impuls und Masse.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.2 Uhren und Maßstäbe.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.3 Gleichzeitigkeit.md",
@@ -205,14 +207,11 @@
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.7 Separable Variablen.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.6 Hamiltons charakteristische Funktion.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.5 Beispiel; Lösen des harmonischen Oszillators mit Hamilton-Jacobi.md",
-    "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.4 Hamilton-Jacobi-Gleichung.md",
-    "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.1 Legendre-Transformation und Hamilton-Bewegungsgleichungen.md",
     "Files/Pasted image 20250122221924.png",
     "Files/Pasted image 20250122213108.png",
     "Files/Pasted image 20250122210820.png",
     "Files/Pasted image 20250122210711.png",
     "Files/Pasted image 20250122204622.png",
-    "Files/Pasted image 20250122204526.png",
     "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik",
     "Experimentalphysik III/Quantenphysik",
     "Experimentalphysik III/Optik/6. Anwendungen",
