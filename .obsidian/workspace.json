@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik/7.1 Grundlegende Experimente.md",
+                "file": "Experimentalphysik III/Optik/4 Geometrische Optik/4.4 Linsen.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "7.1 Grundlegende Experimente"
+              "title": "4.4 Linsen"
             }
           }
         ]
@@ -178,6 +178,11 @@
   },
   "active": "33db09204e997ea4",
   "lastOpenFiles": [
+    "Experimentalphysik III/Optik/3. Interferenz/3.4 Interferometer mit Amplitudenaufspaltung.md",
+    "Experimentalphysik III/Optik/4 Geometrische Optik/4.2 Spiegel.md",
+    "Experimentalphysik III/Optik/4 Geometrische Optik/4.1 Grundlagen.md",
+    "Experimentalphysik III/Optik/3. Interferenz/3.3 Interferometer mit Wellenfrontaufspaltung.md",
+    "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik/7.1 Grundlegende Experimente.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.8 Periodische Systeme.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.4 Lagrange-Gleichungen der 1. Art.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/9 Systeme mit Zwangsbedingungen/9.3 Beispiel für eine nichtholonome Zwangsbedingung; die rollende vertikale Scheibe.md",
@@ -199,11 +204,6 @@
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.7 Separable Variablen.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.3 Andere erzeugende Funktionen.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.6 Hamiltons charakteristische Funktion.md",
-    "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.1 Kanonische Transformation mit erzeugender Funktion G(q,Q,t).md",
-    "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.3 Beispiel; Teilchen in einem zentralen Potential.md",
-    "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.1 Legendre-Transformation und Hamilton-Bewegungsgleichungen.md",
-    "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.0 Die Hamilton-Bewegungsgleichungen - Inhalt.md",
-    "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.0' Kanonische Transformation.md",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/16 Kinematik",
     "Files/Pasted image 20250127172251.png",
