@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik III/Optik/4 Geometrische Optik/4.4 Linsen.md",
+                "file": "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.1 Kanonische Transformation mit erzeugender Funktion G(q,Q,t).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "4.4 Linsen"
+              "title": "15.1 Kanonische Transformation mit erzeugender Funktion G(q,Q,t)"
+            }
+          },
+          {
+            "id": "f7c91eb84ad61c4b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -176,8 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33db09204e997ea4",
+  "active": "f7c91eb84ad61c4b",
   "lastOpenFiles": [
+    "Theoretische Physik I/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze/17.1 Kovariante und kontravariante Tensoren.md",
+    "Theoretische Physik I/IV Spezielle Relativitätstheorie/16 Kinematik/16.3 Kausalität und der Lichtkegel.md",
+    "Experimentalphysik III/Optik/4 Geometrische Optik/4.4 Linsen.md",
     "Experimentalphysik III/Optik/3. Interferenz/3.4 Interferometer mit Amplitudenaufspaltung.md",
     "Experimentalphysik III/Optik/4 Geometrische Optik/4.2 Spiegel.md",
     "Experimentalphysik III/Optik/4 Geometrische Optik/4.1 Grundlagen.md",
@@ -191,10 +208,8 @@
     "Theoretische Physik I/II Lagrangesche Mechanik/8 Lagrange-Gleichungen für Bewegungen ohne Zwangsbedingungen/8.0 - 8 Lagrange-Gleichungen für Bewegungen ohne Zwangsbedingungen.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/7 Die Euler-Lagrange Gleichungen/7.0 Die Euler-Lagrange Gleichungen.md",
     "README.md",
-    "Theoretische Physik I/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze/17.1 Kovariante und kontravariante Tensoren.md",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/16 Kinematik/16.2 Die Lorentz-Transformationen.md",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/16 Kinematik/16.4 Addition von Geschwindigkeiten.md",
-    "Theoretische Physik I/IV Spezielle Relativitätstheorie/16 Kinematik/16.3 Kausalität und der Lichtkegel.md",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/16 Kinematik/16.1 Relativität der Zeit, Zeitdilatation und Längenkontraktion.md",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze/17.0 Kovarianz der physikalischen Gesetze - Inhalt.md",
     "Experimentalphysik I/Mechanik/7. Spezielle Relativitätsmechanik/7.6 Minkowski-Diagramme.md",
@@ -203,7 +218,6 @@
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.5 Beispiel; Lösen des harmonischen Oszillators mit Hamilton-Jacobi.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.7 Separable Variablen.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.3 Andere erzeugende Funktionen.md",
-    "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.6 Hamiltons charakteristische Funktion.md",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/16 Kinematik",
     "Files/Pasted image 20250127172251.png",
