@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "40bec1b23b9b084e",
+        "id": "55be0afef7126f5c",
         "type": "tabs",
         "children": [
           {
-            "id": "f6c269998e7866ee",
+            "id": "a96666f8c0052e28",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Theoretische Physik I/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze/17.3 Impuls, Energie und Masse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17.3 Impuls, Energie und Masse"
             }
           }
         ]
@@ -173,14 +177,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6c269998e7866ee",
+  "active": "a96666f8c0052e28",
   "lastOpenFiles": [
+    "Theoretische Physik I/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze/17.0 Kovarianz der physikalischen Gesetze - Inhalt.md",
+    "Theoretische Physik I/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze/17.3 Impuls, Energie und Masse.md",
+    "Theoretische Physik I/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze/17.2 Kovariante Formulierung der klassischen Bewegungsgleichungen.md",
+    "Experimentalphysik 1/Mechanik/3. Kinematik des Massenpunktes/3.8 Bewegung mit nicht-konstanter Beschleunigung.md",
+    "Experimentalphysik 1/Experimentalphysik 1.md",
+    "Experimentalphysik 1/Mechanik/3. Kinematik des Massenpunktes/3.8 Bewegung mir nicht-konstanter Beschleunigung.md",
+    "Theoretische Physik I/Theoretische Physik I.md",
     "Experimentalphysik 1/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
     "Experimentalphysik 3/Experimentalphysik 3.md",
-    "Experimentalphysik 1/Experimentalphysik 1.md",
     "Experimentalphysik 2/Experimentalphysik 2.md",
-    "Theoretische Physik I/Theoretische Physik I.md",
-    "Theoretische Physik I/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze/17.2 Kovariante Formulierung der klassischen Bewegungsgleichungen.md",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/16 Kinematik/16.2 Die Lorentz-Transformationen.md",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/16 Kinematik/16.3 Kausalität und der Lichtkegel.md",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/16 Kinematik/16.4 Addition von Geschwindigkeiten.md",
@@ -188,7 +196,6 @@
     "Experimentalphysik 3/Optik/2. Wellen in Materie/2.23 Optische Aktivität.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/7 Die Euler-Lagrange Gleichungen/7.0 Die Euler-Lagrange Gleichungen.md",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/16 Kinematik/16.1 Relativität der Zeit, Zeitdilatation und Längenkontraktion.md",
-    "Theoretische Physik I/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze/17.0 Kovarianz der physikalischen Gesetze - Inhalt.md",
     "Experimentalphysik 2/Elektromagnetismus/3. Magnetostatik/3.3 Der magnetische Fluss.md",
     "Experimentalphysik 2/Elektromagnetismus/1. Elektrostatik/1.3 Die elektrische Spannung.md",
     "Experimentalphysik 2/Elektromagnetismus/1. Elektrostatik/1.2 Das Coulombgesetz.md",
@@ -198,9 +205,6 @@
     "Files/Snippets.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.1 Kanonische Transformation mit erzeugender Funktion G(q,Q,t).md",
     "Experimentalphysik 3/Optik/4 Geometrische Optik/4.4 Linsen.md",
-    "Experimentalphysik 3/Optik/3. Interferenz/3.4 Interferometer mit Amplitudenaufspaltung.md",
-    "Experimentalphysik 3/Optik/4 Geometrische Optik/4.2 Spiegel.md",
-    "Experimentalphysik 3/Optik/4 Geometrische Optik/4.1 Grundlagen.md",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/16 Kinematik",
     "Files/Pasted image 20250127172251.png",

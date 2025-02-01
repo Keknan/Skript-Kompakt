@@ -16,7 +16,7 @@
 		- [[3.5 Geschwindigkeitsvektor]]
 		- [[3.6 Beschleunigkeitsvektor]]
 		- [[3.7 Gleichförmig beschleunigte Bewegung]]
-		- [[3.8 Bewegung mir nicht-konstanter Beschleunigung]]
+		- [[3.8 Bewegung mit nicht-konstanter Beschleunigung]]
 	- **4. Dynamik des Massenpunktes**
 		- [[4.0 Dynamik des Massenpunktes - Inhalt]]
 		- [[4.1 Impuls]]
