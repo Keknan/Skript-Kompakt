@@ -11,28 +11,28 @@
       "query": "path:\"Theoretische Physik I\"  ",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 538087
       }
     },
     {
-      "query": "path:\"Experimentalphysik I\"  ",
+      "query": "path:\"Experimentalphysik 1\"  ",
       "color": {
         "a": 1,
-        "rgb": 8150230
+        "rgb": 386549
       }
     },
     {
       "query": "path:\"Experimentalphysik 2\"  ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 15860226
       }
     },
     {
       "query": "path:\"Experimentalphysik 3\"  ",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 15892994
       }
     }
   ],
@@ -46,6 +46,6 @@
   "repelStrength": 18.75,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.05034417736651987,
-  "close": false
+  "scale": 0.07058167567046783,
+  "close": true
 }
