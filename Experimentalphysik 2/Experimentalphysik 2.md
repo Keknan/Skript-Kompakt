@@ -1,0 +1,78 @@
+%% Begin Waypoint %%
+- **Elektromagnetismus**
+	- **1. Elektrostatik**
+		- [[1.0 Elektrostatik - Inhalt]]
+		- [[1.1 Elektrische Ladungen]]
+		- [[1.2 Das Coulombgesetz]]
+		- [[1.3 Die elektrische Spannung]]
+		- [[1.4 Das elektrische Potential]]
+		- [[1.5 Der elektrische Fluss]]
+		- [[1.6 Verknüpfung elektrischer Spannung und Flüsse]]
+		- [[1.7 Dielektrika]]
+		- [[1.8 Energie im elektrischen Feld]]
+		- [[1.9 Generelles zum elektrischen Feld]]
+	- **2. Elektrischer Strom und Widerstand**
+		- [[2.0 Elektrischer Strom und Widerstand - Inhalt]]
+		- [[2.1 Der elektrische Strom]]
+		- [[2.2 Die elektrische Stromstärke]]
+		- [[2.3 Das elektrische Strömungsfeld]]
+		- [[2.4 Der elektrische Widerstand und das Ohmsche Gesetz]]
+		- [[2.5 Formulierung der Ladungserhaltung]]
+		- [[2.6 Die Kirchhoff-Regeln]]
+	- **3. Magnetostatik**
+		- [[3.0 Magnetostatik - Inhalt]]
+		- [[3.1 elektrische Ströme und Magnetismus]]
+		- [[3.2 Magnetische Kräfte]]
+		- [[3.3 Der magnetische Fluss]]
+		- [[3.4 Methoden der Berechnung magnetischer Felder]]
+		- [[3.5 Die magnetische Spannung]]
+		- [[3.6 Die Induktivität]]
+		- [[3.7 Magnetisierbare Körper]]
+	- **4. Induktionserscheinungen**
+		- [[4.0 Induktionserscheinungen - Inhalt]]
+		- [[4.1 Die elektromagnetische Induktion]]
+		- [[4.2 Induktion in ruhenden Leitern]]
+		- [[4.3 Das Induktionsgesetz in lokaler Darstellung]]
+	- **5. Elektrische Schaltkreise**
+		- [[5.0 Elektrische Schaltkreise - Inhalt]]
+		- [[5.1 Energie und Leistung elektrischer Ströme]]
+		- [[5.2 Stromkreiselemente]]
+		- [[5.3 Wechselstromkreise]]
+		- [[5.4 Resonanzerscheinungen]]
+	- **6. Das elektromagnetische Feld**
+		- [[6.0 Das elektromagnetische Feld-Inhalt]]
+		- [[6.1 Ladungserhaltung und der Ampére-Maxwell-Satz]]
+		- [[6.2 Die Existenz elektromagnetischer Wellen]]
+		- [[6.3 Globale und lokale Eigenschaften]]
+	- **7. Elektromagnetische Wellen**
+		- [[7.0 Elektromagnetische Wellen - Inhalt]]
+		- [[7.1 Hertzscher Dipol]]
+		- [[7.2 Ebene Wellen im freien Raum]]
+		- [[7.3 Stehende Wellen]]
+		- [[7.4 Wellen auf Leitungen]]
+	- **8. Energie im Elektromagnetismus**
+		- [[8.0 Energie im Elektromagnetismus - Inhalt]]
+		- [[8.1 Energiespeicherung]]
+		- [[8.2 Eigenschwingungen]]
+		- [[8.3 Energiespeicherung im elektromagnetischen Feld]]
+		- [[8.4 Energietransport]]
+	- **9. Die Maxwell-Gleichungen**
+		- [[9.0 Die Maxwell-Gleichungen - Inhalt]]
+		- [[9.1 Die Maxwell-Gleichungen]]
+- **Wärmelehre**
+	- **10. Thermodynamik**
+		- [[10.0 Wärmelehre - Inhalt]]
+		- [[10.1 Energie, Entropie und Temperatur]]
+		- [[10.2 Temperatur und das Gasthermometer]]
+		- [[10.3 Temperatur-Skalen und die absolute Temperatur]]
+		- [[10.4 Längen- und Volumenausdehnung]]
+		- [[10.5 Wärmeenergie und Wärmekapazität]]
+		- [[10.6 Wärmetransport]]
+		- [[10.7 Der Nullte Hauptsatz der Thermodynamik]]
+		- [[10.8 Der Erste Hauptsatz der Thermodynamik]]
+		- [[10.9 Ideale Gase]]
+		- [[10.10 Der zweite Hauptsatz der Thermodynamik]]
+		- [[10.11 Entropie, Wahrscheinlichkeit, Ordnung]]
+		- [[10.12 Reale Gase und Flüssigkeiten]]
+
+%% End Waypoint %%
