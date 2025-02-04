@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Physik I/IV Spezielle Relativitätstheorie/18 Erhaltung des Viererimpulses/18.2 Relativistische Kollisionen.md",
+                "file": "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18.2 Relativistische Kollisionen"
+              "title": "10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals"
             }
           }
         ]
@@ -179,7 +179,11 @@
   },
   "active": "98863d5e3ebd13f8",
   "lastOpenFiles": [
+    "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.2 Hamilton-Funktion und Energieerhaltung.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals.md",
+    "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.4 Hamilton-Jacobi-Gleichung.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.1 Freie Drehung eines starren Körpers.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.2 Ein symmetrischer schwerer Kreisel mit einem festen Punkt.md",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/18 Erhaltung des Viererimpulses/18.2 Relativistische Kollisionen.md",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/18 Erhaltung des Viererimpulses/18.1 Erhaltung der relativistischen Energie.md",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze/17.1 Kovariante und kontravariante Tensoren.md",
@@ -193,7 +197,6 @@
     "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.2 Erhaltungsgrößen im Hamilton-Formalismus.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.1 Legendre-Transformation und Hamilton-Bewegungsgleichungen.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.0 Die Hamilton-Bewegungsgleichungen - Inhalt.md",
-    "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.4 Hamilton-Jacobi-Gleichung.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.3 Andere erzeugende Funktionen.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.4 Poisson-Klammern.md",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze/17.3 Impuls, Energie und Masse.md",
@@ -204,9 +207,6 @@
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/18 Erhaltung des Viererimpulses",
     "Experimentalphysik 1/Mechanik/3. Kinematik des Massenpunktes/3.8 Bewegung mit nicht-konstanter Beschleunigung.md",
     "Experimentalphysik 1/Experimentalphysik 1.md",
-    "Experimentalphysik 1/Mechanik/3. Kinematik des Massenpunktes/3.8 Bewegung mir nicht-konstanter Beschleunigung.md",
-    "Experimentalphysik 1/Mechanik/11. Dynamik des starren Körpers/11.5 Lineare und Drehbewegung, Trägheitstensor.md",
-    "Experimentalphysik 3/Experimentalphysik 3.md",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/16 Kinematik",
     "Files/Pasted image 20250127172251.png",
