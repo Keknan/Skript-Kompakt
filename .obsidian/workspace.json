@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.0 Kanonische Transformation - Inhalt.md",
+                "file": "Experimentalphysik 3/Optik/2. Wellen in Materie/2.23 Optische Aktivität.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15.0 Kanonische Transformation - Inhalt"
+              "title": "2.23 Optische Aktivität"
             }
           }
         ]
@@ -177,8 +177,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21d503e27084784f",
+  "active": "98863d5e3ebd13f8",
   "lastOpenFiles": [
+    "Experimentalphysik 3/Optik/3. Interferenz/3.4 Interferometer mit Amplitudenaufspaltung.md",
+    "Experimentalphysik 3/Optik/3. Interferenz/3.3 Interferometer mit Wellenfrontaufspaltung.md",
+    "Experimentalphysik 3/Optik/2. Wellen in Materie/2.13 Wellen an Grenzflächen zwischen zwei Medien.md",
+    "Experimentalphysik 3/Optik/2. Wellen in Materie/2.14 Reflexions- und Transmissionsvermögen einer Grenzfläche.md",
+    "Experimentalphysik 3/Optik/2. Wellen in Materie/2.16 Totalreflexion.md",
+    "Experimentalphysik 3/Optik/2. Wellen in Materie/2.15 Brewster-Winkel.md",
+    "Experimentalphysik 3/Optik/2. Wellen in Materie/2.22 Änderung der Polarisationsrichtung.md",
+    "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.0 Kanonische Transformation - Inhalt.md",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/18 Erhaltung des Viererimpulses/18.2 Relativistische Kollisionen.md",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/18 Erhaltung des Viererimpulses/18.1 Erhaltung der relativistischen Energie.md",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze/17.3 Impuls, Energie und Masse.md",
@@ -196,15 +204,7 @@
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.2 Beispiel; der harmonische Oszillator.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.1 Kanonische Transformation mit erzeugender Funktion G(q,Q,t).md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.0' Kanonische Transformation.md",
-    "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.0 Kanonische Transformation - Inhalt.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.4 Poisson-Klammern.md",
-    "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.3 Beispiel; Teilchen in einem zentralen Potential.md",
-    "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.2 Erhaltungsgrößen im Hamilton-Formalismus.md",
-    "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.1 Legendre-Transformation und Hamilton-Bewegungsgleichungen.md",
-    "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.0 Die Hamilton-Bewegungsgleichungen - Inhalt.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/13 Kleine Schwingungen und Kontinuumsmechanik/13.1 Normale Eigenschwingungen.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.2 Ein symmetrischer schwerer Kreisel mit einem festen Punkt.md",
-    "Theoretische Physik I/II Lagrangesche Mechanik/12 Bewegung des Starrkörpers mit dem Lagrange Formalismus/12.1 Freie Drehung eines starren Körpers.md",
     "Files/Pasted image 20250201205034.png",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/18 Erhaltung des Viererimpulses",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze",
