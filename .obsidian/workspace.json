@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik 3/Quantenphysik/7 Grundlagen der Quantenmechanik/7.3 Teilchen-Welle-Dualismus.md",
+                "file": "Experimentalphysik 3/Optik/6. Anwendungen/6.5 Auflösungsvermögen und Lichtstärke.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.3 Teilchen-Welle-Dualismus"
+              "title": "6.5 Auflösungsvermögen und Lichtstärke"
             }
           }
         ]
@@ -179,6 +179,9 @@
   },
   "active": "98863d5e3ebd13f8",
   "lastOpenFiles": [
+    "Experimentalphysik 3/Optik/3. Interferenz/3.4 Interferometer mit Amplitudenaufspaltung.md",
+    "Experimentalphysik 3/Optik/3. Interferenz/3.5 Vielstrahlinterferenz.md",
+    "Experimentalphysik 3/Quantenphysik/7 Grundlagen der Quantenmechanik/7.3 Teilchen-Welle-Dualismus.md",
     "Experimentalphysik 3/Quantenphysik/7 Grundlagen der Quantenmechanik/7.4 Materiewellen und Schrödinger Gleichung.md",
     "Experimentalphysik 3/Quantenphysik/7 Grundlagen der Quantenmechanik/7.1 Grundlegende Experimente.md",
     "Experimentalphysik 3/Optik/6. Anwendungen/6.7 Holografie.md",
@@ -195,8 +198,6 @@
     "Experimentalphysik 3/Optik/4 Geometrische Optik/4.1 Grundlagen.md",
     "Experimentalphysik 3/Optik/4 Geometrische Optik/4.0 Geometrische Optik - Inhalt.md",
     "Experimentalphysik 3/Optik/3. Interferenz/3.6 Beugung.md",
-    "Experimentalphysik 3/Optik/3. Interferenz/3.5 Vielstrahlinterferenz.md",
-    "Experimentalphysik 3/Optik/3. Interferenz/3.4 Interferometer mit Amplitudenaufspaltung.md",
     "Experimentalphysik 3/Optik/3. Interferenz/3.3 Interferometer mit Wellenfrontaufspaltung.md",
     "Experimentalphysik 3/Optik/3. Interferenz/3.2 Kohärenz.md",
     "Experimentalphysik 3/Optik/3. Interferenz/3.1 Grundlagen.md",
@@ -204,7 +205,6 @@
     "Experimentalphysik 3/Optik/2. Wellen in Materie/2.22 Änderung der Polarisationsrichtung.md",
     "Experimentalphysik 3/Optik/2. Wellen in Materie/2.21 Erzeugung von polarisiertem Licht.md",
     "Experimentalphysik 3/Optik/2. Wellen in Materie/2.20 Malussches Gesetz.md",
-    "Experimentalphysik 3/Optik/2. Wellen in Materie/2.19 Polarisationsarten.md",
     "Files/Pasted image 20250201205034.png",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/18 Erhaltung des Viererimpulses",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze",
