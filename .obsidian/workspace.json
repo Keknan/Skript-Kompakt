@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Notiz von Keknan"
             }
+          },
+          {
+            "id": "0efa8a3a610d7b2a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98863d5e3ebd13f8",
+  "active": "0efa8a3a610d7b2a",
   "lastOpenFiles": [
     "Experimentalphysik 3/Optik/6. Anwendungen/6.5 Auflösungsvermögen und Lichtstärke.md",
     "Experimentalphysik 3/Optik/3. Interferenz/3.4 Interferometer mit Amplitudenaufspaltung.md",
