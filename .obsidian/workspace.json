@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d10f10d83dc2a64d",
+        "id": "37734ed4ba05abda",
         "type": "tabs",
         "children": [
           {
-            "id": "98863d5e3ebd13f8",
+            "id": "c39f93978c98c2f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik 3/Optik/1. Einleitung/Notiz von Keknan.md",
-                "mode": "source",
-                "source": false
+                "file": "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Notiz von Keknan"
-            }
-          },
-          {
-            "id": "0efa8a3a610d7b2a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,8 +177,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0efa8a3a610d7b2a",
+  "active": "c39f93978c98c2f5",
   "lastOpenFiles": [
+    "Experimentalphysik 1/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
+    "Experimentalphysik 1/Mechanik/10. Himmelsmechanik/10.3 Das Effektive Gravitationspotential.md",
+    "Experimentalphysik 1/Mechanik/10. Himmelsmechanik/10.1 Newton'sche Gravitationstheorie.md",
+    "Theoretische Physik I/II Lagrangesche Mechanik/8 Lagrange-Gleichungen für Bewegungen ohne Zwangsbedingungen/8.0 - 8 Lagrange-Gleichungen für Bewegungen ohne Zwangsbedingungen.md",
+    "Experimentalphysik 3/Optik/4 Geometrische Optik/4.2 Spiegel.md",
+    "Experimentalphysik 2/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
+    "Experimentalphysik 1/Mechanik/11. Dynamik des starren Körpers/11.4 Statisches Gleichgewicht.md",
+    "Experimentalphysik 3/Optik/1. Einleitung/Notiz von Keknan.md",
     "Experimentalphysik 3/Optik/6. Anwendungen/6.5 Auflösungsvermögen und Lichtstärke.md",
     "Experimentalphysik 3/Optik/3. Interferenz/3.4 Interferometer mit Amplitudenaufspaltung.md",
     "Experimentalphysik 3/Optik/3. Interferenz/3.5 Vielstrahlinterferenz.md",
@@ -207,17 +202,9 @@
     "Experimentalphysik 3/Optik/4 Geometrische Optik/4.5 Abbildungsfehler.md",
     "Experimentalphysik 3/Optik/4 Geometrische Optik/4.4 Linsen.md",
     "Experimentalphysik 3/Optik/4 Geometrische Optik/4.3 Prisma.md",
-    "Experimentalphysik 3/Optik/4 Geometrische Optik/4.2 Spiegel.md",
     "Experimentalphysik 3/Optik/4 Geometrische Optik/4.1 Grundlagen.md",
     "Experimentalphysik 3/Optik/4 Geometrische Optik/4.0 Geometrische Optik - Inhalt.md",
     "Experimentalphysik 3/Optik/3. Interferenz/3.6 Beugung.md",
-    "Experimentalphysik 3/Optik/3. Interferenz/3.3 Interferometer mit Wellenfrontaufspaltung.md",
-    "Experimentalphysik 3/Optik/3. Interferenz/3.2 Kohärenz.md",
-    "Experimentalphysik 3/Optik/3. Interferenz/3.1 Grundlagen.md",
-    "Experimentalphysik 3/Optik/2. Wellen in Materie/2.23 Optische Aktivität.md",
-    "Experimentalphysik 3/Optik/2. Wellen in Materie/2.22 Änderung der Polarisationsrichtung.md",
-    "Experimentalphysik 3/Optik/2. Wellen in Materie/2.21 Erzeugung von polarisiertem Licht.md",
-    "Experimentalphysik 3/Optik/2. Wellen in Materie/2.20 Malussches Gesetz.md",
     "Files/Pasted image 20250201205034.png",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/18 Erhaltung des Viererimpulses",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze",
