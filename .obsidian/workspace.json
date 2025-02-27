@@ -11,10 +11,14 @@
             "id": "de1a78591862bc00",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Experimentalphysik 1/Mechanik/15. Wellen/15.2 Wellentypen, Wellenausbreitung.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "15.2 Wellentypen, Wellenausbreitung"
             }
           }
         ]
@@ -175,6 +179,11 @@
   },
   "active": "de1a78591862bc00",
   "lastOpenFiles": [
+    "Experimentalphysik 1/Mechanik/15. Wellen/15.6 Dopplereffekt.md",
+    "Experimentalphysik 1/Mechanik/15. Wellen/15.5 Stehende Wellen.md",
+    "Experimentalphysik 1/Mechanik/15. Wellen/15.4 Reflexion und Transmission.md",
+    "Experimentalphysik 1/Mechanik/15. Wellen/15.3 Prinzip der Superposition.md",
+    "Experimentalphysik 1/Mechanik/15. Wellen/15.2 Wellentypen, Wellenausbreitung.md",
     "README.md",
     "Untitled.md",
     "Theoretische Physik I/II Lagrangesche Mechanik/10 Erhaltungsgrößen und Noether's Theorem/10.3 Herleitung des Noether-Theorems aus der Invarianz des Wirkungsintegrals.md",
@@ -196,11 +205,6 @@
     "Experimentalphysik 3/Optik/6. Anwendungen/6.6 Optik in der Atmosphäre.md",
     "Experimentalphysik 3/Optik/6. Anwendungen/6.4 Fernrohr.md",
     "Experimentalphysik 3/Optik/6. Anwendungen/6.3 Mikroskop.md",
-    "Experimentalphysik 3/Optik/6. Anwendungen/6.2 Optische Instrumente.md",
-    "Experimentalphysik 3/Optik/6. Anwendungen/6.1 Das Auge.md",
-    "Experimentalphysik 3/Optik/4 Geometrische Optik/4.5 Abbildungsfehler.md",
-    "Experimentalphysik 3/Optik/4 Geometrische Optik/4.4 Linsen.md",
-    "Experimentalphysik 3/Optik/4 Geometrische Optik/4.3 Prisma.md",
     "Files/Pasted image 20250201205034.png",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/18 Erhaltung des Viererimpulses",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze",
