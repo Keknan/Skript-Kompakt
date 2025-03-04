@@ -25,11 +25,11 @@ $$
 
 Dies wurde für jede Messung der jeweiligen Stäbe getan, für den goldenen Stab existierten nur zwei. Die einzelnen ermittelten Frequenzen jeder Messung sind unten aufgeführt:
 
-| Messung | Gold                              | Bronze                            | Glanz                             | Silber                           |
-| ------- | --------------------------------- | --------------------------------- | --------------------------------- | -------------------------------- |
-| 1       | $f_{0}=1293.82\pm 0.39\text{ Hz}$ | $f_{0}=1512.25\pm 0.55\text{ Hz}$ | $f_{0}=1885.07\pm 0.60\text{ Hz}$ | $f_{0}=1967.88 ± 0.34\text{Hz}$  |
-| 2       | $f_{0}=1293.81\pm 0.35\text{ Hz}$ | $f_{0}=1512.27\pm 0.56\text{ Hz}$ | $f_{0}=1885.11\pm 0.60\text{ Hz}$ | $f_{0}=1967.93 ± 0.34\text{ Hz}$ |
-| 3       |                                   | $f_{0}=1512.33\pm 0.54\text{ Hz}$ | $f_{0}=1885.08\pm 0.6\text{ Hz}$  | $f_{0}=1967.96 ± 0.35\text{ Hz}$ |
+| Messung | Gold                              | Bronze                            | Glanz                             | Silber                             |
+| ------- | --------------------------------- | --------------------------------- | --------------------------------- | ---------------------------------- |
+| 1       | $f_{0}=1293.82\pm 0.39\text{ Hz}$ | $f_{0}=1512.25\pm 0.55\text{ Hz}$ | $f_{0}=1885.07\pm 0.60\text{ Hz}$ | $f_{0}=1967.88 \pm 0.34\text{Hz}$  |
+| 2       | $f_{0}=1293.81\pm 0.35\text{ Hz}$ | $f_{0}=1512.27\pm 0.56\text{ Hz}$ | $f_{0}=1885.11\pm 0.60\text{ Hz}$ | $f_{0}=1967.93 \pm 0.34\text{ Hz}$ |
+| 3       |                                   | $f_{0}=1512.33\pm 0.54\text{ Hz}$ | $f_{0}=1885.08\pm 0.6\text{ Hz}$  | $f_{0}=1967.96 \pm 0.35\text{ Hz}$ |
 
 Unter der gleichen Logik kann man erneut einen gewichteten Mittelwert und eine gewichtete Standardabweichung, die zum Fehler auf den Mittelwert führt, für jedes Material durchführen. Unsere finalen Frequenzen, samt Fehlern lauten:
 
@@ -143,4 +143,8 @@ Wir erkennen also einen sehr geringen Fehler (ein ungefährer relativer Fehler a
 | Kupfer    | $100\dots 130\text{ GPa}$ | $8.92\cdot 10^{3}\text{ kg/m}^{3}$             |
 | Stahl     | $190\dots 210\text{ GPa}$ | $7.87\cdot 10^{3}\text{ kg/m}^{3}$             |
 | Aluminium | $70\text{ GPa}$           | $2.6989\cdot 10^{3}\text{ kg/m}^{3}$           |
-Die Werte liegen also nah an den Literaturwerten (besonders die Dichten), jedoch weichen die E-Moduln etwas ab. Dabei schwankt Kupfer am meisten. Jedoch ist die Qualität unserer Messung brauchbar, und liegen im Rahmen des Möglichen.
+Die Werte liegen also nah an den Literaturwerten (besonders die Dichten), jedoch weichen die E-Moduln etwas ab. Dabei schwankt Kupfer am meisten. Jedoch ist die Qualität unserer Messung brauchbar, und liegen im Rahmen des Möglichen.\
+
+1 & $f_{0}=1293.82\pm 0.39\text{ Hz}$ & $f_{0}=1512.25\pm 0.55\text{ Hz}$ & $f_{0}=1885.07\pm 0.60\text{ Hz}$ & $f_{0}=1967.88 \pm 0.34\text{Hz}$ \\ 
+		2 & $f_{0}=1293.81\pm 0.35\text{ Hz}$ & $f_{0}=1512.27\pm 0.56\text{ Hz}$ & $f_{0}=1885.11\pm 0.60\text{ Hz}$ & $f_{0}=1967.93 \pm 0.34\text{ Hz}$ \\ 
+		3 & & $f_{0}=1512.33\pm 0.54\text{ Hz}$ & $f_{0}=1885.08\pm 0.6\text{ Hz}$ &$f_{0}=1967.96 \pm 0.35\text{ Hz}$ \\  
