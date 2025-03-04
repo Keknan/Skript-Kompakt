@@ -100,10 +100,47 @@ $$
 \rho=\frac{M}{\pi L(D/2)^{2}}
 $$
 
-beschreiben sollen, führen wir auch hier eine Gaußsche Fehlerforpflanzung durch.
+beschreiben sollen, führen wir auch hier eine Gaußsche Fehlerfortpflanzung durch.
 
 $$
 \sigma_{\rho}^{2}=\left( \frac{\partial \rho}{\partial M}\sigma_{M}  \right)^{2}+\left( \frac{\partial \rho}{\partial L}\sigma_{L}  \right)^{2}+\left( \frac{\partial \rho}{\partial D}\sigma_{D}  \right)^{2}
 $$
 
-Diese Rechnung wurde von Python übernommen, da alle ermittelten Werte über "ufloat" gespeichert wurden
+Diese Rechnung wurde von Python übernommen, da alle ermittelten Werte über "ufloat" gespeichert wurden. Da $D$ quadratisch ist, gilt auch für die Fehlerfortpflanzung folgendes:
+
+$$
+\left( \frac{\Delta \rho}{\rho} \right)^{2}=\left( \frac{\Delta M}{M} \right)^{2}+\left( \frac{\Delta L}{L} \right)^{2}+\left( 2 \frac{\Delta D}{D} \right)^{2}
+$$
+
+der Fehler auf $D$ ist also von besonderer Bedeutung, daher wurde $D$ auch mehrmals (Für 3 Stäbe 4 mal, für den Aluminiumstab 10 Mal) gemessen. Da wir den systematischen Fehler bereits für alle Parameter berücksichtigt haben, erhalten wir den Gesamtfehler auf die Dichte sofort.
+
+Die Gleiche Fehlerfortpflanzung findet für den Elastizitätsmodul statt, wodurch wir hier auch betrachten, dass $f_{0}$ quadratisch gezählt wird:
+
+$$
+\sigma_{E}^{2}=\left( \frac{\partial E}{\partial M}\sigma_{M}  \right)^{2}+\left( \frac{\partial E}{\partial L}\sigma_{L}  \right)^{2}+\left( \frac{\partial E}{\partial D}\sigma_{D}  \right)^{2}+\left( \frac{\partial E}{\partial f_{0}}\sigma_{f_{0}}  \right)^{2}
+$$
+
+bzw.
+
+$$
+\left( \frac{\Delta E}{E} \right)^{2}=\left( \frac{\Delta M}{M} \right)^{2}+\left( \frac{\Delta L}{L} \right)^{2}+\left( 2 \frac{\Delta D}{D} \right)^{2}+\left( 2 \frac{\Delta f_{0}}{f} \right)^{2}
+$$
+
+Hierbei tragen die Unsicherheiten auf $f_{0},D$ besonders bei. Daher die gründliche Auswertung im vorigen Abschnitt. Wir kommen also zu den finalen E-Moduln und Dichten:
+
+| Material  | $E$                                         | $\rho$                                           |
+| --------- | ------------------------------------------- | ------------------------------------------------ |
+| Messing   | $(9.5600\pm 0.0095)\cdot 10^{10}\text{ Pa}$ | $(8.4612\pm 0.0077)\cdot 10^{3}\text{ kg/m}^{3}$ |
+| Kupfer    | $(1.3779\pm0.0014)\cdot 10^{11}\text{ Pa}$  | $(8.9125\pm0.0081)\cdot 10^{3}\text{ kg/m}^{3}$  |
+| Stahl     | $(1.9030\pm0.0019)\cdot 10^{11}\text{ Pa}$  | $(7.9221\pm0.0072)\cdot 10^{3}\text{ kg/m}^{3}$  |
+| Aluminium | $(7.3377\pm0.0076)\cdot 10^{10}\text{ Pa}$  | $(2.8028\pm0.0029)\cdot 10^{3}\text{ kg/m}^{3}$  |
+
+Wir erkennen also einen sehr geringen Fehler (ein ungefährer relativer Fehler aller Stäbe von ~$0.1\%$), unsere Messwerte sind also ziemlich genau. Da uns bereits mitgeteilt wurde, welche Materialien vorliegen, kann man direkt mit Literaturwerten vergleichen. Hieraus lässt sich auch mehr Informationen ziehen, welche systematischen Fehler noch vorliegen. Bspw. hätte man die Messdauer erhöhen können (Unsere lag bei 2.5s), und das Messintervall verkleinern können (Wir stellten $20\mu\text{s}$) ein. Weitere Gründe könnte die Temperatur des Raumes gewesen sein, da die Literaturwerte bei $20\degree\text{C}$ aufgenommen wurden. Die Temperatur im Raum war höher, wodurch der Stab sich minimal ausdehnen konnte. Dies könnte besonders $D$ verändern, $f_{0}$ nur geringfügig, aufgrund der Linearität von $L$. Literaturwerte sind unten aufgefasst:
+
+| Material  | $E_{\text{lit}}$          | $\rho_{\text{lit}}$                            |
+| --------- | ------------------------- | ---------------------------------------------- |
+| Messing   | $78\dots 123\text{ GPa}$  | $(8.41\dots 8.86)\cdot 10^{3}\text{ kg/m}^{3}$ |
+| Kupfer    | $100\dots 130\text{ GPa}$ | $8.92\cdot 10^{3}\text{ kg/m}^{3}$             |
+| Stahl     | $190\dots 210\text{ GPa}$ | $7.87\cdot 10^{3}\text{ kg/m}^{3}$             |
+| Aluminium | $70\text{ GPa}$           | $2.6989\cdot 10^{3}\text{ kg/m}^{3}$           |
+Die Werte liegen also nah an den Literaturwerten (besonders die Dichten), jedoch weichen die E-Moduln etwas ab. Dabei schwankt Kupfer am meisten. Jedoch ist die Qualität unserer Messung brauchbar, und liegen im Rahmen des Möglichen.

@@ -6,6 +6,7 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "Files",
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
