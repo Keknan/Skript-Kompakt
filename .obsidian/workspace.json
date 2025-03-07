@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Aufgabe 2, Vorarbeit"
             }
+          },
+          {
+            "id": "cd54f8af9c61cf45",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b66bc7c697e48d8",
+  "active": "cd54f8af9c61cf45",
   "lastOpenFiles": [
     "README.md",
     "Aufgabe 2, Vorarbeit.md",
