@@ -146,5 +146,5 @@ Wir erkennen also einen sehr geringen Fehler (ein ungefährer relativer Fehler a
 Die Werte liegen also nah an den Literaturwerten (besonders die Dichten), jedoch weichen die E-Moduln etwas ab. Dabei schwankt Kupfer am meisten. Jedoch ist die Qualität unserer Messung brauchbar, und liegen im Rahmen des Möglichen.
 
 $$
-\sigma_{\text{Residuum}}=\sqrt{ \sigma_{\log(p)}^{2}+\left( \frac{\sigma_{L /R}}{T} \right)^{2}+\left( L /R*\sigma_{\frac{1}{T}} \right)^{2}+\sigma_{b}^{2} }
+
 $$
