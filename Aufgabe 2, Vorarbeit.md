@@ -36,3 +36,7 @@ Bauch- und Knotenpositionen wurden ebenfalls in einen $x_{n}-n-$Plot aufgetragen
 Wir erhalten eine Steigung von $m_{1}=0.0361\pm 0.0008\text{ m/}n$, und ein $\chi^{2}=0.6585$ auf $dof=4$ Messwerte, was $\chi^{2} /dof=0.6585 /4\approx 0.1646$ beträgt. Skaliert man die Fehler um einen Faktor $0.4$ erhält man eine Güte von 1.01, was ein klares Indiz auf Fehlerüberschätzung ist. Auch alle Fehlerbalken der Residuen schneiden die Nulllinie, schwanken jedoch statistisch. Unsere Messung ist also nicht die Beste, kann aber durch eine geeignete Fehlerkorrektur verringert werden.
 
 Zur Bestimmung der Schallgeschwindigkeit bei festem $f$, und Vermessung der Knoten *und* Bäuche, daher stammt der Faktor 4, rechnen wir $v_{schall}=4fm_{1}$. Wir erhalten $v_{schall,3}=353.6955\text{ m/s}$ und über die gleiche Fehlerfortpflanzung den Fehler $\sigma_{v_{schall,3}}=\pm 8.1622\text{ m/s}$. Das ist ein relativer Fehler von $\sigma_{v_{schall,3}} /v_{schall,3} \approx 2.31\%$. Im Vergleich zu Messung 1 & 2 ist diese Messung also eher schlecht. Vergleich mit dem Literaturwert $v_{lit,3}=344.7953\text{ m/s}$ bei $T=22.2\degree\text{C}$ liefert die Abweichung $1- v_{lit,3} /v_{schall,3}\approx 2.52\%$. Unsere Messwerte lassen sich also einigermaßen vereinbaren.
+
+$$
+\langle v \rangle=\frac{\sum_{i=1}^{2}v_{i} \cdot\sigma_{i}}{\sum_{i=1}^{n=2}\sigma_{i}}
+$$
