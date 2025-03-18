@@ -20,3 +20,10 @@ $$
 
 kommen wir auf eine Unsicherheit von $\sigma_{v_{schall}}=\pm 0.2462\text{ m/s}$, was einem relativen Fehler von $\sigma_{v_{schall}} /v_{schall}\approx 0.07\%$ ist. Unser Ergebnis ist also sehr genau.
 
+## Teil 3
+***
+
+Es wurde die sechste Resonanzfrequenz $f=2451.5$ genutzt, und mit dem Oszilloskop geschaut, wann die Amplitude maximal ist (Die Frequenz weicht minimal ab, da das Mikrofon minimal bewegt worden ist). Auf analogem Weg wie in 2 wurde ein Fehler von $0.4\text{ Hz}$ abgelesen. Die Positionen $x_{n}$ wurden ebenfalls über das Oszilloskop abgelesen, und die Fehler $\sigma_{x_{n}}$ dadurch abgeschätzt, indem man das Mikrofon geringfügig nach oben und unten bewegt, und schaut, wann das Oszilloskop eine Änderung anzeigt. Wir erhalten folgende Messwerte:
+
+(Tabelle)
+
