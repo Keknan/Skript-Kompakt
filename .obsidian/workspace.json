@@ -11,10 +11,14 @@
             "id": "a8bb8540d1f3e78b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Aufgabe 2, Vorarbeit.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Aufgabe 2, Vorarbeit"
             }
           }
         ]
@@ -175,6 +179,9 @@
   },
   "active": "a8bb8540d1f3e78b",
   "lastOpenFiles": [
+    "Files/Pasted image 20250320173508.png",
+    "Files/Pasted image 20250320173458.png",
+    "Files/Pasted image 20250320173439.png",
     "Aufgabe 2, Vorarbeit.md",
     "README.md",
     "Experimentalphysik 1/Mechanik/12. Mechanik fester Körper/12.2 Spannung in festen Körpern.md",
@@ -200,7 +207,6 @@
     "Experimentalphysik 3/Optik/3. Interferenz/3.4 Interferometer mit Amplitudenaufspaltung.md",
     "Experimentalphysik 3/Optik/3. Interferenz/3.5 Vielstrahlinterferenz.md",
     "Experimentalphysik 3/Quantenphysik/7 Grundlagen der Quantenmechanik/7.3 Teilchen-Welle-Dualismus.md",
-    "Experimentalphysik 3/Quantenphysik/7 Grundlagen der Quantenmechanik/7.4 Materiewellen und Schrödinger Gleichung.md",
     "Files/Pasted image 20250201205034.png",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/18 Erhaltung des Viererimpulses",
     "Theoretische Physik I/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze",
@@ -213,8 +219,6 @@
     "Files/Pasted image 20250126205736.png",
     "Files/Pasted image 20250122221924.png",
     "Files/Pasted image 20250122213108.png",
-    "Files/Pasted image 20250122210820.png",
-    "Files/Pasted image 20250122210711.png",
     "Experimentalphysik 3/Quantenphysik/7 Grundlagen der Quantenmechanik",
     "Experimentalphysik 3/Quantenphysik",
     "Experimentalphysik 3/Optik/6. Anwendungen",
