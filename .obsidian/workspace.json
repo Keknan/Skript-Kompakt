@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dfce76a8560af674",
+        "id": "29b2333eb4ffe810",
         "type": "tabs",
         "children": [
           {
-            "id": "2b66bc7c697e48d8",
+            "id": "a8bb8540d1f3e78b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aufgabe 2, Vorarbeit.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Aufgabe 2, Vorarbeit"
+              "title": "New tab"
             }
           }
         ]
@@ -177,10 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b66bc7c697e48d8",
+  "active": "a8bb8540d1f3e78b",
   "lastOpenFiles": [
-    "README.md",
     "Aufgabe 2, Vorarbeit.md",
+    "README.md",
     "Experimentalphysik 1/Mechanik/12. Mechanik fester Körper/12.2 Spannung in festen Körpern.md",
     "Experimentalphysik 1/Mechanik/12. Mechanik fester Körper/12.3 Spezielle elastische Verformung isotroper Körper.md",
     "Experimentalphysik 1/Mechanik/12. Mechanik fester Körper/12.1 Deformationen fester Körper.md",
