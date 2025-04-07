@@ -1,7 +1,7 @@
 %% Begin Waypoint %%
 - **Optik**
 	- **1. Einleitung**
-		- [[Notiz von Keknan]]
+		- [[Experimentalphysik 3/Optik/1. Einleitung/Notiz von Keknan]]
 	- **2. Wellen in Materie**
 		- [[2.0 Wellen in Materie - Inhalt]]
 		- [[2.1 Maxwell-Gleichungen]]
