@@ -147,7 +147,7 @@
     "enableProof": true,
     "enableMathPreviewInCalloutAndQuote": true,
     "autocompleteDvQuery": "",
-    "searchModalQueryType": "both",
+    "searchModalQueryType": "equation",
     "searchModalRange": "active",
     "searchModalDvQuery": ""
   },
