@@ -15,7 +15,7 @@
               "state": {
                 "file": "Untitled.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Untitled"

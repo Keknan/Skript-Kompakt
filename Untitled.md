@@ -62,6 +62,15 @@ $$
 0.6 & 1
 \end{pmatrix}}
 $$
-
+s
 ##### b)
+siehe Python Skript
+
+##### c)
+siehe Python Skript
+
+## Aufgabe 3
+***
+
+##### a) - g)
 siehe Python Skript
