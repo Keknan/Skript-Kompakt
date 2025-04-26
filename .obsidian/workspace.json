@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "Experimentalphysik 3/Optik/6. Anwendungen/6.5 Auflösungsvermögen und Lichtstärke.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "6.5 Auflösungsvermögen und Lichtstärke"
+            }
+          },
+          {
+            "id": "a7c27fd5629b2cbc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,13 +190,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cfeb2b5b46e7538c",
+  "active": "a7c27fd5629b2cbc",
   "lastOpenFiles": [
+    "Experimentalphysik 3/Optik/6. Anwendungen/6.3 Mikroskop.md",
+    "Untitled.md",
     "Theoretische Physik 2/2 Der N-dimensionale unitäre Raum/2.2 Fortgeschrittene Konzepte.md",
     "Theoretische Physik 2/Theoretische Physik 2.md",
     "Theoretische Physik 2/2 Der N-dimensionale unitäre Raum/2.1 Grundlagen und die Dirac-Notation.md",
     "Theoretische Physik 2/1 Zwei (Gedanken-) Experimente/Notiz von Keknan.md",
-    "Untitled.md",
     "Files/Snippets.md",
     "Theoretische Physik 2/1 Zwei (Gedanken-) Experimente",
     "Theoretische Physik 1/Theoretische Physik I.md",
@@ -214,7 +228,6 @@
     "Experimentalphysik 1/Mechanik/10. Himmelsmechanik/10.1 Newton'sche Gravitationstheorie.md",
     "Theoretische Physik 1/II Lagrangesche Mechanik/8 Lagrange-Gleichungen für Bewegungen ohne Zwangsbedingungen/8.0 - 8 Lagrange-Gleichungen für Bewegungen ohne Zwangsbedingungen.md",
     "Experimentalphysik 3/Optik/4 Geometrische Optik/4.2 Spiegel.md",
-    "Experimentalphysik 2/Wärmelehre/10. Thermodynamik/10.10 Der zweite Hauptsatz der Thermodynamik.md",
     "Files/Pasted image 20250201205034.png",
     "Theoretische Physik 1/IV Spezielle Relativitätstheorie/18 Erhaltung des Viererimpulses",
     "Theoretische Physik 1/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze",
