@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik 3/Optik/6. Anwendungen/6.5 Auflösungsvermögen und Lichtstärke.md",
-                "mode": "preview",
+                "file": "Nymoen vs Lehr.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "6.5 Auflösungsvermögen und Lichtstärke"
-            }
-          },
-          {
-            "id": "a7c27fd5629b2cbc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "title": "Nymoen vs Lehr"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,10 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7c27fd5629b2cbc",
+  "active": "cfeb2b5b46e7538c",
   "lastOpenFiles": [
+    "Experimentalphysik 3/Optik/6. Anwendungen/6.5 Auflösungsvermögen und Lichtstärke.md",
     "Experimentalphysik 3/Optik/6. Anwendungen/6.3 Mikroskop.md",
-    "Untitled.md",
+    "Nymoen vs Lehr.md",
     "Theoretische Physik 2/2 Der N-dimensionale unitäre Raum/2.2 Fortgeschrittene Konzepte.md",
     "Theoretische Physik 2/Theoretische Physik 2.md",
     "Theoretische Physik 2/2 Der N-dimensionale unitäre Raum/2.1 Grundlagen und die Dirac-Notation.md",
@@ -227,7 +215,6 @@
     "Experimentalphysik 1/Mechanik/10. Himmelsmechanik/10.3 Das Effektive Gravitationspotential.md",
     "Experimentalphysik 1/Mechanik/10. Himmelsmechanik/10.1 Newton'sche Gravitationstheorie.md",
     "Theoretische Physik 1/II Lagrangesche Mechanik/8 Lagrange-Gleichungen für Bewegungen ohne Zwangsbedingungen/8.0 - 8 Lagrange-Gleichungen für Bewegungen ohne Zwangsbedingungen.md",
-    "Experimentalphysik 3/Optik/4 Geometrische Optik/4.2 Spiegel.md",
     "Files/Pasted image 20250201205034.png",
     "Theoretische Physik 1/IV Spezielle Relativitätstheorie/18 Erhaltung des Viererimpulses",
     "Theoretische Physik 1/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze",
