@@ -148,7 +148,7 @@
     "enableMathPreviewInCalloutAndQuote": true,
     "autocompleteDvQuery": "",
     "searchModalQueryType": "equation",
-    "searchModalRange": "active",
+    "searchModalRange": "recent",
     "searchModalDvQuery": ""
   },
   "excludedFiles": [
@@ -158,6 +158,7 @@
     "Theoretische Physik I/III Hamiltonsche Mechanik/14 Die Hamilton-Bewegungsgleichungen/14.0 Die Hamilton-Bewegungsgleichungen - Inhalt.md",
     "Theoretische Physik I/III Hamiltonsche Mechanik/15 Kanonische Transformation/15.1 Kanonische Transformation mit erzeugender Funktion G(q,Q,t).md",
     "Experimentalphysik III/Optik/4 Geometrische Optik/4.4 Linsen.md",
-    "Theoretische Physik 2/2 Der N-dimensionale unitäre Raum/2.2 Fortgeschrittene Konzepte.md"
+    "Theoretische Physik 2/2 Der N-dimensionale unitäre Raum/2.2 Fortgeschrittene Konzepte.md",
+    "Theoretische Physik 2/3 Nochmal die (Gedanken-)Experimente/3.2 Weitere Konzepte der Statistik.md"
   ]
 }

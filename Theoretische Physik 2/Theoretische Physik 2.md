@@ -8,6 +8,7 @@
 	- [[2.2 Fortgeschrittene Konzepte]]
 - **3 Nochmal die (Gedanken-)Experimente**
 	- [[3.1 Wahrscheinlichkeiten, Messwerte und Operatoren]]
+	- [[3.2 Weitere Konzepte der Statistik]]
 
 %% End Waypoint %%
 
