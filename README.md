@@ -1,2 +1,2 @@
 Diese Notizen stammen von einem Studenten an der RWTH Aachen und sind Zusammenfassungen der Experimentalphysik I,II,III Skripte, die unter allen Umständen der RWTH Aachen gehören.
-Diese Notizen sollen Verständnislücken erklären können, dort wo das Skript mangelt, aber das Skript NICHT ersetzen. Die Verteilung des Skriptes, abgesehen von einer Verteilung innerhalb des Studienganges "Physik B. Sc. WiSe 24/25, ist untersagt.
+Diese Notizen sollen Verständnislücken erklären können, dort wo das Skript mangelt, aber das Skript NICHT ersetzen. Die Verteilung des Skriptes, abgesehen von einer Verteilung innerhalb des Studienganges "Physik B. Sc. SoSe 25, ist untersagt.
