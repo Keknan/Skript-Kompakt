@@ -9,6 +9,8 @@
 - **3 Nochmal die (Gedanken-)Experimente**
 	- [[3.1 Wahrscheinlichkeiten, Messwerte und Operatoren]]
 	- [[3.2 Weitere Konzepte der Statistik]]
+- **4 Wellenpakete und Schrödingergleichung**
+	- [[4.1 Wellenpakete in der Elektrodynamik]]
 
 %% End Waypoint %%
 
