@@ -11,6 +11,7 @@
 	- [[3.2 Weitere Konzepte der Statistik]]
 - **4 Wellenpakete und Schrödingergleichung**
 	- [[4.1 Wellenpakete in der Elektrodynamik]]
+	- [[4.2 Wellenpakete in der Quantenmechanik]]
 
 %% End Waypoint %%
 
