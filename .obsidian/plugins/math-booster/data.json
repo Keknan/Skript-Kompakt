@@ -148,7 +148,7 @@
     "enableMathPreviewInCalloutAndQuote": true,
     "autocompleteDvQuery": "",
     "searchModalQueryType": "equation",
-    "searchModalRange": "active",
+    "searchModalRange": "recent",
     "searchModalDvQuery": ""
   },
   "excludedFiles": [
@@ -160,6 +160,7 @@
     "Experimentalphysik III/Optik/4 Geometrische Optik/4.4 Linsen.md",
     "Theoretische Physik 2/2 Der N-dimensionale unitäre Raum/2.2 Fortgeschrittene Konzepte.md",
     "Theoretische Physik 2/3 Nochmal die (Gedanken-)Experimente/3.2 Weitere Konzepte der Statistik.md",
-    "Theoretische Physik 2/4 Wellenpakete und Schrödingergleichung/4.2 Wellenpakete in der Quantenmechanik.md"
+    "Theoretische Physik 2/4 Wellenpakete und Schrödingergleichung/4.2 Wellenpakete in der Quantenmechanik.md",
+    "Theoretische Physik 2/5 Der Hilbertraum/5.1 Der Hilbertraum.md"
   ]
 }
