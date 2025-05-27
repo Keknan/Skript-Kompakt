@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Theoretische Physik I\"  ",
+      "query": "path:\"Theoretische Physik 1\"  ",
       "color": {
         "a": 1,
         "rgb": 538087
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 15892994
       }
+    },
+    {
+      "query": "path:\"Theoretische Physik 2\" ",
+      "color": {
+        "a": 1,
+        "rgb": 14277473
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 14.8958333333333,
   "linkStrength": 0.0104166666666667,
   "linkDistance": 500,
-  "scale": 0.05932617187500009,
+  "scale": 0.030182895067324213,
   "close": false
 }
