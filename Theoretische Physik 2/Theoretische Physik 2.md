@@ -16,6 +16,8 @@
 	- [[5.1 Der Hilbertraum]]
 - **6 Die Postulate der Quantenmechanik**
 	- [[6.1 Die Postulate der Quantenmechanik]]
+- **7 Die Schrödingergleichung in einer Dimension**
+	- [[7.1 Allgemeine Konzepte]]
 
 %% End Waypoint %%
 

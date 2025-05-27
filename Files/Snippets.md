@@ -227,6 +227,7 @@
 	{trigger: "ket", replacement: "\\ket{$0} $1", options: "mA"},
 	{trigger: "brk", replacement: "\\braket{ $0 | $1 } $2", options: "mA"},
     {trigger: "outer", replacement: "\\ket{${0:\\psi}} \\bra{${0:\\psi}} $1", options: "mA"},
+	{trigger: "snt", replacement: "\\sum\\!\\!\\!\\!\\!\\!\\!\\!\\int", options: "mA"},
 
     // Chemistry
 	{trigger: "pu", replacement: "\\pu{ $0 }", options: "mA"},
