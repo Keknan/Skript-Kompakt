@@ -18,6 +18,7 @@
 	- [[6.1 Die Postulate der Quantenmechanik]]
 - **7 Die Schrödingergleichung in einer Dimension**
 	- [[7.1 Allgemeine Konzepte]]
+	- [[7.2 Stationäre Schrödingergleichung mit Potenzial]]
 
 %% End Waypoint %%
 
