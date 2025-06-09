@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Physik 2/5 Der Hilbertraum/5.1 Der Hilbertraum.md",
+                "file": "Theoretische Physik 2/7 Die Schrödingergleichung in einer Dimension/7.2 Stationäre Schrödingergleichung mit Potenzial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.1 Der Hilbertraum"
+              "title": "7.2 Stationäre Schrödingergleichung mit Potenzial"
             }
           }
         ]
@@ -179,10 +179,11 @@
   },
   "active": "927f05ca8e3979c0",
   "lastOpenFiles": [
+    "Files/Pasted image 20250609201647.png",
+    "Theoretische Physik 2/5 Der Hilbertraum/5.1 Der Hilbertraum.md",
     "Theoretische Physik 2/3 Nochmal die (Gedanken-)Experimente/3.2 Weitere Konzepte der Statistik.md",
     "Theoretische Physik 2/3 Nochmal die (Gedanken-)Experimente/3.1 Wahrscheinlichkeiten, Messwerte und Operatoren.md",
     "Theoretische Physik 2/2 Der N-dimensionale unitäre Raum/2.2 Fortgeschrittene Konzepte.md",
-    "Theoretische Physik 2/5 Der Hilbertraum/5.1 Der Hilbertraum.md",
     "Theoretische Physik 2/7 Die Schrödingergleichung in einer Dimension/7.1 Allgemeine Konzepte.md",
     "Theoretische Physik 2/7 Die Schrödingergleichung in einer Dimension/7.2 Stationäre Schrödingergleichung mit Potenzial.md",
     "Theoretische Physik 2/4 Wellenpakete und Schrödingergleichung/4.2 Wellenpakete in der Quantenmechanik.md",
@@ -222,7 +223,6 @@
     "Experimentalphysik 1/Mechanik/12. Mechanik fester Körper/12.1 Deformationen fester Körper.md",
     "Theoretische Physik 1/IV Spezielle Relativitätstheorie/18 Erhaltung des Viererimpulses/18.2 Relativistische Kollisionen.md",
     "Experimentalphysik 1/Mechanik/15. Wellen/15.2 Wellentypen, Wellenausbreitung.md",
-    "Experimentalphysik 1/Mechanik/15. Wellen/15.6 Dopplereffekt.md",
     "Theoretische Physik 1/IV Spezielle Relativitätstheorie/18 Erhaltung des Viererimpulses",
     "Theoretische Physik 1/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze"
   ]
