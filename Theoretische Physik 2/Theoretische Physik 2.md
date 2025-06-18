@@ -19,6 +19,8 @@
 - **7 Die Schrödingergleichung in einer Dimension**
 	- [[7.1 Allgemeine Konzepte]]
 	- [[7.2 Stationäre Schrödingergleichung mit Potenzial]]
+- **8 Der harmonische Oszillator**
+	- [[8.1 Der harmonische Oszillator]]
 
 %% End Waypoint %%
 

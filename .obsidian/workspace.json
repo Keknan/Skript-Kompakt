@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "927f05ca8e3979c0",
+            "id": "f5d0c8b5aa846429",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Physik 2/7 Die Schrödingergleichung in einer Dimension/7.2 Stationäre Schrödingergleichung mit Potenzial.md",
-                "mode": "source",
-                "source": false
+                "file": "Theoretische Physik 2/8 Der harmonische Oszillator/8.1 Der harmonische Oszillator.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "7.2 Stationäre Schrödingergleichung mit Potenzial"
+              "title": "8.1 Der harmonische Oszillator"
             }
           }
         ]
@@ -177,10 +177,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "927f05ca8e3979c0",
+  "active": "f5d0c8b5aa846429",
   "lastOpenFiles": [
-    "Theoretische Physik 2/7 Die Schrödingergleichung in einer Dimension/7.1 Allgemeine Konzepte.md",
+    "Theoretische Physik 2/8 Der harmonische Oszillator/8.1 Der harmonische Oszillator.md",
+    "README.md",
+    "Theoretische Physik 2/8 Der harmonische Oszillator",
     "Theoretische Physik 2/7 Die Schrödingergleichung in einer Dimension/7.2 Stationäre Schrödingergleichung mit Potenzial.md",
+    "Theoretische Physik 2/7 Die Schrödingergleichung in einer Dimension/7.1 Allgemeine Konzepte.md",
     "Files/Pasted image 20250618174936.png",
     "Files/Pasted image 20250610190643.png",
     "Files/Pasted image 20250610190339.png",
@@ -194,7 +197,6 @@
     "Theoretische Physik 2/6 Die Postulate der Quantenmechanik/6.1 Die Postulate der Quantenmechanik.md",
     "Files/Pasted image 20250603185402.png",
     "Files/Pasted image 20250603175736.png",
-    "README.md",
     "Theoretische Physik 2/7 Die Schrödingergleichung in einer Dimension",
     "Theoretische Physik 2/2 Der N-dimensionale unitäre Raum/2.1 Grundlagen und die Dirac-Notation.md",
     "Files/Snippets.md",
@@ -222,7 +224,6 @@
     "Experimentalphysik 1/Mechanik/12. Mechanik fester Körper/12.1 Deformationen fester Körper.md",
     "Theoretische Physik 1/IV Spezielle Relativitätstheorie/18 Erhaltung des Viererimpulses/18.2 Relativistische Kollisionen.md",
     "Experimentalphysik 1/Mechanik/15. Wellen/15.2 Wellentypen, Wellenausbreitung.md",
-    "Theoretische Physik 1/IV Spezielle Relativitätstheorie/18 Erhaltung des Viererimpulses",
-    "Theoretische Physik 1/IV Spezielle Relativitätstheorie/17 Kovarianz der physikalischen Gesetze"
+    "Theoretische Physik 1/IV Spezielle Relativitätstheorie/18 Erhaltung des Viererimpulses"
   ]
 }
