@@ -21,6 +21,8 @@
 	- [[7.2 Stationäre Schrödingergleichung mit Potenzial]]
 - **8 Der harmonische Oszillator**
 	- [[8.1 Der harmonische Oszillator]]
+- **9 Die Dynamik von Quantensystemen**
+	- [[9.1 Das Schrödingerbild]]
 
 %% End Waypoint %%
 
