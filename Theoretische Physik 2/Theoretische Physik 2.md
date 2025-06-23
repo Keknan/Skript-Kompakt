@@ -23,6 +23,7 @@
 	- [[8.1 Der harmonische Oszillator]]
 - **9 Die Dynamik von Quantensystemen**
 	- [[9.1 Das Schrödingerbild]]
+	- [[9.2 Das Heisenbergbild]]
 
 %% End Waypoint %%
 
