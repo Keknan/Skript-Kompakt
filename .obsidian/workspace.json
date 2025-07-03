@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "9.1 Das Schrödingerbild"
             }
+          },
+          {
+            "id": "4b084ffb53eb5b41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "linux"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,6 +160,16 @@
               "icon": "lucide-list",
               "title": "Outline of 1.1 Mengen und Mengenschreibweise"
             }
+          },
+          {
+            "id": "bc0afcfb22e639d7",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
         "currentTab": 1
@@ -167,8 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8d76ecfe8c336f5",
+  "active": "21d503e27084784f",
   "lastOpenFiles": [
+    "Theoretische Physik 2/9 Die Dynamik von Quantensystemen/9.1 Das Schrödingerbild.md",
+    "linux.md",
     "Theoretische Physik 2/9 Die Dynamik von Quantensystemen/9.2 Das Heisenbergbild.md",
     "Theoretische Physik 2/10 Elektromagnetische Felder/10.1 Grundlagen.md",
     "Theoretische Physik 2/7 Die Schrödingergleichung in einer Dimension/7.1 Allgemeine Konzepte.md",
@@ -177,7 +204,6 @@
     "Theoretische Physik 2/8 Der harmonische Oszillator/8.1 Der harmonische Oszillator.md",
     "README.md",
     "Theoretische Physik 2/10 Elektromagnetische Felder",
-    "Theoretische Physik 2/9 Die Dynamik von Quantensystemen/9.1 Das Schrödingerbild.md",
     "Theoretische Physik 2/3 Nochmal die (Gedanken-)Experimente/3.1 Wahrscheinlichkeiten, Messwerte und Operatoren.md",
     "Files/Pasted image 20250623194215.png",
     "Theoretische Physik 2/9 Die Dynamik von Quantensystemen",
@@ -213,7 +239,6 @@
     "Theoretische Physik 2/1 Zwei (Gedanken-) Experimente",
     "Theoretische Physik 1/Theoretische Physik I.md",
     "Theoretische Physik 2/2 Der N-dimensionale unitäre Raum/Theoretische Physik 2.md",
-    "Aufgabe 2, Vorarbeit.md",
     "Theoretische Physik 2/2 Der N-dimensionale unitäre Raum"
   ]
 }
