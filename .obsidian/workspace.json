@@ -145,6 +145,16 @@
               "icon": "lucide-list",
               "title": "Outline of 1.1 Mengen und Mengenschreibweise"
             }
+          },
+          {
+            "id": "bc0afcfb22e639d7",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
         "currentTab": 1
@@ -167,10 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8d76ecfe8c336f5",
+  "active": "21d503e27084784f",
   "lastOpenFiles": [
-    "linux.md",
     "Theoretische Physik 2/9 Die Dynamik von Quantensystemen/9.1 Das Schrödingerbild.md",
+    "linux.md",
     "Theoretische Physik 2/9 Die Dynamik von Quantensystemen/9.2 Das Heisenbergbild.md",
     "Theoretische Physik 2/10 Elektromagnetische Felder/10.1 Grundlagen.md",
     "Theoretische Physik 2/7 Die Schrödingergleichung in einer Dimension/7.1 Allgemeine Konzepte.md",
