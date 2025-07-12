@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 14277473
       }
+    },
+    {
+      "query": "path:\"Experimentalphysik 4\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2985498
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +60,6 @@
   "repelStrength": 14.8958333333333,
   "linkStrength": 0.0104166666666667,
   "linkDistance": 500,
-  "scale": 0.08317427835927563,
+  "scale": 0.11724204430828376,
   "close": false
 }

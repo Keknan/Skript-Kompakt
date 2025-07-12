@@ -16,6 +16,10 @@
 	- [[2.6 Masse von Atomen]]
 	- [[2.7 Massenspektroskopie]]
 	- [[2.8 Durchgang von Elektronen durch Materie]]
+	- [[2.9 Quantenstruktur der Atome]]
+- **3 Quantenmechanik**
+	- [[3.1 Die Schrödingergleichung]]
+	- [[3.2 Teilchen im kugelsymmetrischen Potential]]
 - [[Notiz von Keknan]]
 
 %% End Waypoint %%
