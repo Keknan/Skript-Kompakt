@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7711742b129fea56",
+            "id": "ea682bbf3b6043ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik 4/3 Quantenmechanik/3.2 Teilchen im kugelsymmetrischen Potential.md",
+                "file": "Experimentalphysik 4/4 Das Wasserstoffatom/4.6 Relativistische Kontur.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2 Teilchen im kugelsymmetrischen Potential"
+              "title": "4.6 Relativistische Kontur"
+            }
+          },
+          {
+            "id": "1f1be2cdc1a63ff3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experimentalphysik 4/4 Das Wasserstoffatom/4.4 Der (normale) Zeeman-Effekt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.4 Der (normale) Zeeman-Effekt"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.8 Durchgang von Elektronen durch Materie.md",
+                "file": "Experimentalphysik III/Quantenphysik/7 Grundlagen der Quantenmechanik/7.1 Grundlegende Experimente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2.8 Durchgang von Elektronen durch Materie"
+              "title": "Outgoing links from 7.1 Grundlegende Experimente"
             }
           },
           {
@@ -145,6 +160,16 @@
               "icon": "lucide-list",
               "title": "Outline of 1.1 Mengen und Mengenschreibweise"
             }
+          },
+          {
+            "id": "bc0afcfb22e639d7",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
         "currentTab": 1
@@ -156,58 +181,59 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7711742b129fea56",
+  "active": "1f1be2cdc1a63ff3",
   "lastOpenFiles": [
-    "Experimentalphysik 4/3 Quantenmechanik/3.1 Die Schrödingergleichung.md",
-    "Files/Pasted image 20250710221040.png",
+    "Experimentalphysik 4/4 Das Wasserstoffatom/4.5 Das Wasserstoffspektrum bei sehr hoher Auflösung.md",
     "Experimentalphysik 4/3 Quantenmechanik/3.2 Teilchen im kugelsymmetrischen Potential.md",
-    "Files/Pasted image 20250710215842.png",
-    "Files/Pasted image 20250710215326.png",
-    "Files/Pasted image 20250710212735.png",
-    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.4 Beobachtung einzelner Atome.md",
-    "Files/Pasted image 20250710204625.png",
-    "Files/Pasted image 20250710204051.png",
-    "Files/Pasted image 20250710203127.png",
-    "Files/Pasted image 20250710202422.png",
-    "Files/Pasted image 20250710201419.png",
-    "Files/Pasted image 20250710201059.png",
-    "Theoretische Physik 2/7 Die Schrödingergleichung in einer Dimension/7.2 Stationäre Schrödingergleichung mit Potenzial.md",
-    "Theoretische Physik 2/7 Die Schrödingergleichung in einer Dimension/7.1 Allgemeine Konzepte.md",
-    "Theoretische Physik 2/4 Wellenpakete und Schrödingergleichung/4.1 Wellenpakete in der Elektrodynamik.md",
-    "Theoretische Physik 2/4 Wellenpakete und Schrödingergleichung/4.2 Wellenpakete in der Quantenmechanik.md",
-    "Experimentalphysik 1/Experimentalphysik 1.md",
-    "README.md",
-    "Experimentalphysik 4/3 Quantenmechanik",
-    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.9 Quantenstruktur der Atome.md",
+    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.8 Durchgang von Elektronen durch Materie.md",
+    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.6 Masse von Atomen.md",
+    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.5 Elektrische Struktur von Atomen.md",
     "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.3 Größe der Atome.md",
     "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.2 Hinweise auf die Existenz von Atomen.md",
-    "Theoretische Physik 2/10 Elektromagnetische Felder/10.1 Grundlagen.md",
-    "Experimentalphysik 1/Mechanik/13. Mechanik von Flüssigkeiten und Gasen/13.1 Mechanik ruhender Flüssigkeiten und Gase.md",
-    "Experimentalphysik 1/Mechanik/9. Vielteilchensysteme und Stöße/9.8 Elastischer 2-Teilchen-Stoß (UNFINISHED).md",
-    "Experimentalphysik 1/Mechanik/9. Vielteilchensysteme und Stöße/9.5 Spezialfall; 2-Teilchen-System.md",
-    "Experimentalphysik 1/Mechanik/9. Vielteilchensysteme und Stöße/9.4 Erhaltungssätze für N-Teilchen-Systeme.md",
-    "Experimentalphysik 1/Mechanik/9. Vielteilchensysteme und Stöße/9.3 Linear- und Drehbewegung.md",
-    "Experimentalphysik 1/Mechanik/9. Vielteilchensysteme und Stöße/9.2 Labor-und Schwerpunktsystem.md",
-    "Experimentalphysik 1/Mechanik/9. Vielteilchensysteme und Stöße/9.1 Schwerpunktsatz.md",
-    "Experimentalphysik 1/Mechanik/10. Himmelsmechanik/10.3 Das Effektive Gravitationspotential.md",
-    "Experimentalphysik 1/Mechanik/10. Himmelsmechanik/10.2 Planetenbewegung.md",
-    "Experimentalphysik 1/Mechanik/10. Himmelsmechanik/10.1 Newton'sche Gravitationstheorie.md",
-    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.8 Durchgang von Elektronen durch Materie.md",
-    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.1 Die Atome.md",
+    "Experimentalphysik 4/1 Einführung/1.4 Die Quantenwelt.md",
+    "Experimentalphysik 4/1 Einführung/1.5 Historische Entwicklung.md",
+    "Experimentalphysik 4/4 Das Wasserstoffatom/4.2 Energieniveaus des Wasserstoffatoms.md",
+    "Experimentalphysik 4/4 Das Wasserstoffatom/4.7 Elektronenspin.md",
+    "Experimentalphysik 4/4 Das Wasserstoffatom/4.6 Relativistische Kontur.md",
+    "Experimentalphysik 4/3 Quantenmechanik/3.1 Die Schrödingergleichung.md",
+    "Theoretische Physik 2/8 Der harmonische Oszillator/8.1 Der harmonische Oszillator.md",
+    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.9 Quantenstruktur der Atome.md",
+    "Experimentalphysik 4/3 Quantenmechanik/3.5 Der Drehimpuls.md",
+    "Experimentalphysik 4/4 Das Wasserstoffatom/4.3 Elektronenorbitale im Wasserstoffatom.md",
+    "Experimentalphysik 4/4 Das Wasserstoffatom/4.1 Schrödingergleichung des Wasserstoffatoms.md",
+    "Experimentalphysik 4/4 Das Wasserstoffatom/4.4 Der (normale) Zeeman-Effekt.md",
+    "Files/Pasted image 20250713220955.png",
+    "Files/Pasted image 20250713220357.png",
+    "Files/Pasted image 20250713220327.png",
+    "Files/Pasted image 20250713203612.png",
+    "Files/Pasted image 20250713202822.png",
+    "Files/Pasted image 20250713200253.png",
+    "Files/Pasted image 20250713192542.png",
+    "Files/Pasted image 20250713183731.png",
+    "Files/Pasted image 20250713183116.png",
+    "Files/Pasted image 20250713182843.png",
+    "Experimentalphysik 4/3 Quantenmechanik/3.4 Erwartungswerte und Operatoren.md",
+    "Experimentalphysik 4/3 Quantenmechanik/3.3 Die Kugelflächenfunktionen.md",
+    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.7 Massenspektroskopie.md",
+    "Experimentalphysik 4/4 Das Wasserstoffatom",
+    "Experimentalphysik 4/Experimentalphysik 4.md",
+    "Theoretische Physik 2/9 Die Dynamik von Quantensystemen/9.1 Das Schrödingerbild.md",
+    "Experimentalphysik 4/Notiz von Keknan.md",
+    "Experimentalphysik 4/3 Quantenmechanik",
+    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.4 Beobachtung einzelner Atome.md",
     "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen",
     "Experimentalphysik 4/1 Einführung",
-    "Untitled",
     "Experimentalphysik 4",
     "Theoretische Physik 2/10 Elektromagnetische Felder",
     "Theoretische Physik 2/9 Die Dynamik von Quantensystemen",
