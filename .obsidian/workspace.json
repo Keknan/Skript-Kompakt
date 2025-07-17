@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "29b2333eb4ffe810",
+        "id": "86cf3582d965feae",
         "type": "tabs",
         "children": [
           {
-            "id": "ea682bbf3b6043ca",
+            "id": "cb9a722512272ec8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik 4/4 Das Wasserstoffatom/4.6 Relativistische Kontur.md",
-                "mode": "source",
+                "file": "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.13 Drehimpulskopplungen.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.6 Relativistische Kontur"
-            }
-          },
-          {
-            "id": "1f1be2cdc1a63ff3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experimentalphysik 4/4 Das Wasserstoffatom/4.4 Der (normale) Zeeman-Effekt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.4 Der (normale) Zeeman-Effekt"
+              "title": "5.13 Drehimpulskopplungen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,53 +177,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f1be2cdc1a63ff3",
+  "active": "cb9a722512272ec8",
   "lastOpenFiles": [
-    "Experimentalphysik 4/4 Das Wasserstoffatom/4.5 Das Wasserstoffspektrum bei sehr hoher Auflösung.md",
-    "Experimentalphysik 4/3 Quantenmechanik/3.2 Teilchen im kugelsymmetrischen Potential.md",
+    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.13 Drehimpulskopplungen.md",
+    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.12 Die Spektren von Mehrelektronatomen.md",
+    "Files/Pasted image 20250717205237.png",
+    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.11 Berechnung von Mehrelektronatomen.md",
+    "Files/Pasted image 20250717204432.png",
+    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.10 Wasserstoff- und Natrium-Spektrum.md",
+    "Files/Pasted image 20250717200239.png",
+    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.9 Alkaliatome.md",
+    "Files/Pasted image 20250717200209.png",
+    "Files/Pasted image 20250717194819.png",
+    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.8 Das Periodensystem der Elemente.md",
+    "Files/Pasted image 20250717194516.png",
+    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.7 Aufbau der Elektronenhülle der Atome.md",
+    "Files/Pasted image 20250717192202.png",
+    "Files/Pasted image 20250717191807.png",
+    "Files/Pasted image 20250717190705.png",
+    "Files/Pasted image 20250717190651.png",
+    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.6 Das Heliumspektrum.md",
+    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.5 Termschema des Helium-Atoms.md",
+    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.3 Berücksichtigung des Spins.md",
+    "Experimentalphysik 4/4 Das Wasserstoffatom/4.8 Feinstruktur.md",
+    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.4 Das Pauli-Prinzip.md",
+    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.2 Ununterscheidbare Teilchen.md",
+    "Experimentalphysik 4/Notiz von Keknan.md",
+    "Experimentalphysik 4/4 Das Wasserstoffatom/4.10 Hyperfeinstruktur.md",
+    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.1 Das Heliumatom.md",
+    "Experimentalphysik 4/4 Das Wasserstoffatom/4.13 Das Korrespondenzprinzip.md",
+    "Experimentalphysik 4/5 Atome mit mehreren Elektronen",
+    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.9 Quantenstruktur der Atome.md",
     "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.8 Durchgang von Elektronen durch Materie.md",
+    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.7 Massenspektroskopie.md",
     "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.6 Masse von Atomen.md",
     "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.5 Elektrische Struktur von Atomen.md",
+    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.4 Beobachtung einzelner Atome.md",
     "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.3 Größe der Atome.md",
     "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.2 Hinweise auf die Existenz von Atomen.md",
-    "Experimentalphysik 4/1 Einführung/1.4 Die Quantenwelt.md",
-    "Experimentalphysik 4/1 Einführung/1.5 Historische Entwicklung.md",
-    "Experimentalphysik 4/4 Das Wasserstoffatom/4.2 Energieniveaus des Wasserstoffatoms.md",
-    "Experimentalphysik 4/4 Das Wasserstoffatom/4.7 Elektronenspin.md",
-    "Experimentalphysik 4/4 Das Wasserstoffatom/4.6 Relativistische Kontur.md",
-    "Experimentalphysik 4/3 Quantenmechanik/3.1 Die Schrödingergleichung.md",
-    "Theoretische Physik 2/8 Der harmonische Oszillator/8.1 Der harmonische Oszillator.md",
-    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.9 Quantenstruktur der Atome.md",
-    "Experimentalphysik 4/3 Quantenmechanik/3.5 Der Drehimpuls.md",
-    "Experimentalphysik 4/4 Das Wasserstoffatom/4.3 Elektronenorbitale im Wasserstoffatom.md",
-    "Experimentalphysik 4/4 Das Wasserstoffatom/4.1 Schrödingergleichung des Wasserstoffatoms.md",
-    "Experimentalphysik 4/4 Das Wasserstoffatom/4.4 Der (normale) Zeeman-Effekt.md",
-    "Files/Pasted image 20250713220955.png",
-    "Files/Pasted image 20250713220357.png",
-    "Files/Pasted image 20250713220327.png",
-    "Files/Pasted image 20250713203612.png",
-    "Files/Pasted image 20250713202822.png",
-    "Files/Pasted image 20250713200253.png",
-    "Files/Pasted image 20250713192542.png",
-    "Files/Pasted image 20250713183731.png",
-    "Files/Pasted image 20250713183116.png",
-    "Files/Pasted image 20250713182843.png",
-    "Experimentalphysik 4/3 Quantenmechanik/3.4 Erwartungswerte und Operatoren.md",
-    "Experimentalphysik 4/3 Quantenmechanik/3.3 Die Kugelflächenfunktionen.md",
-    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.7 Massenspektroskopie.md",
+    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.1 Die Atome.md",
     "Experimentalphysik 4/4 Das Wasserstoffatom",
-    "Experimentalphysik 4/Experimentalphysik 4.md",
-    "Theoretische Physik 2/9 Die Dynamik von Quantensystemen/9.1 Das Schrödingerbild.md",
-    "Experimentalphysik 4/Notiz von Keknan.md",
     "Experimentalphysik 4/3 Quantenmechanik",
-    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.4 Beobachtung einzelner Atome.md",
     "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen",
     "Experimentalphysik 4/1 Einführung",
     "Experimentalphysik 4",
     "Theoretische Physik 2/10 Elektromagnetische Felder",
     "Theoretische Physik 2/9 Die Dynamik von Quantensystemen",
     "Theoretische Physik 2/8 Der harmonische Oszillator",
-    "Theoretische Physik 2/7 Die Schrödingergleichung in einer Dimension",
-    "Theoretische Physik 2/6 Die Postulate der Quantenmechanik"
+    "Theoretische Physik 2/7 Die Schrödingergleichung in einer Dimension"
   ]
 }
