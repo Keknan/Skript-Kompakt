@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb9a722512272ec8",
+            "id": "db996ebfd1313979",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.13 Drehimpulskopplungen.md",
-                "mode": "preview",
+                "file": "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.18 Positronium.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.13 Drehimpulskopplungen"
+              "title": "5.18 Positronium"
+            }
+          },
+          {
+            "id": "4d43ab82433192e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experimentalphysik 4/6 Atome und Strahlung/6.1 Emission und Absorption von Strahlung durch Atome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.1 Emission und Absorption von Strahlung durch Atome"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,25 +192,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb9a722512272ec8",
+  "active": "4d43ab82433192e3",
   "lastOpenFiles": [
+    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.18 Positronium.md",
+    "Experimentalphysik 4/6 Atome und Strahlung/6.1 Emission und Absorption von Strahlung durch Atome.md",
+    "Experimentalphysik 4/6 Atome und Strahlung",
+    "Files/Pasted image 20250718012919.png",
+    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.17 Antiwasserstoff.md",
+    "Files/Pasted image 20250718012433.png",
+    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.16 Exotische Atome.md",
+    "Files/Pasted image 20250718012130.png",
+    "Files/Pasted image 20250718012049.png",
+    "Files/Pasted image 20250718011910.png",
+    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.15 Rydbergzustände.md",
+    "Files/Pasted image 20250718011507.png",
+    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.14 Angeregte Atomzustände.md",
+    "Files/Pasted image 20250718010807.png",
+    "Files/Pasted image 20250718010521.png",
     "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.13 Drehimpulskopplungen.md",
+    "Files/Pasted image 20250718005552.png",
+    "Files/Pasted image 20250717212806.png",
     "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.12 Die Spektren von Mehrelektronatomen.md",
-    "Files/Pasted image 20250717205237.png",
     "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.11 Berechnung von Mehrelektronatomen.md",
-    "Files/Pasted image 20250717204432.png",
     "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.10 Wasserstoff- und Natrium-Spektrum.md",
-    "Files/Pasted image 20250717200239.png",
     "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.9 Alkaliatome.md",
-    "Files/Pasted image 20250717200209.png",
-    "Files/Pasted image 20250717194819.png",
     "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.8 Das Periodensystem der Elemente.md",
-    "Files/Pasted image 20250717194516.png",
     "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.7 Aufbau der Elektronenhülle der Atome.md",
-    "Files/Pasted image 20250717192202.png",
-    "Files/Pasted image 20250717191807.png",
-    "Files/Pasted image 20250717190705.png",
-    "Files/Pasted image 20250717190651.png",
     "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.6 Das Heliumspektrum.md",
     "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.5 Termschema des Helium-Atoms.md",
     "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.3 Berücksichtigung des Spins.md",
@@ -210,12 +232,6 @@
     "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.9 Quantenstruktur der Atome.md",
     "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.8 Durchgang von Elektronen durch Materie.md",
     "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.7 Massenspektroskopie.md",
-    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.6 Masse von Atomen.md",
-    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.5 Elektrische Struktur von Atomen.md",
-    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.4 Beobachtung einzelner Atome.md",
-    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.3 Größe der Atome.md",
-    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.2 Hinweise auf die Existenz von Atomen.md",
-    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.1 Die Atome.md",
     "Experimentalphysik 4/4 Das Wasserstoffatom",
     "Experimentalphysik 4/3 Quantenmechanik",
     "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen",
@@ -223,7 +239,6 @@
     "Experimentalphysik 4",
     "Theoretische Physik 2/10 Elektromagnetische Felder",
     "Theoretische Physik 2/9 Die Dynamik von Quantensystemen",
-    "Theoretische Physik 2/8 Der harmonische Oszillator",
-    "Theoretische Physik 2/7 Die Schrödingergleichung in einer Dimension"
+    "Theoretische Physik 2/8 Der harmonische Oszillator"
   ]
 }
