@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "86cf3582d965feae",
+        "id": "a2833f0eefcc023b",
         "type": "tabs",
         "children": [
           {
-            "id": "db996ebfd1313979",
+            "id": "ab1a77f887e312e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.18 Positronium.md",
+                "file": "Experimentalphysik 4/7 LASER/7.3 Erzeugung der Besetzungsinversion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.18 Positronium"
-            }
-          },
-          {
-            "id": "4d43ab82433192e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experimentalphysik 4/6 Atome und Strahlung/6.1 Emission und Absorption von Strahlung durch Atome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.1 Emission und Absorption von Strahlung durch Atome"
+              "title": "7.3 Erzeugung der Besetzungsinversion"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,53 +177,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d43ab82433192e3",
+  "active": "ab1a77f887e312e4",
   "lastOpenFiles": [
-    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.18 Positronium.md",
+    "Experimentalphysik 4/7 LASER/7.2 Die Schwellwert-Bedingung.md",
+    "Experimentalphysik 4/7 LASER/7.3 Erzeugung der Besetzungsinversion.md",
+    "Files/Pasted image 20250719184715.png",
+    "Files/Pasted image 20250719183952.png",
+    "Files/Pasted image 20250719183121.png",
+    "Files/Pasted image 20250719182343.png",
+    "Experimentalphysik 4/6 Atome und Strahlung/6.11 Absorption und Streuung von Photonen.md",
+    "Experimentalphysik 4/6 Atome und Strahlung/6.2 Übergangswahrscheinlichkeit.md",
     "Experimentalphysik 4/6 Atome und Strahlung/6.1 Emission und Absorption von Strahlung durch Atome.md",
-    "Experimentalphysik 4/6 Atome und Strahlung",
-    "Files/Pasted image 20250718012919.png",
+    "Experimentalphysik 4/7 LASER/7.1 Das LASER-Prinzip.md",
+    "Files/Pasted image 20250719181909.png",
+    "Files/Pasted image 20250719181900.png",
+    "Files/Pasted image 20250719181844.png",
+    "Experimentalphysik 4/6 Atome und Strahlung/6.8 Stoß-Verbreiterung.md",
+    "Experimentalphysik 4/6 Atome und Strahlung/6.7 Doppler-Verbreiterung.md",
+    "Experimentalphysik 4/6 Atome und Strahlung/6.6 Natürliche Linienbreite.md",
+    "Experimentalphysik 4/6 Atome und Strahlung/6.5 Breite der Spektrallinien.md",
+    "Experimentalphysik 4/6 Atome und Strahlung/6.3 Auswahlregeln.md",
+    "Experimentalphysik 4/7 LASER",
+    "Files/Pasted image 20250719172320.png",
+    "Files/Pasted image 20250719171944.png",
+    "Files/Pasted image 20250719171659.png",
+    "Experimentalphysik 4/6 Atome und Strahlung/6.10 Röntgenstrahlung.md",
+    "Experimentalphysik 4/6 Atome und Strahlung/6.9 Kontinuierliche Spektren.md",
+    "Experimentalphysik 4/6 Atome und Strahlung/6.4 Lebensdauer angeregter Zustände.md",
     "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.17 Antiwasserstoff.md",
-    "Files/Pasted image 20250718012433.png",
-    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.16 Exotische Atome.md",
-    "Files/Pasted image 20250718012130.png",
-    "Files/Pasted image 20250718012049.png",
-    "Files/Pasted image 20250718011910.png",
-    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.15 Rydbergzustände.md",
-    "Files/Pasted image 20250718011507.png",
-    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.14 Angeregte Atomzustände.md",
-    "Files/Pasted image 20250718010807.png",
-    "Files/Pasted image 20250718010521.png",
-    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.13 Drehimpulskopplungen.md",
-    "Files/Pasted image 20250718005552.png",
-    "Files/Pasted image 20250717212806.png",
-    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.12 Die Spektren von Mehrelektronatomen.md",
-    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.11 Berechnung von Mehrelektronatomen.md",
-    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.10 Wasserstoff- und Natrium-Spektrum.md",
-    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.9 Alkaliatome.md",
-    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.8 Das Periodensystem der Elemente.md",
-    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.7 Aufbau der Elektronenhülle der Atome.md",
-    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.6 Das Heliumspektrum.md",
-    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.5 Termschema des Helium-Atoms.md",
-    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.3 Berücksichtigung des Spins.md",
-    "Experimentalphysik 4/4 Das Wasserstoffatom/4.8 Feinstruktur.md",
-    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.4 Das Pauli-Prinzip.md",
-    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.2 Ununterscheidbare Teilchen.md",
-    "Experimentalphysik 4/Notiz von Keknan.md",
-    "Experimentalphysik 4/4 Das Wasserstoffatom/4.10 Hyperfeinstruktur.md",
-    "Experimentalphysik 4/5 Atome mit mehreren Elektronen/5.1 Das Heliumatom.md",
-    "Experimentalphysik 4/4 Das Wasserstoffatom/4.13 Das Korrespondenzprinzip.md",
+    "Experimentalphysik 4/3 Quantenmechanik/3.2 Teilchen im kugelsymmetrischen Potential.md",
+    "Experimentalphysik 4/4 Das Wasserstoffatom/4.1 Schrödingergleichung des Wasserstoffatoms.md",
+    "Experimentalphysik 4/4 Das Wasserstoffatom/4.2 Energieniveaus des Wasserstoffatoms.md",
+    "Experimentalphysik 4/3 Quantenmechanik/3.5 Der Drehimpuls.md",
+    "Experimentalphysik 4/3 Quantenmechanik/3.4 Erwartungswerte und Operatoren.md",
+    "Experimentalphysik 4/4 Das Wasserstoffatom/4.12 Zusammenfassung.md",
+    "Experimentalphysik 4/4 Das Wasserstoffatom/4.6 Relativistische Kontur.md",
+    "Experimentalphysik 4/4 Das Wasserstoffatom/4.5 Das Wasserstoffspektrum bei sehr hoher Auflösung.md",
+    "Experimentalphysik 4/4 Das Wasserstoffatom/4.4 Der (normale) Zeeman-Effekt.md",
+    "Experimentalphysik 4/4 Das Wasserstoffatom/4.3 Elektronenorbitale im Wasserstoffatom.md",
+    "Experimentalphysik 4/4 Das Wasserstoffatom/4.7 Elektronenspin.md",
+    "Experimentalphysik 4/6 Atome und Strahlung",
     "Experimentalphysik 4/5 Atome mit mehreren Elektronen",
-    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.9 Quantenstruktur der Atome.md",
-    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.8 Durchgang von Elektronen durch Materie.md",
-    "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen/2.7 Massenspektroskopie.md",
     "Experimentalphysik 4/4 Das Wasserstoffatom",
     "Experimentalphysik 4/3 Quantenmechanik",
     "Experimentalphysik 4/2 Eigenschaften und Struktur von Atomen",
     "Experimentalphysik 4/1 Einführung",
     "Experimentalphysik 4",
     "Theoretische Physik 2/10 Elektromagnetische Felder",
-    "Theoretische Physik 2/9 Die Dynamik von Quantensystemen",
-    "Theoretische Physik 2/8 Der harmonische Oszillator"
+    "Theoretische Physik 2/9 Die Dynamik von Quantensystemen"
   ]
 }
