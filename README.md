@@ -1,2 +1,1 @@
-Diese Notizen stammen von einem Studenten an der RWTH Aachen und sind Zusammenfassungen der Experimentalphysik I,II,III Skripte, die unter allen Umständen der RWTH Aachen gehören.
-Diese Notizen sollen Verständnislücken erklären können, dort wo das Skript mangelt, aber das Skript NICHT ersetzen. Die Verteilung des Skriptes, abgesehen von einer Verteilung innerhalb des Studienganges "Physik B. Sc. SoSe 25, ist untersagt.
+Notizen von einem überarbeiteten Studenten an der RWTH im Fach Physik. Privates repository, welches nicht für eigene Zwecke verwendet werden darf, da es Notizen zu den gelisteten Modulen sind. TL:DR; ich will kein Geld für Obsidian sync ausgeben.
